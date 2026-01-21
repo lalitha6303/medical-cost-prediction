@@ -1,0 +1,2323 @@
+Disease,Treatment,Age,Smoker,Region,Hospital,Cost,Length_of_Stay,ICU_Needed
+Heart Disease,Angioplasty,45,No,central,Private,28125.0,12,No
+Diabetes,Insulin Therapy,60,No,north,Gov,2200.0,1,No
+Fractured Arm,X-Ray and Splint,32,No,east,Gov,522.5,3,No
+Stroke,CT Scan and Medication,75,No,south,Private,22443.75,9,Yes
+Cancer,Surgery and Chemotherapy,50,No,central,Private,59062.5,9,Yes
+Hypertension,Medication and Counseling,68,No,north,Gov,1210.0,3,No
+Appendicitis,Appendectomy,55,No,south,Gov,8360.0,3,No
+Fractured Leg,Cast and Physical Therapy,40,No,central,Gov,3300.0,3,No
+Heart Attack,Cardiac Catheterization,70,No,south,Gov,32319.0,8,Yes
+Allergic Reaction,Epinephrine Injection,25,No,central,Gov,110.0,3,No
+Respiratory Infection,Antibiotics and Rest,48,No,south,Gov,760.0,1,No
+Prostate Cancer,Radiation Therapy,65,No,south,Gov,19000.0,1,No
+Childbirth,Delivery and Postnatal Care,30,No,west,Gov,14520.0,2,No
+Kidney Stones,Lithotripsy,52,No,east,Gov,6270.0,3,No
+Osteoarthritis,Physical Therapy and Pain Management,58,No,north,Gov,4840.0,3,No
+Heart Disease,Angioplasty,55,Yes,south,Private,25650.0,6,No
+Diabetes,Insulin Therapy,62,No,west,Gov,2200.0,1,No
+Fractured Arm,X-Ray and Splint,35,No,west,Gov,605.0,2,No
+Stroke,CT Scan and Medication,78,No,east,Private,22443.75,10,Yes
+Cancer,Surgery and Chemotherapy,53,No,east,Private,56109.38,7,Yes
+Hypertension,Medication and Counseling,72,No,central,Gov,1100.0,2,No
+Appendicitis,Appendectomy,60,No,central,Gov,8800.0,3,No
+Fractured Leg,Cast and Physical Therapy,45,No,north,Gov,3630.0,3,No
+Heart Attack,Cardiac Catheterization,75,No,east,Gov,25650.0,13,No
+Allergic Reaction,Epinephrine Injection,28,No,central,Gov,100.0,1,No
+Respiratory Infection,Antibiotics and Rest,52,No,north,Gov,880.0,1,No
+Prostate Cancer,Radiation Therapy,67,Yes,south,Gov,25080.0,3,No
+Childbirth,Delivery and Postnatal Care,35,No,west,Gov,14520.0,2,No
+Kidney Stones,Lithotripsy,50,No,east,Gov,6270.0,3,No
+Osteoarthritis,Physical Therapy and Pain Management,60,Yes,west,Gov,5808.0,3,No
+Heart Disease,Angioplasty,48,No,south,Private,33665.62,10,Yes
+Diabetes,Insulin Therapy,65,No,west,Gov,2420.0,3,No
+Fractured Arm,X-Ray and Splint,30,No,west,Gov,605.0,2,No
+Stroke,CT Scan and Medication,70,Yes,central,Private,22500.0,12,No
+Cancer,Surgery and Chemotherapy,55,No,west,Private,46406.25,7,No
+Hypertension,Medication and Counseling,68,No,west,Gov,1210.0,3,No
+Appendicitis,Appendectomy,45,No,west,Gov,10560.0,4,No
+Fractured Leg,Cast and Physical Therapy,40,No,east,Gov,3135.0,2,No
+Heart Attack,Cardiac Catheterization,78,No,central,Gov,24300.0,7,No
+Allergic Reaction,Epinephrine Injection,25,No,south,Gov,104.5,3,No
+Respiratory Infection,Antibiotics and Rest,52,No,north,Gov,968.0,3,No
+Prostate Cancer,Radiation Therapy,58,No,west,Gov,24200.0,2,No
+Childbirth,Delivery and Postnatal Care,32,No,south,Gov,12540.0,2,No
+Kidney Stones,Lithotripsy,55,No,central,Gov,7200.0,5,No
+Osteoarthritis,Physical Therapy and Pain Management,65,Yes,west,Gov,5280.0,1,No
+Heart Disease,Angioplasty,55,No,east,Private,33665.62,7,Yes
+Diabetes,Insulin Therapy,62,Yes,north,Gov,2904.0,2,No
+Fractured Arm,X-Ray and Splint,35,Yes,east,Gov,627.0,3,No
+Stroke,CT Scan and Medication,78,No,east,Private,24937.5,11,Yes
+Cancer,Surgery and Chemotherapy,53,No,north,Private,64968.75,8,Yes
+Hypertension,Medication and Counseling,72,No,central,Gov,1100.0,3,No
+Appendicitis,Appendectomy,60,No,west,Gov,10560.0,5,No
+Fractured Leg,Cast and Physical Therapy,45,No,north,Gov,3300.0,1,No
+Heart Attack,Cardiac Catheterization,75,No,central,Gov,21600.0,5,No
+Allergic Reaction,Epinephrine Injection,28,Yes,central,Gov,132.0,3,No
+Respiratory Infection,Antibiotics and Rest,52,No,north,Gov,968.0,3,No
+Prostate Cancer,Radiation Therapy,67,Yes,central,Gov,24000.0,1,No
+Childbirth,Delivery and Postnatal Care,35,Yes,east,Gov,15048.0,2,No
+Kidney Stones,Lithotripsy,50,No,central,Gov,6600.0,2,No
+Heart Disease,Angioplasty,48,No,central,Private,35437.5,9,Yes
+Diabetes,Insulin Therapy,65,No,west,Gov,2200.0,1,No
+Fractured Arm,X-Ray and Splint,30,No,west,Gov,550.0,1,No
+Stroke,CT Scan and Medication,70,No,east,Private,19950.0,5,Yes
+Cancer,Surgery and Chemotherapy,55,No,north,Private,57750.0,6,Yes
+Hypertension,Medication and Counseling,68,No,north,Gov,1210.0,3,No
+Appendicitis,Appendectomy,45,No,east,Gov,9120.0,5,No
+Fractured Leg,Cast and Physical Therapy,40,No,central,Gov,3000.0,1,No
+Heart Attack,Cardiac Catheterization,78,No,central,Gov,37800.0,12,Yes
+Allergic Reaction,Epinephrine Injection,25,No,central,Gov,100.0,1,No
+Respiratory Infection,Antibiotics and Rest,52,No,east,Gov,836.0,3,No
+Prostate Cancer,Radiation Therapy,58,Yes,west,Gov,26400.0,1,No
+Childbirth,Delivery and Postnatal Care,32,Yes,south,Gov,16416.0,5,No
+Kidney Stones,Lithotripsy,55,No,central,Gov,6600.0,2,No
+Osteoarthritis,Physical Therapy and Pain Management,65,Yes,south,Gov,5016.0,3,No
+Heart Disease,Angioplasty,55,No,north,Private,38981.25,7,Yes
+Diabetes,Insulin Therapy,62,Yes,west,Gov,2904.0,3,No
+Fractured Arm,X-Ray and Splint,35,No,east,Gov,522.5,3,No
+Stroke,CT Scan and Medication,78,Yes,south,Private,26932.5,9,Yes
+Cancer,Surgery and Chemotherapy,53,No,north,Private,46406.25,10,No
+Hypertension,Medication and Counseling,72,No,west,Gov,1210.0,2,No
+Appendicitis,Appendectomy,60,Yes,central,Gov,11520.0,4,No
+Fractured Leg,Cast and Physical Therapy,45,No,central,Gov,3300.0,3,No
+Heart Attack,Cardiac Catheterization,75,No,south,Gov,23085.0,8,No
+Allergic Reaction,Epinephrine Injection,28,No,east,Gov,104.5,2,No
+Respiratory Infection,Antibiotics and Rest,52,No,north,Gov,968.0,3,No
+Prostate Cancer,Radiation Therapy,67,No,north,Gov,24200.0,3,No
+Childbirth,Delivery and Postnatal Care,35,Yes,west,Gov,17424.0,3,No
+Kidney Stones,Lithotripsy,50,No,north,Gov,7260.0,3,No
+Osteoarthritis,Physical Therapy and Pain Management,60,No,north,Gov,4840.0,3,No
+Heart Disease,Angioplasty,48,No,central,Private,35437.5,9,Yes
+Diabetes,Insulin Therapy,65,No,east,Gov,2090.0,3,No
+Fractured Arm,X-Ray and Splint,30,No,east,Gov,475.0,1,No
+Stroke,CT Scan and Medication,70,Yes,west,Private,22275.0,9,No
+Cancer,Surgery and Chemotherapy,55,Yes,south,Private,53437.5,11,No
+Hypertension,Medication and Counseling,68,Yes,west,Gov,1452.0,2,No
+Appendicitis,Appendectomy,45,Yes,central,Gov,10560.0,3,No
+Fractured Leg,Cast and Physical Therapy,40,No,south,Gov,3135.0,3,No
+Heart Attack,Cardiac Catheterization,78,No,south,Gov,32319.0,10,Yes
+Allergic Reaction,Epinephrine Injection,25,No,east,Gov,95.0,1,No
+Respiratory Infection,Antibiotics and Rest,52,No,south,Gov,760.0,1,No
+Prostate Cancer,Radiation Therapy,58,No,west,Gov,24200.0,2,No
+Childbirth,Delivery and Postnatal Care,32,No,north,Gov,15840.0,5,No
+Kidney Stones,Lithotripsy,55,No,south,Gov,6840.0,5,No
+Osteoarthritis,Physical Therapy and Pain Management,65,Yes,north,Gov,5280.0,1,No
+Heart Disease,Angioplasty,55,No,south,Private,33665.62,10,Yes
+Diabetes,Insulin Therapy,62,No,north,Gov,2420.0,2,No
+Fractured Arm,X-Ray and Splint,35,Yes,east,Gov,570.0,1,No
+Stroke,CT Scan and Medication,78,No,south,Private,16031.25,10,No
+Cancer,Surgery and Chemotherapy,53,No,east,Private,56109.38,10,Yes
+Hypertension,Medication and Counseling,72,No,west,Gov,1100.0,1,No
+Appendicitis,Appendectomy,60,No,west,Gov,9680.0,3,No
+Fractured Leg,Cast and Physical Therapy,45,No,north,Gov,3300.0,1,No
+Heart Attack,Cardiac Catheterization,75,Yes,north,Gov,44906.4,9,Yes
+Allergic Reaction,Epinephrine Injection,28,No,south,Gov,95.0,1,No
+Respiratory Infection,Antibiotics and Rest,52,No,central,Gov,880.0,3,No
+Prostate Cancer,Radiation Therapy,67,No,north,Gov,22000.0,1,No
+Childbirth,Delivery and Postnatal Care,35,Yes,south,Gov,15048.0,3,No
+Kidney Stones,Lithotripsy,50,No,west,Gov,7920.0,4,No
+Osteoarthritis,Physical Therapy and Pain Management,60,No,central,Gov,4400.0,3,No
+Diabetes,Insulin Therapy,65,Yes,west,Gov,2640.0,1,No
+Fractured Arm,X-Ray and Splint,30,No,south,Gov,522.5,2,No
+Stroke,CT Scan and Medication,70,No,north,Private,18562.5,9,No
+Cancer,Surgery and Chemotherapy,55,No,west,Private,57750.0,6,Yes
+Hypertension,Medication and Counseling,68,No,central,Gov,1100.0,2,No
+Appendicitis,Appendectomy,45,No,south,Gov,8360.0,2,No
+Fractured Leg,Cast and Physical Therapy,40,No,central,Gov,3000.0,1,No
+Heart Attack,Cardiac Catheterization,78,No,central,Gov,34020.0,8,Yes
+Allergic Reaction,Epinephrine Injection,25,No,east,Gov,104.5,2,No
+Respiratory Infection,Antibiotics and Rest,52,No,south,Gov,760.0,1,No
+Prostate Cancer,Radiation Therapy,58,No,south,Gov,20900.0,3,No
+Childbirth,Delivery and Postnatal Care,32,No,north,Gov,14520.0,3,No
+Kidney Stones,Lithotripsy,55,No,west,Gov,7260.0,3,No
+Osteoarthritis,Physical Therapy and Pain Management,65,No,south,Gov,4180.0,3,No
+Heart Disease,Angioplasty,55,Yes,east,Private,44887.5,13,Yes
+Diabetes,Insulin Therapy,62,No,central,Gov,2200.0,2,No
+Fractured Arm,X-Ray and Splint,35,No,north,Gov,605.0,2,No
+Stroke,CT Scan and Medication,78,No,east,Private,16031.25,9,No
+Cancer,Surgery and Chemotherapy,53,No,south,Private,49875.0,5,Yes
+Hypertension,Medication and Counseling,72,No,west,Gov,1210.0,2,No
+Appendicitis,Appendectomy,60,No,west,Gov,9680.0,3,No
+Fractured Leg,Cast and Physical Therapy,45,No,south,Gov,3135.0,2,No
+Heart Attack,Cardiac Catheterization,75,Yes,east,Gov,43092.0,12,Yes
+Allergic Reaction,Epinephrine Injection,28,Yes,central,Gov,132.0,3,No
+Respiratory Infection,Antibiotics and Rest,52,Yes,central,Gov,1056.0,2,No
+Prostate Cancer,Radiation Therapy,67,No,south,Gov,20900.0,3,No
+Childbirth,Delivery and Postnatal Care,35,No,south,Gov,12540.0,2,No
+Kidney Stones,Lithotripsy,50,No,east,Gov,6840.0,4,No
+Osteoarthritis,Physical Therapy and Pain Management,60,No,east,Gov,3800.0,1,No
+Heart Disease,Angioplasty,48,No,south,Private,26718.75,11,No
+Diabetes,Insulin Therapy,65,Yes,east,Gov,2508.0,3,No
+Fractured Arm,X-Ray and Splint,30,No,central,Gov,550.0,2,No
+Stroke,CT Scan and Medication,70,No,south,Private,22443.75,9,Yes
+Cancer,Surgery and Chemotherapy,55,Yes,west,Private,77962.5,8,Yes
+Hypertension,Medication and Counseling,68,No,north,Gov,1210.0,2,No
+Appendicitis,Appendectomy,45,No,west,Gov,9680.0,2,No
+Fractured Leg,Cast and Physical Therapy,40,No,south,Gov,2850.0,1,No
+Heart Attack,Cardiac Catheterization,78,Yes,north,Gov,44906.4,8,Yes
+Allergic Reaction,Epinephrine Injection,25,No,central,Gov,110.0,2,No
+Respiratory Infection,Antibiotics and Rest,52,No,west,Gov,880.0,1,No
+Prostate Cancer,Radiation Therapy,58,No,north,Gov,24200.0,2,No
+Childbirth,Delivery and Postnatal Care,32,No,north,Gov,14520.0,3,No
+Kidney Stones,Lithotripsy,55,No,east,Gov,6840.0,4,No
+Osteoarthritis,Physical Therapy and Pain Management,65,No,central,Gov,4000.0,1,No
+Heart Disease,Angioplasty,55,No,north,Private,27843.75,10,No
+Diabetes,Insulin Therapy,62,No,central,Gov,2200.0,3,No
+Fractured Arm,X-Ray and Splint,35,Yes,central,Gov,660.0,3,No
+Stroke,CT Scan and Medication,78,No,east,Private,24937.5,11,Yes
+Cancer,Surgery and Chemotherapy,53,Yes,south,Private,67331.25,10,Yes
+Hypertension,Medication and Counseling,72,No,south,Gov,1045.0,2,No
+Appendicitis,Appendectomy,60,No,east,Gov,8360.0,3,No
+Fractured Leg,Cast and Physical Therapy,45,No,central,Gov,3300.0,3,No
+Heart Attack,Cardiac Catheterization,75,No,west,Gov,26730.0,10,No
+Allergic Reaction,Epinephrine Injection,28,Yes,east,Gov,114.0,1,No
+Respiratory Infection,Antibiotics and Rest,52,No,south,Gov,836.0,2,No
+Prostate Cancer,Radiation Therapy,67,No,west,Gov,24200.0,3,No
+Childbirth,Delivery and Postnatal Care,35,Yes,north,Gov,19008.0,5,No
+Kidney Stones,Lithotripsy,50,No,north,Gov,7260.0,2,No
+Osteoarthritis,Physical Therapy and Pain Management,60,No,east,Gov,4180.0,2,No
+Heart Disease,Angioplasty,48,Yes,east,Private,44887.5,12,Yes
+Fractured Arm,X-Ray and Splint,30,No,south,Gov,475.0,1,No
+Stroke,CT Scan and Medication,70,Yes,north,Private,31185.0,10,Yes
+Cancer,Surgery and Chemotherapy,55,No,central,Private,59062.5,10,Yes
+Hypertension,Medication and Counseling,68,No,north,Gov,1210.0,2,No
+Appendicitis,Appendectomy,45,Yes,north,Gov,11616.0,3,No
+Fractured Leg,Cast and Physical Therapy,40,No,west,Gov,3630.0,2,No
+Heart Attack,Cardiac Catheterization,78,No,central,Gov,34020.0,10,Yes
+Allergic Reaction,Epinephrine Injection,25,Yes,west,Gov,145.2,3,No
+Respiratory Infection,Antibiotics and Rest,52,No,south,Gov,836.0,2,No
+Prostate Cancer,Radiation Therapy,58,No,south,Gov,20900.0,2,No
+Childbirth,Delivery and Postnatal Care,32,No,north,Gov,14520.0,2,No
+Kidney Stones,Lithotripsy,55,Yes,east,Gov,8208.0,4,No
+Osteoarthritis,Physical Therapy and Pain Management,65,No,north,Gov,4400.0,1,No
+Heart Disease,Angioplasty,55,No,west,Private,30937.5,11,No
+Diabetes,Insulin Therapy,62,Yes,west,Gov,2640.0,1,No
+Fractured Arm,X-Ray and Splint,35,No,central,Gov,550.0,3,No
+Stroke,CT Scan and Medication,78,No,south,Private,24937.5,11,Yes
+Cancer,Surgery and Chemotherapy,53,No,east,Private,40078.12,7,No
+Hypertension,Medication and Counseling,72,No,east,Gov,1045.0,3,No
+Appendicitis,Appendectomy,60,No,central,Gov,8800.0,3,No
+Fractured Leg,Cast and Physical Therapy,45,No,east,Gov,2850.0,1,No
+Heart Attack,Cardiac Catheterization,75,No,north,Gov,37422.0,9,Yes
+Allergic Reaction,Epinephrine Injection,28,No,north,Gov,121.0,2,No
+Respiratory Infection,Antibiotics and Rest,52,Yes,south,Gov,1003.2,3,No
+Prostate Cancer,Radiation Therapy,67,No,central,Gov,20000.0,1,No
+Childbirth,Delivery and Postnatal Care,35,No,north,Gov,15840.0,5,No
+Kidney Stones,Lithotripsy,50,No,west,Gov,7920.0,4,No
+Osteoarthritis,Physical Therapy and Pain Management,60,No,north,Gov,4840.0,2,No
+Heart Disease,Angioplasty,48,Yes,west,Private,33412.5,8,No
+Diabetes,Insulin Therapy,65,Yes,central,Gov,2400.0,1,No
+Fractured Arm,X-Ray and Splint,30,Yes,north,Gov,660.0,1,No
+Stroke,CT Scan and Medication,70,No,south,Private,24937.5,11,Yes
+Cancer,Surgery and Chemotherapy,55,Yes,west,Private,77962.5,10,Yes
+Hypertension,Medication and Counseling,68,No,east,Gov,950.0,1,No
+Appendicitis,Appendectomy,45,No,south,Gov,8360.0,3,No
+Fractured Leg,Cast and Physical Therapy,40,Yes,east,Gov,3762.0,3,No
+Heart Attack,Cardiac Catheterization,78,No,north,Gov,29700.0,11,No
+Allergic Reaction,Epinephrine Injection,25,No,west,Gov,121.0,3,No
+Respiratory Infection,Antibiotics and Rest,52,No,south,Gov,836.0,2,No
+Prostate Cancer,Radiation Therapy,58,No,west,Gov,24200.0,3,No
+Childbirth,Delivery and Postnatal Care,32,No,central,Gov,13200.0,2,No
+Kidney Stones,Lithotripsy,55,Yes,east,Gov,7524.0,2,No
+Osteoarthritis,Physical Therapy and Pain Management,65,No,west,Gov,4400.0,1,No
+Heart Disease,Angioplasty,55,No,north,Private,43312.5,12,Yes
+Diabetes,Insulin Therapy,62,No,central,Gov,2200.0,2,No
+Fractured Arm,X-Ray and Splint,35,No,west,Gov,605.0,3,No
+Stroke,CT Scan and Medication,78,No,north,Private,28875.0,11,Yes
+Cancer,Surgery and Chemotherapy,53,Yes,east,Private,59850.0,6,Yes
+Hypertension,Medication and Counseling,72,No,east,Gov,1045.0,3,No
+Appendicitis,Appendectomy,60,No,south,Gov,8360.0,2,No
+Fractured Leg,Cast and Physical Therapy,45,No,east,Gov,2850.0,1,No
+Heart Attack,Cardiac Catheterization,75,No,central,Gov,34020.0,9,Yes
+Allergic Reaction,Epinephrine Injection,28,Yes,north,Gov,145.2,3,No
+Respiratory Infection,Antibiotics and Rest,52,No,west,Gov,968.0,2,No
+Prostate Cancer,Radiation Therapy,67,No,north,Gov,22000.0,1,No
+Childbirth,Delivery and Postnatal Care,35,Yes,north,Gov,19008.0,4,No
+Kidney Stones,Lithotripsy,50,No,east,Gov,6840.0,5,No
+Osteoarthritis,Physical Therapy and Pain Management,60,No,south,Gov,3800.0,1,No
+Heart Disease,Angioplasty,48,No,east,Private,21375.0,6,No
+Diabetes,Insulin Therapy,65,No,north,Gov,2420.0,3,No
+Stroke,CT Scan and Medication,70,No,south,Private,24937.5,13,Yes
+Cancer,Surgery and Chemotherapy,55,No,east,Private,62343.75,12,Yes
+Hypertension,Medication and Counseling,68,No,central,Gov,1000.0,1,No
+Appendicitis,Appendectomy,45,No,south,Gov,9120.0,4,No
+Fractured Leg,Cast and Physical Therapy,40,Yes,west,Gov,4356.0,2,No
+Heart Attack,Cardiac Catheterization,78,No,east,Gov,32319.0,9,Yes
+Allergic Reaction,Epinephrine Injection,25,No,north,Gov,121.0,3,No
+Respiratory Infection,Antibiotics and Rest,52,No,central,Gov,880.0,2,No
+Prostate Cancer,Radiation Therapy,58,No,north,Gov,22000.0,1,No
+Childbirth,Delivery and Postnatal Care,32,No,east,Gov,13680.0,4,No
+Kidney Stones,Lithotripsy,55,Yes,west,Gov,8712.0,3,No
+Osteoarthritis,Physical Therapy and Pain Management,65,Yes,north,Gov,5808.0,3,No
+Heart Disease,Angioplasty,55,No,north,Private,38981.25,10,Yes
+Diabetes,Insulin Therapy,62,No,west,Gov,2420.0,3,No
+Fractured Arm,X-Ray and Splint,35,Yes,north,Gov,726.0,3,No
+Stroke,CT Scan and Medication,78,Yes,central,Private,20250.0,9,No
+Cancer,Surgery and Chemotherapy,53,No,south,Private,49875.0,6,Yes
+Hypertension,Medication and Counseling,72,No,west,Gov,1100.0,1,No
+Appendicitis,Appendectomy,60,Yes,west,Gov,12672.0,4,No
+Fractured Leg,Cast and Physical Therapy,45,No,central,Gov,3300.0,2,No
+Heart Attack,Cardiac Catheterization,75,No,east,Gov,35910.0,11,Yes
+Allergic Reaction,Epinephrine Injection,28,No,north,Gov,121.0,2,No
+Respiratory Infection,Antibiotics and Rest,52,No,north,Gov,968.0,2,No
+Prostate Cancer,Radiation Therapy,67,Yes,east,Gov,25080.0,3,No
+Childbirth,Delivery and Postnatal Care,35,No,central,Gov,14400.0,5,No
+Kidney Stones,Lithotripsy,50,Yes,west,Gov,8712.0,2,No
+Osteoarthritis,Physical Therapy and Pain Management,60,Yes,north,Gov,5808.0,2,No
+Heart Disease,Angioplasty,48,No,west,Private,34650.0,5,Yes
+Diabetes,Insulin Therapy,65,No,south,Gov,1900.0,1,No
+Fractured Arm,X-Ray and Splint,30,Yes,central,Gov,660.0,3,No
+Stroke,CT Scan and Medication,70,No,south,Private,19950.0,6,Yes
+Cancer,Surgery and Chemotherapy,55,No,north,Private,57750.0,6,Yes
+Hypertension,Medication and Counseling,68,No,west,Gov,1210.0,3,No
+Appendicitis,Appendectomy,45,No,north,Gov,9680.0,3,No
+Fractured Leg,Cast and Physical Therapy,40,No,north,Gov,3300.0,1,No
+Heart Attack,Cardiac Catheterization,78,No,central,Gov,24300.0,9,No
+Allergic Reaction,Epinephrine Injection,25,No,west,Gov,121.0,3,No
+Respiratory Infection,Antibiotics and Rest,52,No,east,Gov,836.0,3,No
+Prostate Cancer,Radiation Therapy,58,No,central,Gov,22000.0,2,No
+Childbirth,Delivery and Postnatal Care,32,No,north,Gov,14520.0,2,No
+Kidney Stones,Lithotripsy,55,Yes,central,Gov,8640.0,5,No
+Osteoarthritis,Physical Therapy and Pain Management,65,Yes,central,Gov,4800.0,1,No
+Heart Disease,Angioplasty,55,No,central,Private,39375.0,11,Yes
+Diabetes,Insulin Therapy,62,Yes,central,Gov,2400.0,1,No
+Fractured Arm,X-Ray and Splint,35,Yes,west,Gov,660.0,1,No
+Stroke,CT Scan and Medication,78,Yes,north,Private,24750.0,11,No
+Cancer,Surgery and Chemotherapy,53,Yes,west,Private,86625.0,12,Yes
+Hypertension,Medication and Counseling,72,No,east,Gov,1045.0,3,No
+Appendicitis,Appendectomy,60,Yes,east,Gov,10944.0,4,No
+Fractured Leg,Cast and Physical Therapy,45,No,north,Gov,3630.0,3,No
+Heart Attack,Cardiac Catheterization,75,No,east,Gov,23085.0,9,No
+Respiratory Infection,Antibiotics and Rest,52,No,west,Gov,880.0,1,No
+Prostate Cancer,Radiation Therapy,67,No,central,Gov,22000.0,2,No
+Childbirth,Delivery and Postnatal Care,35,Yes,east,Gov,16416.0,4,No
+Kidney Stones,Lithotripsy,50,No,west,Gov,7920.0,4,No
+Osteoarthritis,Physical Therapy and Pain Management,60,Yes,east,Gov,5016.0,3,No
+Heart Disease,Angioplasty,48,No,south,Private,37406.25,11,Yes
+Diabetes,Insulin Therapy,65,No,west,Gov,2200.0,1,No
+Fractured Arm,X-Ray and Splint,30,No,south,Gov,522.5,3,No
+Stroke,CT Scan and Medication,70,Yes,west,Private,31185.0,10,Yes
+Cancer,Surgery and Chemotherapy,55,No,south,Private,56109.38,10,Yes
+Hypertension,Medication and Counseling,68,No,east,Gov,1045.0,2,No
+Appendicitis,Appendectomy,45,No,west,Gov,10560.0,5,No
+Fractured Leg,Cast and Physical Therapy,40,Yes,east,Gov,3762.0,3,No
+Heart Attack,Cardiac Catheterization,78,Yes,west,Gov,44906.4,7,Yes
+Allergic Reaction,Epinephrine Injection,25,No,east,Gov,104.5,2,No
+Respiratory Infection,Antibiotics and Rest,52,Yes,north,Gov,1161.6,3,No
+Prostate Cancer,Radiation Therapy,58,No,north,Gov,22000.0,1,No
+Childbirth,Delivery and Postnatal Care,32,No,west,Gov,14520.0,3,No
+Kidney Stones,Lithotripsy,55,No,central,Gov,7200.0,5,No
+Osteoarthritis,Physical Therapy and Pain Management,65,No,central,Gov,4400.0,2,No
+Heart Disease,Angioplasty,55,Yes,north,Private,33412.5,7,No
+Diabetes,Insulin Therapy,62,No,west,Gov,2200.0,1,No
+Fractured Arm,X-Ray and Splint,35,Yes,south,Gov,627.0,3,No
+Stroke,CT Scan and Medication,78,No,west,Private,18562.5,10,No
+Cancer,Surgery and Chemotherapy,53,No,west,Private,41250.0,6,No
+Hypertension,Medication and Counseling,72,No,north,Gov,1210.0,3,No
+Appendicitis,Appendectomy,60,No,central,Gov,9600.0,4,No
+Fractured Leg,Cast and Physical Therapy,45,No,south,Gov,3135.0,3,No
+Heart Attack,Cardiac Catheterization,75,No,west,Gov,37422.0,8,Yes
+Allergic Reaction,Epinephrine Injection,28,No,south,Gov,104.5,2,No
+Respiratory Infection,Antibiotics and Rest,52,Yes,central,Gov,1056.0,3,No
+Prostate Cancer,Radiation Therapy,67,No,north,Gov,24200.0,3,No
+Childbirth,Delivery and Postnatal Care,35,No,south,Gov,13680.0,4,No
+Kidney Stones,Lithotripsy,50,No,central,Gov,6600.0,2,No
+Osteoarthritis,Physical Therapy and Pain Management,60,No,south,Gov,4180.0,3,No
+Heart Disease,Angioplasty,48,No,west,Private,34650.0,5,Yes
+Diabetes,Insulin Therapy,65,No,north,Gov,2420.0,2,No
+Fractured Arm,X-Ray and Splint,30,No,central,Gov,500.0,1,No
+Stroke,CT Scan and Medication,70,No,south,Private,22443.75,8,Yes
+Cancer,Surgery and Chemotherapy,55,No,central,Private,42187.5,7,No
+Hypertension,Medication and Counseling,68,No,east,Gov,1045.0,3,No
+Appendicitis,Appendectomy,45,Yes,north,Gov,11616.0,3,No
+Fractured Leg,Cast and Physical Therapy,40,No,south,Gov,3135.0,2,No
+Heart Attack,Cardiac Catheterization,78,No,south,Gov,35910.0,12,Yes
+Allergic Reaction,Epinephrine Injection,25,Yes,central,Gov,132.0,2,No
+Respiratory Infection,Antibiotics and Rest,52,No,east,Gov,760.0,1,No
+Prostate Cancer,Radiation Therapy,58,No,north,Gov,24200.0,3,No
+Childbirth,Delivery and Postnatal Care,32,Yes,north,Gov,17424.0,3,No
+Kidney Stones,Lithotripsy,55,Yes,central,Gov,8640.0,5,No
+Osteoarthritis,Physical Therapy and Pain Management,65,No,north,Gov,4400.0,1,No
+Heart Disease,Angioplasty,55,No,south,Private,33665.62,9,Yes
+Diabetes,Insulin Therapy,62,Yes,north,Gov,2640.0,1,No
+Fractured Arm,X-Ray and Splint,35,No,west,Gov,550.0,1,No
+Stroke,CT Scan and Medication,78,No,north,Private,25987.5,10,Yes
+Cancer,Surgery and Chemotherapy,53,No,central,Private,59062.5,10,Yes
+Hypertension,Medication and Counseling,72,Yes,central,Gov,1320.0,3,No
+Appendicitis,Appendectomy,60,No,central,Gov,9600.0,5,No
+Fractured Leg,Cast and Physical Therapy,45,No,west,Gov,3630.0,3,No
+Heart Attack,Cardiac Catheterization,75,No,north,Gov,41580.0,13,Yes
+Allergic Reaction,Epinephrine Injection,28,Yes,central,Gov,132.0,2,No
+Prostate Cancer,Radiation Therapy,67,No,east,Gov,19000.0,1,No
+Childbirth,Delivery and Postnatal Care,35,Yes,west,Gov,19008.0,4,No
+Kidney Stones,Lithotripsy,50,No,south,Gov,6840.0,4,No
+Osteoarthritis,Physical Therapy and Pain Management,60,No,north,Gov,4840.0,2,No
+Heart Disease,Angioplasty,48,No,north,Private,30937.5,11,No
+Diabetes,Insulin Therapy,65,No,west,Gov,2420.0,2,No
+Fractured Arm,X-Ray and Splint,30,No,east,Gov,475.0,1,No
+Stroke,CT Scan and Medication,70,No,central,Private,26250.0,13,Yes
+Cancer,Surgery and Chemotherapy,55,Yes,east,Private,74812.5,12,Yes
+Hypertension,Medication and Counseling,68,No,central,Gov,1100.0,2,No
+Appendicitis,Appendectomy,45,Yes,north,Gov,11616.0,2,No
+Fractured Leg,Cast and Physical Therapy,40,No,central,Gov,3000.0,1,No
+Heart Attack,Cardiac Catheterization,78,Yes,central,Gov,40824.0,9,Yes
+Allergic Reaction,Epinephrine Injection,25,No,central,Gov,100.0,1,No
+Respiratory Infection,Antibiotics and Rest,52,No,south,Gov,836.0,2,No
+Prostate Cancer,Radiation Therapy,58,Yes,west,Gov,29040.0,3,No
+Childbirth,Delivery and Postnatal Care,32,No,central,Gov,13200.0,3,No
+Kidney Stones,Lithotripsy,55,No,central,Gov,6600.0,3,No
+Osteoarthritis,Physical Therapy and Pain Management,65,No,central,Gov,4000.0,1,No
+Heart Disease,Angioplasty,55,Yes,central,Private,47250.0,11,Yes
+Diabetes,Insulin Therapy,62,No,south,Gov,2090.0,2,No
+Fractured Arm,X-Ray and Splint,35,No,south,Gov,522.5,2,No
+Stroke,CT Scan and Medication,78,No,north,Private,25987.5,7,Yes
+Cancer,Surgery and Chemotherapy,53,Yes,south,Private,42750.0,5,No
+Hypertension,Medication and Counseling,72,No,central,Gov,1000.0,1,No
+Appendicitis,Appendectomy,60,No,south,Gov,9120.0,4,No
+Fractured Leg,Cast and Physical Therapy,45,No,central,Gov,3000.0,1,No
+Heart Attack,Cardiac Catheterization,75,No,east,Gov,35910.0,11,Yes
+Allergic Reaction,Epinephrine Injection,28,No,central,Gov,110.0,3,No
+Respiratory Infection,Antibiotics and Rest,52,Yes,north,Gov,1161.6,2,No
+Prostate Cancer,Radiation Therapy,67,No,north,Gov,24200.0,3,No
+Childbirth,Delivery and Postnatal Care,35,No,south,Gov,12540.0,2,No
+Kidney Stones,Lithotripsy,50,No,south,Gov,6840.0,4,No
+Osteoarthritis,Physical Therapy and Pain Management,60,No,north,Gov,4840.0,2,No
+Heart Disease,Angioplasty,48,No,west,Private,30937.5,12,No
+Diabetes,Insulin Therapy,65,Yes,central,Gov,2400.0,1,No
+Fractured Arm,X-Ray and Splint,30,Yes,west,Gov,726.0,3,No
+Stroke,CT Scan and Medication,70,Yes,south,Private,29925.0,12,Yes
+Cancer,Surgery and Chemotherapy,55,No,north,Private,64968.75,9,Yes
+Hypertension,Medication and Counseling,68,No,south,Gov,950.0,1,No
+Appendicitis,Appendectomy,45,No,east,Gov,9120.0,5,No
+Fractured Leg,Cast and Physical Therapy,40,No,west,Gov,3630.0,2,No
+Heart Attack,Cardiac Catheterization,78,Yes,west,Gov,49896.0,12,Yes
+Allergic Reaction,Epinephrine Injection,25,No,west,Gov,121.0,3,No
+Respiratory Infection,Antibiotics and Rest,52,Yes,west,Gov,1161.6,3,No
+Prostate Cancer,Radiation Therapy,58,No,south,Gov,19000.0,1,No
+Childbirth,Delivery and Postnatal Care,32,Yes,north,Gov,17424.0,2,No
+Kidney Stones,Lithotripsy,55,No,west,Gov,7260.0,2,No
+Osteoarthritis,Physical Therapy and Pain Management,65,No,east,Gov,4180.0,2,No
+Heart Disease,Angioplasty,55,No,south,Private,26718.75,13,No
+Diabetes,Insulin Therapy,62,No,south,Gov,2090.0,2,No
+Fractured Arm,X-Ray and Splint,35,No,central,Gov,550.0,3,No
+Stroke,CT Scan and Medication,78,No,central,Private,26250.0,13,Yes
+Cancer,Surgery and Chemotherapy,53,No,east,Private,62343.75,11,Yes
+Hypertension,Medication and Counseling,72,Yes,north,Gov,1452.0,2,No
+Appendicitis,Appendectomy,60,No,north,Gov,10560.0,4,No
+Fractured Leg,Cast and Physical Therapy,45,No,north,Gov,3630.0,3,No
+Heart Attack,Cardiac Catheterization,75,Yes,west,Gov,44906.4,9,Yes
+Allergic Reaction,Epinephrine Injection,28,No,south,Gov,95.0,1,No
+Respiratory Infection,Antibiotics and Rest,52,No,south,Gov,836.0,3,No
+Childbirth,Delivery and Postnatal Care,35,No,west,Gov,15840.0,4,No
+Kidney Stones,Lithotripsy,50,Yes,north,Gov,9504.0,5,No
+Osteoarthritis,Physical Therapy and Pain Management,60,Yes,east,Gov,5016.0,2,No
+Heart Disease,Angioplasty,48,No,south,Private,29925.0,6,Yes
+Diabetes,Insulin Therapy,65,Yes,west,Gov,2640.0,1,No
+Fractured Arm,X-Ray and Splint,30,No,east,Gov,475.0,1,No
+Stroke,CT Scan and Medication,70,Yes,south,Private,21375.0,11,No
+Cancer,Surgery and Chemotherapy,55,Yes,west,Private,86625.0,13,Yes
+Hypertension,Medication and Counseling,68,No,central,Gov,1100.0,2,No
+Appendicitis,Appendectomy,45,No,south,Gov,9120.0,4,No
+Fractured Leg,Cast and Physical Therapy,40,No,north,Gov,3630.0,3,No
+Heart Attack,Cardiac Catheterization,78,No,west,Gov,29700.0,11,No
+Allergic Reaction,Epinephrine Injection,25,No,central,Gov,110.0,3,No
+Respiratory Infection,Antibiotics and Rest,52,Yes,south,Gov,912.0,1,No
+Prostate Cancer,Radiation Therapy,58,Yes,east,Gov,25080.0,3,No
+Childbirth,Delivery and Postnatal Care,32,Yes,north,Gov,17424.0,3,No
+Kidney Stones,Lithotripsy,55,No,east,Gov,6270.0,2,No
+Osteoarthritis,Physical Therapy and Pain Management,65,No,north,Gov,4400.0,1,No
+Heart Disease,Angioplasty,55,No,south,Private,21375.0,5,No
+Diabetes,Insulin Therapy,62,No,west,Gov,2200.0,1,No
+Fractured Arm,X-Ray and Splint,35,No,west,Gov,605.0,3,No
+Stroke,CT Scan and Medication,78,No,north,Private,25987.5,10,Yes
+Cancer,Surgery and Chemotherapy,53,Yes,east,Private,53437.5,11,No
+Hypertension,Medication and Counseling,72,No,central,Gov,1100.0,2,No
+Appendicitis,Appendectomy,60,No,east,Gov,9120.0,5,No
+Fractured Leg,Cast and Physical Therapy,45,No,east,Gov,3135.0,2,No
+Heart Attack,Cardiac Catheterization,75,No,south,Gov,25650.0,13,No
+Allergic Reaction,Epinephrine Injection,28,No,east,Gov,95.0,1,No
+Respiratory Infection,Antibiotics and Rest,52,Yes,east,Gov,1003.2,3,No
+Prostate Cancer,Radiation Therapy,67,No,north,Gov,22000.0,1,No
+Childbirth,Delivery and Postnatal Care,35,No,central,Gov,14400.0,4,No
+Kidney Stones,Lithotripsy,50,No,west,Gov,7920.0,4,No
+Osteoarthritis,Physical Therapy and Pain Management,60,No,east,Gov,4180.0,2,No
+Heart Disease,Angioplasty,48,Yes,east,Private,40398.75,9,Yes
+Diabetes,Insulin Therapy,65,No,west,Gov,2420.0,2,No
+Fractured Arm,X-Ray and Splint,30,No,east,Gov,522.5,2,No
+Stroke,CT Scan and Medication,70,Yes,south,Private,21375.0,13,No
+Cancer,Surgery and Chemotherapy,55,Yes,central,Private,78750.0,12,Yes
+Hypertension,Medication and Counseling,68,Yes,central,Gov,1200.0,1,No
+Appendicitis,Appendectomy,45,No,south,Gov,8360.0,2,No
+Fractured Leg,Cast and Physical Therapy,40,No,south,Gov,3135.0,3,No
+Heart Attack,Cardiac Catheterization,78,Yes,north,Gov,32076.0,10,No
+Allergic Reaction,Epinephrine Injection,25,No,south,Gov,104.5,3,No
+Respiratory Infection,Antibiotics and Rest,52,No,central,Gov,880.0,3,No
+Prostate Cancer,Radiation Therapy,58,No,east,Gov,20900.0,2,No
+Childbirth,Delivery and Postnatal Care,32,No,east,Gov,12540.0,2,No
+Kidney Stones,Lithotripsy,55,No,south,Gov,6270.0,3,No
+Osteoarthritis,Physical Therapy and Pain Management,65,No,east,Gov,4180.0,3,No
+Heart Disease,Angioplasty,55,No,north,Private,24750.0,5,No
+Diabetes,Insulin Therapy,62,No,west,Gov,2420.0,3,No
+Fractured Arm,X-Ray and Splint,35,Yes,west,Gov,660.0,1,No
+Stroke,CT Scan and Medication,78,No,north,Private,25987.5,7,Yes
+Cancer,Surgery and Chemotherapy,53,Yes,south,Private,74812.5,13,Yes
+Hypertension,Medication and Counseling,72,No,south,Gov,1045.0,2,No
+Appendicitis,Appendectomy,60,Yes,central,Gov,11520.0,5,No
+Fractured Leg,Cast and Physical Therapy,45,No,east,Gov,2850.0,1,No
+Heart Attack,Cardiac Catheterization,75,No,west,Gov,29700.0,12,No
+Allergic Reaction,Epinephrine Injection,28,No,west,Gov,110.0,1,No
+Respiratory Infection,Antibiotics and Rest,52,Yes,south,Gov,1003.2,3,No
+Prostate Cancer,Radiation Therapy,67,Yes,south,Gov,25080.0,3,No
+Kidney Stones,Lithotripsy,50,Yes,south,Gov,7524.0,2,No
+Osteoarthritis,Physical Therapy and Pain Management,60,No,west,Gov,4840.0,3,No
+Heart Disease,Angioplasty,48,Yes,north,Private,37125.0,11,No
+Diabetes,Insulin Therapy,65,No,central,Gov,2200.0,2,No
+Fractured Arm,X-Ray and Splint,30,Yes,west,Gov,726.0,2,No
+Stroke,CT Scan and Medication,70,Yes,central,Private,28350.0,7,Yes
+Cancer,Surgery and Chemotherapy,55,Yes,east,Private,53437.5,12,No
+Hypertension,Medication and Counseling,68,No,south,Gov,1045.0,3,No
+Appendicitis,Appendectomy,45,Yes,west,Gov,12672.0,4,No
+Fractured Leg,Cast and Physical Therapy,40,No,north,Gov,3630.0,3,No
+Heart Attack,Cardiac Catheterization,78,No,north,Gov,37422.0,9,Yes
+Allergic Reaction,Epinephrine Injection,25,No,south,Gov,104.5,3,No
+Respiratory Infection,Antibiotics and Rest,52,No,south,Gov,760.0,1,No
+Prostate Cancer,Radiation Therapy,58,Yes,east,Gov,22800.0,1,No
+Childbirth,Delivery and Postnatal Care,32,No,north,Gov,14520.0,3,No
+Kidney Stones,Lithotripsy,55,No,east,Gov,6270.0,3,No
+Osteoarthritis,Physical Therapy and Pain Management,65,Yes,east,Gov,5016.0,3,No
+Heart Disease,Angioplasty,55,No,north,Private,27843.75,10,No
+Diabetes,Insulin Therapy,62,No,west,Gov,2420.0,3,No
+Fractured Arm,X-Ray and Splint,35,No,east,Gov,522.5,3,No
+Stroke,CT Scan and Medication,78,No,central,Private,16875.0,8,No
+Cancer,Surgery and Chemotherapy,53,No,west,Private,46406.25,9,No
+Hypertension,Medication and Counseling,72,No,central,Gov,1100.0,2,No
+Appendicitis,Appendectomy,60,Yes,east,Gov,10944.0,5,No
+Fractured Leg,Cast and Physical Therapy,45,Yes,east,Gov,3420.0,1,No
+Heart Attack,Cardiac Catheterization,75,No,east,Gov,32319.0,7,Yes
+Allergic Reaction,Epinephrine Injection,28,Yes,central,Gov,132.0,3,No
+Respiratory Infection,Antibiotics and Rest,52,No,north,Gov,880.0,1,No
+Prostate Cancer,Radiation Therapy,67,No,west,Gov,24200.0,2,No
+Childbirth,Delivery and Postnatal Care,35,No,east,Gov,13680.0,4,No
+Kidney Stones,Lithotripsy,50,No,north,Gov,7920.0,4,No
+Osteoarthritis,Physical Therapy and Pain Management,60,No,north,Gov,4840.0,3,No
+Heart Disease,Angioplasty,48,No,north,Private,27843.75,7,No
+Diabetes,Insulin Therapy,65,No,central,Gov,2200.0,2,No
+Fractured Arm,X-Ray and Splint,30,No,south,Gov,522.5,3,No
+Stroke,CT Scan and Medication,70,No,west,Private,28875.0,12,Yes
+Cancer,Surgery and Chemotherapy,55,Yes,east,Private,74812.5,11,Yes
+Hypertension,Medication and Counseling,68,No,central,Gov,1100.0,2,No
+Appendicitis,Appendectomy,45,No,central,Gov,9600.0,4,No
+Fractured Leg,Cast and Physical Therapy,40,Yes,east,Gov,3420.0,1,No
+Heart Attack,Cardiac Catheterization,78,No,east,Gov,20520.0,6,No
+Allergic Reaction,Epinephrine Injection,25,No,east,Gov,104.5,3,No
+Respiratory Infection,Antibiotics and Rest,52,No,west,Gov,880.0,1,No
+Prostate Cancer,Radiation Therapy,58,Yes,south,Gov,22800.0,1,No
+Childbirth,Delivery and Postnatal Care,32,No,north,Gov,15840.0,5,No
+Kidney Stones,Lithotripsy,55,Yes,central,Gov,8640.0,4,No
+Osteoarthritis,Physical Therapy and Pain Management,65,No,north,Gov,4400.0,1,No
+Heart Disease,Angioplasty,55,Yes,west,Private,51975.0,12,Yes
+Diabetes,Insulin Therapy,62,No,west,Gov,2200.0,1,No
+Fractured Arm,X-Ray and Splint,35,No,central,Gov,500.0,1,No
+Stroke,CT Scan and Medication,78,No,east,Private,14250.0,6,No
+Cancer,Surgery and Chemotherapy,53,No,west,Private,64968.75,7,Yes
+Hypertension,Medication and Counseling,72,No,south,Gov,1045.0,3,No
+Appendicitis,Appendectomy,60,No,north,Gov,9680.0,3,No
+Fractured Leg,Cast and Physical Therapy,45,No,east,Gov,3135.0,3,No
+Heart Attack,Cardiac Catheterization,75,Yes,south,Gov,27702.0,7,No
+Allergic Reaction,Epinephrine Injection,28,No,west,Gov,121.0,2,No
+Respiratory Infection,Antibiotics and Rest,52,No,east,Gov,836.0,3,No
+Prostate Cancer,Radiation Therapy,67,No,central,Gov,20000.0,1,No
+Childbirth,Delivery and Postnatal Care,35,No,central,Gov,13200.0,3,No
+Osteoarthritis,Physical Therapy and Pain Management,60,No,west,Gov,4840.0,2,No
+Heart Disease,Angioplasty,48,Yes,east,Private,40398.75,7,Yes
+Diabetes,Insulin Therapy,65,No,north,Gov,2420.0,3,No
+Fractured Arm,X-Ray and Splint,30,No,north,Gov,550.0,1,No
+Stroke,CT Scan and Medication,70,Yes,west,Private,34650.0,12,Yes
+Cancer,Surgery and Chemotherapy,55,Yes,west,Private,55687.5,7,No
+Hypertension,Medication and Counseling,68,No,west,Gov,1210.0,2,No
+Appendicitis,Appendectomy,45,No,east,Gov,9120.0,5,No
+Fractured Leg,Cast and Physical Therapy,40,No,east,Gov,3135.0,3,No
+Heart Attack,Cardiac Catheterization,78,Yes,north,Gov,32076.0,10,No
+Allergic Reaction,Epinephrine Injection,25,No,west,Gov,121.0,3,No
+Respiratory Infection,Antibiotics and Rest,52,No,west,Gov,968.0,3,No
+Prostate Cancer,Radiation Therapy,58,No,south,Gov,20900.0,2,No
+Childbirth,Delivery and Postnatal Care,32,No,central,Gov,13200.0,2,No
+Kidney Stones,Lithotripsy,55,Yes,west,Gov,8712.0,3,No
+Osteoarthritis,Physical Therapy and Pain Management,65,No,west,Gov,4840.0,2,No
+Heart Disease,Angioplasty,55,No,east,Private,37406.25,13,Yes
+Diabetes,Insulin Therapy,62,No,north,Gov,2200.0,1,No
+Fractured Arm,X-Ray and Splint,35,Yes,south,Gov,627.0,2,No
+Stroke,CT Scan and Medication,78,No,east,Private,16031.25,7,No
+Cancer,Surgery and Chemotherapy,53,No,south,Private,56109.38,10,Yes
+Hypertension,Medication and Counseling,72,No,central,Gov,1100.0,3,No
+Appendicitis,Appendectomy,60,No,east,Gov,8360.0,2,No
+Fractured Leg,Cast and Physical Therapy,45,No,south,Gov,3135.0,3,No
+Heart Attack,Cardiac Catheterization,75,No,south,Gov,28728.0,6,Yes
+Allergic Reaction,Epinephrine Injection,28,No,west,Gov,110.0,1,No
+Respiratory Infection,Antibiotics and Rest,52,No,south,Gov,760.0,1,No
+Prostate Cancer,Radiation Therapy,67,No,east,Gov,20900.0,2,No
+Childbirth,Delivery and Postnatal Care,35,Yes,east,Gov,15048.0,3,No
+Kidney Stones,Lithotripsy,50,No,south,Gov,6840.0,4,No
+Osteoarthritis,Physical Therapy and Pain Management,60,No,north,Gov,4400.0,1,No
+Heart Disease,Angioplasty,48,No,south,Private,24046.88,8,No
+Diabetes,Insulin Therapy,65,No,central,Gov,2000.0,1,No
+Fractured Arm,X-Ray and Splint,30,No,east,Gov,522.5,3,No
+Stroke,CT Scan and Medication,70,No,east,Private,22443.75,8,Yes
+Cancer,Surgery and Chemotherapy,55,Yes,east,Private,48093.75,9,No
+Hypertension,Medication and Counseling,68,No,south,Gov,1045.0,3,No
+Appendicitis,Appendectomy,45,No,central,Gov,9600.0,4,No
+Fractured Leg,Cast and Physical Therapy,40,No,south,Gov,3135.0,2,No
+Heart Attack,Cardiac Catheterization,78,No,east,Gov,23085.0,8,No
+Allergic Reaction,Epinephrine Injection,25,No,central,Gov,100.0,1,No
+Respiratory Infection,Antibiotics and Rest,52,Yes,west,Gov,1161.6,2,No
+Prostate Cancer,Radiation Therapy,58,Yes,north,Gov,29040.0,3,No
+Childbirth,Delivery and Postnatal Care,32,No,east,Gov,13680.0,4,No
+Kidney Stones,Lithotripsy,55,Yes,east,Gov,7524.0,2,No
+Osteoarthritis,Physical Therapy and Pain Management,65,No,east,Gov,4180.0,3,No
+Heart Disease,Angioplasty,55,Yes,north,Private,51975.0,11,Yes
+Diabetes,Insulin Therapy,62,Yes,north,Gov,2904.0,3,No
+Fractured Arm,X-Ray and Splint,35,Yes,south,Gov,570.0,1,No
+Stroke,CT Scan and Medication,78,No,north,Private,28875.0,12,Yes
+Cancer,Surgery and Chemotherapy,53,No,south,Private,62343.75,13,Yes
+Hypertension,Medication and Counseling,72,No,north,Gov,1210.0,2,No
+Appendicitis,Appendectomy,60,No,east,Gov,8360.0,3,No
+Fractured Leg,Cast and Physical Therapy,45,No,north,Gov,3300.0,1,No
+Heart Attack,Cardiac Catheterization,75,Yes,south,Gov,24624.0,6,No
+Allergic Reaction,Epinephrine Injection,28,No,central,Gov,110.0,3,No
+Respiratory Infection,Antibiotics and Rest,52,No,east,Gov,836.0,2,No
+Prostate Cancer,Radiation Therapy,67,No,central,Gov,20000.0,1,No
+Childbirth,Delivery and Postnatal Care,35,No,central,Gov,14400.0,4,No
+Kidney Stones,Lithotripsy,50,No,central,Gov,6600.0,2,No
+Heart Disease,Angioplasty,48,Yes,central,Private,42525.0,8,Yes
+Diabetes,Insulin Therapy,65,No,north,Gov,2200.0,1,No
+Fractured Arm,X-Ray and Splint,30,No,central,Gov,550.0,2,No
+Stroke,CT Scan and Medication,70,Yes,central,Private,25200.0,6,Yes
+Cancer,Surgery and Chemotherapy,55,Yes,west,Private,86625.0,12,Yes
+Hypertension,Medication and Counseling,68,Yes,south,Gov,1140.0,1,No
+Appendicitis,Appendectomy,45,Yes,south,Gov,10944.0,5,No
+Fractured Leg,Cast and Physical Therapy,40,No,south,Gov,3135.0,2,No
+Heart Attack,Cardiac Catheterization,78,No,north,Gov,37422.0,7,Yes
+Allergic Reaction,Epinephrine Injection,25,No,east,Gov,104.5,3,No
+Respiratory Infection,Antibiotics and Rest,52,No,central,Gov,880.0,3,No
+Prostate Cancer,Radiation Therapy,58,No,west,Gov,22000.0,1,No
+Childbirth,Delivery and Postnatal Care,32,No,east,Gov,12540.0,2,No
+Kidney Stones,Lithotripsy,55,No,north,Gov,7920.0,4,No
+Osteoarthritis,Physical Therapy and Pain Management,65,No,central,Gov,4000.0,1,No
+Heart Disease,Angioplasty,55,No,west,Private,34650.0,6,Yes
+Diabetes,Insulin Therapy,62,Yes,east,Gov,2508.0,2,No
+Fractured Arm,X-Ray and Splint,35,No,north,Gov,550.0,1,No
+Stroke,CT Scan and Medication,78,Yes,south,Private,19237.5,8,No
+Cancer,Surgery and Chemotherapy,53,No,north,Private,72187.5,12,Yes
+Hypertension,Medication and Counseling,72,No,central,Gov,1100.0,3,No
+Appendicitis,Appendectomy,60,No,central,Gov,8800.0,2,No
+Fractured Leg,Cast and Physical Therapy,45,No,north,Gov,3300.0,1,No
+Heart Attack,Cardiac Catheterization,75,No,south,Gov,35910.0,11,Yes
+Allergic Reaction,Epinephrine Injection,28,No,north,Gov,110.0,1,No
+Respiratory Infection,Antibiotics and Rest,52,No,east,Gov,836.0,3,No
+Prostate Cancer,Radiation Therapy,67,Yes,west,Gov,26400.0,1,No
+Childbirth,Delivery and Postnatal Care,35,No,central,Gov,13200.0,2,No
+Kidney Stones,Lithotripsy,50,No,north,Gov,7920.0,5,No
+Osteoarthritis,Physical Therapy and Pain Management,60,No,east,Gov,4180.0,3,No
+Heart Disease,Angioplasty,48,No,south,Private,33665.62,9,Yes
+Diabetes,Insulin Therapy,65,Yes,north,Gov,2904.0,3,No
+Fractured Arm,X-Ray and Splint,30,No,south,Gov,475.0,1,No
+Stroke,CT Scan and Medication,70,No,east,Private,24937.5,11,Yes
+Cancer,Surgery and Chemotherapy,55,No,west,Private,51562.5,12,No
+Hypertension,Medication and Counseling,68,No,east,Gov,1045.0,3,No
+Appendicitis,Appendectomy,45,No,central,Gov,9600.0,4,No
+Fractured Leg,Cast and Physical Therapy,40,No,west,Gov,3630.0,3,No
+Heart Attack,Cardiac Catheterization,78,Yes,north,Gov,49896.0,12,Yes
+Allergic Reaction,Epinephrine Injection,25,No,north,Gov,121.0,3,No
+Respiratory Infection,Antibiotics and Rest,52,No,central,Gov,880.0,3,No
+Prostate Cancer,Radiation Therapy,58,No,north,Gov,22000.0,1,No
+Childbirth,Delivery and Postnatal Care,32,No,south,Gov,12540.0,3,No
+Kidney Stones,Lithotripsy,55,No,north,Gov,7920.0,5,No
+Osteoarthritis,Physical Therapy and Pain Management,65,No,east,Gov,4180.0,2,No
+Heart Disease,Angioplasty,55,No,central,Private,35437.5,10,Yes
+Diabetes,Insulin Therapy,62,No,north,Gov,2200.0,1,No
+Fractured Arm,X-Ray and Splint,35,No,east,Gov,522.5,2,No
+Stroke,CT Scan and Medication,78,No,east,Private,24937.5,11,Yes
+Cancer,Surgery and Chemotherapy,53,Yes,east,Private,53437.5,13,No
+Hypertension,Medication and Counseling,72,No,east,Gov,1045.0,2,No
+Appendicitis,Appendectomy,60,No,east,Gov,8360.0,3,No
+Fractured Leg,Cast and Physical Therapy,45,No,south,Gov,3135.0,3,No
+Heart Attack,Cardiac Catheterization,75,No,west,Gov,33264.0,6,Yes
+Allergic Reaction,Epinephrine Injection,28,No,south,Gov,104.5,3,No
+Respiratory Infection,Antibiotics and Rest,52,No,east,Gov,760.0,1,No
+Prostate Cancer,Radiation Therapy,67,No,south,Gov,20900.0,2,No
+Childbirth,Delivery and Postnatal Care,35,No,south,Gov,12540.0,3,No
+Kidney Stones,Lithotripsy,50,No,central,Gov,6600.0,2,No
+Osteoarthritis,Physical Therapy and Pain Management,60,Yes,west,Gov,5808.0,3,No
+Diabetes,Insulin Therapy,65,Yes,south,Gov,2508.0,3,No
+Fractured Arm,X-Ray and Splint,30,No,central,Gov,550.0,3,No
+Stroke,CT Scan and Medication,70,No,west,Private,25987.5,10,Yes
+Cancer,Surgery and Chemotherapy,55,Yes,south,Private,74812.5,13,Yes
+Hypertension,Medication and Counseling,68,No,west,Gov,1210.0,2,No
+Appendicitis,Appendectomy,45,No,east,Gov,8360.0,3,No
+Fractured Leg,Cast and Physical Therapy,40,No,west,Gov,3300.0,1,No
+Heart Attack,Cardiac Catheterization,78,No,central,Gov,24300.0,10,No
+Allergic Reaction,Epinephrine Injection,25,No,north,Gov,110.0,1,No
+Respiratory Infection,Antibiotics and Rest,52,No,east,Gov,836.0,2,No
+Prostate Cancer,Radiation Therapy,58,No,east,Gov,19000.0,1,No
+Childbirth,Delivery and Postnatal Care,32,No,east,Gov,12540.0,2,No
+Kidney Stones,Lithotripsy,55,No,south,Gov,6840.0,4,No
+Osteoarthritis,Physical Therapy and Pain Management,65,No,central,Gov,4400.0,2,No
+Heart Disease,Angioplasty,55,No,central,Private,28125.0,13,No
+Diabetes,Insulin Therapy,62,Yes,north,Gov,2904.0,3,No
+Fractured Arm,X-Ray and Splint,35,No,central,Gov,550.0,2,No
+Stroke,CT Scan and Medication,78,Yes,south,Private,29925.0,13,Yes
+Cancer,Surgery and Chemotherapy,53,Yes,west,Private,55687.5,10,No
+Hypertension,Medication and Counseling,72,Yes,south,Gov,1254.0,3,No
+Appendicitis,Appendectomy,60,Yes,south,Gov,10032.0,3,No
+Fractured Leg,Cast and Physical Therapy,45,No,east,Gov,3135.0,3,No
+Heart Attack,Cardiac Catheterization,75,Yes,west,Gov,32076.0,10,No
+Allergic Reaction,Epinephrine Injection,28,No,central,Gov,110.0,3,No
+Respiratory Infection,Antibiotics and Rest,52,Yes,central,Gov,1056.0,3,No
+Prostate Cancer,Radiation Therapy,67,No,east,Gov,20900.0,3,No
+Childbirth,Delivery and Postnatal Care,35,No,north,Gov,15840.0,5,No
+Kidney Stones,Lithotripsy,50,No,central,Gov,7200.0,4,No
+Osteoarthritis,Physical Therapy and Pain Management,60,Yes,north,Gov,5808.0,2,No
+Heart Disease,Angioplasty,48,No,east,Private,24046.88,7,No
+Diabetes,Insulin Therapy,65,No,central,Gov,2200.0,3,No
+Fractured Arm,X-Ray and Splint,30,No,west,Gov,605.0,3,No
+Stroke,CT Scan and Medication,70,Yes,west,Private,19800.0,5,No
+Cancer,Surgery and Chemotherapy,55,Yes,south,Private,48093.75,10,No
+Hypertension,Medication and Counseling,68,No,east,Gov,1045.0,2,No
+Appendicitis,Appendectomy,45,No,east,Gov,9120.0,4,No
+Fractured Leg,Cast and Physical Therapy,40,No,north,Gov,3630.0,2,No
+Heart Attack,Cardiac Catheterization,78,Yes,central,Gov,25920.0,6,No
+Allergic Reaction,Epinephrine Injection,25,No,west,Gov,110.0,1,No
+Respiratory Infection,Antibiotics and Rest,52,No,south,Gov,760.0,1,No
+Prostate Cancer,Radiation Therapy,58,No,west,Gov,22000.0,1,No
+Childbirth,Delivery and Postnatal Care,32,No,east,Gov,13680.0,4,No
+Kidney Stones,Lithotripsy,55,Yes,central,Gov,8640.0,5,No
+Osteoarthritis,Physical Therapy and Pain Management,65,No,central,Gov,4000.0,1,No
+Heart Disease,Angioplasty,55,No,north,Private,24750.0,5,No
+Diabetes,Insulin Therapy,62,Yes,south,Gov,2508.0,3,No
+Fractured Arm,X-Ray and Splint,35,No,north,Gov,605.0,2,No
+Stroke,CT Scan and Medication,78,No,west,Private,28875.0,11,Yes
+Cancer,Surgery and Chemotherapy,53,No,north,Private,72187.5,11,Yes
+Hypertension,Medication and Counseling,72,Yes,central,Gov,1200.0,1,No
+Appendicitis,Appendectomy,60,No,north,Gov,9680.0,3,No
+Fractured Leg,Cast and Physical Therapy,45,No,central,Gov,3000.0,1,No
+Heart Attack,Cardiac Catheterization,75,Yes,east,Gov,27702.0,7,No
+Allergic Reaction,Epinephrine Injection,28,No,west,Gov,121.0,2,No
+Respiratory Infection,Antibiotics and Rest,52,Yes,north,Gov,1056.0,1,No
+Prostate Cancer,Radiation Therapy,67,Yes,north,Gov,26400.0,1,No
+Childbirth,Delivery and Postnatal Care,35,No,central,Gov,14400.0,4,No
+Kidney Stones,Lithotripsy,50,No,east,Gov,6840.0,4,No
+Osteoarthritis,Physical Therapy and Pain Management,60,No,central,Gov,4000.0,1,No
+Heart Disease,Angioplasty,48,No,north,Private,27843.75,10,No
+Fractured Arm,X-Ray and Splint,30,No,north,Gov,550.0,1,No
+Stroke,CT Scan and Medication,70,No,north,Private,28875.0,13,Yes
+Cancer,Surgery and Chemotherapy,55,No,central,Private,65625.0,12,Yes
+Hypertension,Medication and Counseling,68,No,west,Gov,1210.0,3,No
+Appendicitis,Appendectomy,45,No,south,Gov,9120.0,5,No
+Fractured Leg,Cast and Physical Therapy,40,No,east,Gov,2850.0,1,No
+Heart Attack,Cardiac Catheterization,78,No,north,Gov,37422.0,10,Yes
+Allergic Reaction,Epinephrine Injection,25,Yes,north,Gov,145.2,2,No
+Respiratory Infection,Antibiotics and Rest,52,Yes,east,Gov,1003.2,2,No
+Prostate Cancer,Radiation Therapy,58,Yes,east,Gov,22800.0,1,No
+Childbirth,Delivery and Postnatal Care,32,No,north,Gov,14520.0,2,No
+Kidney Stones,Lithotripsy,55,Yes,central,Gov,8640.0,5,No
+Osteoarthritis,Physical Therapy and Pain Management,65,No,south,Gov,4180.0,2,No
+Heart Disease,Angioplasty,55,No,west,Private,30937.5,12,No
+Diabetes,Insulin Therapy,62,No,west,Gov,2200.0,1,No
+Fractured Arm,X-Ray and Splint,35,Yes,south,Gov,627.0,3,No
+Stroke,CT Scan and Medication,78,No,west,Private,28875.0,12,Yes
+Cancer,Surgery and Chemotherapy,53,No,north,Private,57750.0,6,Yes
+Hypertension,Medication and Counseling,72,Yes,central,Gov,1320.0,2,No
+Appendicitis,Appendectomy,60,No,south,Gov,8360.0,3,No
+Fractured Leg,Cast and Physical Therapy,45,No,central,Gov,3300.0,3,No
+Heart Attack,Cardiac Catheterization,75,Yes,east,Gov,27702.0,8,No
+Allergic Reaction,Epinephrine Injection,28,No,central,Gov,100.0,1,No
+Respiratory Infection,Antibiotics and Rest,52,Yes,west,Gov,1056.0,1,No
+Prostate Cancer,Radiation Therapy,67,No,central,Gov,20000.0,1,No
+Childbirth,Delivery and Postnatal Care,35,Yes,south,Gov,15048.0,3,No
+Kidney Stones,Lithotripsy,50,No,east,Gov,6270.0,2,No
+Osteoarthritis,Physical Therapy and Pain Management,60,No,central,Gov,4400.0,3,No
+Heart Disease,Angioplasty,48,Yes,west,Private,33412.5,10,No
+Diabetes,Insulin Therapy,65,No,east,Gov,1900.0,1,No
+Fractured Arm,X-Ray and Splint,30,Yes,north,Gov,726.0,3,No
+Stroke,CT Scan and Medication,70,No,north,Private,28875.0,12,Yes
+Cancer,Surgery and Chemotherapy,55,No,north,Private,57750.0,6,Yes
+Hypertension,Medication and Counseling,68,No,west,Gov,1210.0,3,No
+Appendicitis,Appendectomy,45,No,west,Gov,10560.0,4,No
+Fractured Leg,Cast and Physical Therapy,40,No,east,Gov,3135.0,2,No
+Heart Attack,Cardiac Catheterization,78,No,south,Gov,32319.0,7,Yes
+Allergic Reaction,Epinephrine Injection,25,Yes,east,Gov,114.0,1,No
+Respiratory Infection,Antibiotics and Rest,52,No,west,Gov,880.0,1,No
+Prostate Cancer,Radiation Therapy,58,No,central,Gov,20000.0,1,No
+Childbirth,Delivery and Postnatal Care,32,No,north,Gov,15840.0,5,No
+Kidney Stones,Lithotripsy,55,No,west,Gov,7920.0,5,No
+Osteoarthritis,Physical Therapy and Pain Management,65,Yes,north,Gov,5808.0,3,No
+Heart Disease,Angioplasty,55,Yes,east,Private,40398.75,8,Yes
+Diabetes,Insulin Therapy,62,No,south,Gov,2090.0,2,No
+Fractured Arm,X-Ray and Splint,35,No,north,Gov,605.0,3,No
+Stroke,CT Scan and Medication,78,Yes,north,Private,19800.0,6,No
+Cancer,Surgery and Chemotherapy,53,No,central,Private,42187.5,9,No
+Hypertension,Medication and Counseling,72,Yes,west,Gov,1320.0,1,No
+Appendicitis,Appendectomy,60,Yes,south,Gov,10944.0,5,No
+Fractured Leg,Cast and Physical Therapy,45,No,south,Gov,2850.0,1,No
+Heart Attack,Cardiac Catheterization,75,No,south,Gov,32319.0,9,Yes
+Allergic Reaction,Epinephrine Injection,28,No,central,Gov,110.0,2,No
+Respiratory Infection,Antibiotics and Rest,52,No,south,Gov,760.0,1,No
+Prostate Cancer,Radiation Therapy,67,Yes,south,Gov,25080.0,3,No
+Childbirth,Delivery and Postnatal Care,35,No,north,Gov,14520.0,2,No
+Kidney Stones,Lithotripsy,50,No,east,Gov,6270.0,3,No
+Osteoarthritis,Physical Therapy and Pain Management,60,No,south,Gov,4180.0,2,No
+Heart Disease,Angioplasty,48,Yes,east,Private,40398.75,7,Yes
+Diabetes,Insulin Therapy,65,Yes,south,Gov,2508.0,2,No
+Fractured Arm,X-Ray and Splint,30,No,central,Gov,550.0,3,No
+Cancer,Surgery and Chemotherapy,55,No,east,Private,62343.75,12,Yes
+Hypertension,Medication and Counseling,68,No,east,Gov,950.0,1,No
+Appendicitis,Appendectomy,45,No,central,Gov,8800.0,2,No
+Fractured Leg,Cast and Physical Therapy,40,No,west,Gov,3300.0,1,No
+Heart Attack,Cardiac Catheterization,78,No,south,Gov,25650.0,11,No
+Allergic Reaction,Epinephrine Injection,25,No,east,Gov,104.5,3,No
+Respiratory Infection,Antibiotics and Rest,52,No,central,Gov,880.0,2,No
+Prostate Cancer,Radiation Therapy,58,No,central,Gov,22000.0,2,No
+Childbirth,Delivery and Postnatal Care,32,No,north,Gov,14520.0,2,No
+Kidney Stones,Lithotripsy,55,Yes,south,Gov,7524.0,2,No
+Osteoarthritis,Physical Therapy and Pain Management,65,No,north,Gov,4400.0,1,No
+Heart Disease,Angioplasty,55,No,central,Private,28125.0,13,No
+Diabetes,Insulin Therapy,62,No,east,Gov,2090.0,2,No
+Fractured Arm,X-Ray and Splint,35,No,east,Gov,475.0,1,No
+Stroke,CT Scan and Medication,78,Yes,central,Private,25200.0,6,Yes
+Cancer,Surgery and Chemotherapy,53,No,east,Private,62343.75,13,Yes
+Hypertension,Medication and Counseling,72,Yes,south,Gov,1254.0,3,No
+Appendicitis,Appendectomy,60,No,west,Gov,9680.0,2,No
+Fractured Leg,Cast and Physical Therapy,45,No,north,Gov,3630.0,3,No
+Heart Attack,Cardiac Catheterization,75,No,central,Gov,24300.0,7,No
+Allergic Reaction,Epinephrine Injection,28,No,central,Gov,100.0,1,No
+Respiratory Infection,Antibiotics and Rest,52,No,central,Gov,880.0,2,No
+Prostate Cancer,Radiation Therapy,67,No,central,Gov,20000.0,1,No
+Childbirth,Delivery and Postnatal Care,35,No,central,Gov,13200.0,2,No
+Kidney Stones,Lithotripsy,50,No,south,Gov,6840.0,5,No
+Osteoarthritis,Physical Therapy and Pain Management,60,Yes,west,Gov,5808.0,2,No
+Heart Disease,Angioplasty,48,No,north,Private,30937.5,11,No
+Diabetes,Insulin Therapy,65,Yes,central,Gov,2400.0,1,No
+Fractured Arm,X-Ray and Splint,30,No,west,Gov,605.0,2,No
+Stroke,CT Scan and Medication,70,No,west,Private,28875.0,13,Yes
+Cancer,Surgery and Chemotherapy,55,Yes,south,Private,48093.75,9,No
+Hypertension,Medication and Counseling,68,No,north,Gov,1100.0,1,No
+Appendicitis,Appendectomy,45,Yes,central,Gov,10560.0,3,No
+Fractured Leg,Cast and Physical Therapy,40,No,east,Gov,3135.0,2,No
+Heart Attack,Cardiac Catheterization,78,Yes,south,Gov,38782.8,9,Yes
+Allergic Reaction,Epinephrine Injection,25,Yes,north,Gov,132.0,1,No
+Respiratory Infection,Antibiotics and Rest,52,Yes,south,Gov,1003.2,2,No
+Prostate Cancer,Radiation Therapy,58,No,west,Gov,24200.0,3,No
+Childbirth,Delivery and Postnatal Care,32,No,north,Gov,15840.0,5,No
+Kidney Stones,Lithotripsy,55,No,central,Gov,7200.0,5,No
+Osteoarthritis,Physical Therapy and Pain Management,65,No,north,Gov,4840.0,3,No
+Heart Disease,Angioplasty,55,No,south,Private,37406.25,12,Yes
+Diabetes,Insulin Therapy,62,No,west,Gov,2200.0,1,No
+Fractured Arm,X-Ray and Splint,35,No,east,Gov,522.5,3,No
+Stroke,CT Scan and Medication,78,No,west,Private,28875.0,11,Yes
+Cancer,Surgery and Chemotherapy,53,No,east,Private,56109.38,8,Yes
+Hypertension,Medication and Counseling,72,No,east,Gov,950.0,1,No
+Appendicitis,Appendectomy,60,No,west,Gov,9680.0,3,No
+Fractured Leg,Cast and Physical Therapy,45,No,north,Gov,3300.0,1,No
+Heart Attack,Cardiac Catheterization,75,Yes,south,Gov,24624.0,5,No
+Allergic Reaction,Epinephrine Injection,28,Yes,west,Gov,132.0,1,No
+Respiratory Infection,Antibiotics and Rest,52,Yes,east,Gov,912.0,1,No
+Prostate Cancer,Radiation Therapy,67,No,south,Gov,20900.0,2,No
+Childbirth,Delivery and Postnatal Care,35,Yes,north,Gov,17424.0,3,No
+Kidney Stones,Lithotripsy,50,No,central,Gov,6600.0,2,No
+Osteoarthritis,Physical Therapy and Pain Management,60,No,west,Gov,4840.0,2,No
+Heart Disease,Angioplasty,48,No,west,Private,30937.5,11,No
+Diabetes,Insulin Therapy,65,Yes,north,Gov,2904.0,3,No
+Fractured Arm,X-Ray and Splint,30,No,central,Gov,500.0,1,No
+Stroke,CT Scan and Medication,70,No,west,Private,18562.5,9,No
+Hypertension,Medication and Counseling,68,No,east,Gov,1045.0,2,No
+Appendicitis,Appendectomy,45,Yes,north,Gov,11616.0,2,No
+Fractured Leg,Cast and Physical Therapy,40,No,north,Gov,3630.0,2,No
+Heart Attack,Cardiac Catheterization,78,Yes,north,Gov,44906.4,8,Yes
+Allergic Reaction,Epinephrine Injection,25,No,central,Gov,110.0,2,No
+Respiratory Infection,Antibiotics and Rest,52,No,east,Gov,836.0,2,No
+Prostate Cancer,Radiation Therapy,58,Yes,central,Gov,26400.0,2,No
+Childbirth,Delivery and Postnatal Care,32,No,central,Gov,13200.0,3,No
+Kidney Stones,Lithotripsy,55,No,north,Gov,7920.0,4,No
+Osteoarthritis,Physical Therapy and Pain Management,65,No,east,Gov,4180.0,2,No
+Heart Disease,Angioplasty,55,No,central,Private,25312.5,7,No
+Diabetes,Insulin Therapy,62,No,east,Gov,2090.0,2,No
+Fractured Arm,X-Ray and Splint,35,No,north,Gov,605.0,3,No
+Stroke,CT Scan and Medication,78,Yes,east,Private,21375.0,12,No
+Cancer,Surgery and Chemotherapy,53,No,south,Private,35625.0,5,No
+Hypertension,Medication and Counseling,72,No,west,Gov,1210.0,3,No
+Appendicitis,Appendectomy,60,No,west,Gov,9680.0,2,No
+Fractured Leg,Cast and Physical Therapy,45,Yes,east,Gov,3762.0,3,No
+Heart Attack,Cardiac Catheterization,75,Yes,north,Gov,28512.0,5,No
+Allergic Reaction,Epinephrine Injection,28,No,south,Gov,104.5,3,No
+Respiratory Infection,Antibiotics and Rest,52,Yes,east,Gov,912.0,1,No
+Prostate Cancer,Radiation Therapy,67,No,west,Gov,24200.0,3,No
+Childbirth,Delivery and Postnatal Care,35,No,east,Gov,12540.0,2,No
+Kidney Stones,Lithotripsy,50,Yes,west,Gov,8712.0,2,No
+Osteoarthritis,Physical Therapy and Pain Management,60,No,central,Gov,4400.0,3,No
+Heart Disease,Angioplasty,48,No,central,Private,35437.5,9,Yes
+Diabetes,Insulin Therapy,65,No,east,Gov,2090.0,3,No
+Fractured Arm,X-Ray and Splint,30,Yes,south,Gov,570.0,1,No
+Stroke,CT Scan and Medication,70,No,north,Private,28875.0,12,Yes
+Cancer,Surgery and Chemotherapy,55,No,south,Private,49875.0,6,Yes
+Hypertension,Medication and Counseling,68,Yes,south,Gov,1254.0,3,No
+Appendicitis,Appendectomy,45,No,east,Gov,9120.0,5,No
+Fractured Leg,Cast and Physical Therapy,40,Yes,east,Gov,3762.0,3,No
+Heart Attack,Cardiac Catheterization,78,Yes,east,Gov,34473.6,6,Yes
+Allergic Reaction,Epinephrine Injection,25,No,east,Gov,95.0,1,No
+Respiratory Infection,Antibiotics and Rest,52,Yes,south,Gov,912.0,1,No
+Prostate Cancer,Radiation Therapy,58,No,central,Gov,22000.0,3,No
+Childbirth,Delivery and Postnatal Care,32,No,south,Gov,12540.0,3,No
+Kidney Stones,Lithotripsy,55,Yes,west,Gov,9504.0,5,No
+Osteoarthritis,Physical Therapy and Pain Management,65,No,east,Gov,3800.0,1,No
+Heart Disease,Angioplasty,55,No,north,Private,27843.75,10,No
+Diabetes,Insulin Therapy,62,No,north,Gov,2420.0,2,No
+Fractured Arm,X-Ray and Splint,35,No,central,Gov,550.0,3,No
+Stroke,CT Scan and Medication,78,No,south,Private,22443.75,10,Yes
+Cancer,Surgery and Chemotherapy,53,No,east,Private,40078.12,7,No
+Hypertension,Medication and Counseling,72,Yes,north,Gov,1452.0,2,No
+Appendicitis,Appendectomy,60,Yes,central,Gov,11520.0,4,No
+Fractured Leg,Cast and Physical Therapy,45,No,east,Gov,3135.0,2,No
+Heart Attack,Cardiac Catheterization,75,No,south,Gov,23085.0,10,No
+Allergic Reaction,Epinephrine Injection,28,No,central,Gov,110.0,2,No
+Respiratory Infection,Antibiotics and Rest,52,No,north,Gov,968.0,2,No
+Prostate Cancer,Radiation Therapy,67,Yes,east,Gov,25080.0,3,No
+Childbirth,Delivery and Postnatal Care,35,No,north,Gov,14520.0,3,No
+Kidney Stones,Lithotripsy,50,Yes,west,Gov,8712.0,3,No
+Osteoarthritis,Physical Therapy and Pain Management,60,No,east,Gov,4180.0,3,No
+Heart Disease,Angioplasty,48,Yes,west,Private,29700.0,6,No
+Diabetes,Insulin Therapy,65,No,central,Gov,2000.0,1,No
+Fractured Arm,X-Ray and Splint,30,Yes,east,Gov,627.0,3,No
+Stroke,CT Scan and Medication,70,No,north,Private,23100.0,6,Yes
+Cancer,Surgery and Chemotherapy,55,No,north,Private,64968.75,8,Yes
+Appendicitis,Appendectomy,45,No,west,Gov,9680.0,3,No
+Fractured Leg,Cast and Physical Therapy,40,No,south,Gov,3135.0,3,No
+Heart Attack,Cardiac Catheterization,78,Yes,central,Gov,25920.0,6,No
+Allergic Reaction,Epinephrine Injection,25,No,north,Gov,121.0,2,No
+Respiratory Infection,Antibiotics and Rest,52,No,south,Gov,836.0,3,No
+Prostate Cancer,Radiation Therapy,58,No,central,Gov,22000.0,3,No
+Childbirth,Delivery and Postnatal Care,32,No,north,Gov,14520.0,2,No
+Kidney Stones,Lithotripsy,55,No,west,Gov,7920.0,4,No
+Osteoarthritis,Physical Therapy and Pain Management,65,No,north,Gov,4400.0,1,No
+Heart Disease,Angioplasty,55,No,central,Private,35437.5,10,Yes
+Diabetes,Insulin Therapy,62,Yes,central,Gov,2640.0,3,No
+Fractured Arm,X-Ray and Splint,35,No,south,Gov,522.5,2,No
+Stroke,CT Scan and Medication,78,No,central,Private,18750.0,13,No
+Cancer,Surgery and Chemotherapy,53,Yes,south,Private,74812.5,13,Yes
+Hypertension,Medication and Counseling,72,Yes,central,Gov,1320.0,3,No
+Appendicitis,Appendectomy,60,No,south,Gov,8360.0,2,No
+Fractured Leg,Cast and Physical Therapy,45,No,north,Gov,3630.0,2,No
+Heart Attack,Cardiac Catheterization,75,Yes,south,Gov,38782.8,10,Yes
+Allergic Reaction,Epinephrine Injection,28,No,south,Gov,104.5,2,No
+Respiratory Infection,Antibiotics and Rest,52,No,central,Gov,880.0,2,No
+Prostate Cancer,Radiation Therapy,67,Yes,south,Gov,22800.0,1,No
+Childbirth,Delivery and Postnatal Care,35,Yes,north,Gov,19008.0,5,No
+Kidney Stones,Lithotripsy,50,No,south,Gov,6840.0,4,No
+Osteoarthritis,Physical Therapy and Pain Management,60,No,central,Gov,4400.0,2,No
+Heart Disease,Angioplasty,48,No,central,Private,35437.5,10,Yes
+Diabetes,Insulin Therapy,65,No,west,Gov,2420.0,2,No
+Fractured Arm,X-Ray and Splint,30,Yes,central,Gov,660.0,3,No
+Stroke,CT Scan and Medication,70,No,north,Private,23100.0,5,Yes
+Cancer,Surgery and Chemotherapy,55,Yes,central,Private,63000.0,6,Yes
+Hypertension,Medication and Counseling,68,Yes,west,Gov,1452.0,3,No
+Appendicitis,Appendectomy,45,No,west,Gov,10560.0,5,No
+Fractured Leg,Cast and Physical Therapy,40,No,central,Gov,3300.0,2,No
+Heart Attack,Cardiac Catheterization,78,No,north,Gov,37422.0,8,Yes
+Allergic Reaction,Epinephrine Injection,25,No,central,Gov,110.0,2,No
+Respiratory Infection,Antibiotics and Rest,52,No,south,Gov,836.0,2,No
+Prostate Cancer,Radiation Therapy,58,Yes,central,Gov,26400.0,3,No
+Childbirth,Delivery and Postnatal Care,32,No,south,Gov,12540.0,3,No
+Kidney Stones,Lithotripsy,55,No,west,Gov,7920.0,4,No
+Osteoarthritis,Physical Therapy and Pain Management,65,No,east,Gov,3800.0,1,No
+Heart Disease,Angioplasty,55,No,south,Private,33665.62,9,Yes
+Diabetes,Insulin Therapy,62,No,central,Gov,2200.0,2,No
+Fractured Arm,X-Ray and Splint,35,No,west,Gov,605.0,2,No
+Stroke,CT Scan and Medication,78,No,east,Private,24937.5,13,Yes
+Cancer,Surgery and Chemotherapy,53,Yes,south,Private,59850.0,6,Yes
+Hypertension,Medication and Counseling,72,No,west,Gov,1210.0,3,No
+Appendicitis,Appendectomy,60,Yes,north,Gov,12672.0,5,No
+Fractured Leg,Cast and Physical Therapy,45,No,east,Gov,2850.0,1,No
+Heart Attack,Cardiac Catheterization,75,Yes,central,Gov,45360.0,13,Yes
+Allergic Reaction,Epinephrine Injection,28,Yes,north,Gov,145.2,2,No
+Respiratory Infection,Antibiotics and Rest,52,No,north,Gov,968.0,3,No
+Prostate Cancer,Radiation Therapy,67,No,central,Gov,22000.0,2,No
+Childbirth,Delivery and Postnatal Care,35,No,east,Gov,12540.0,2,No
+Kidney Stones,Lithotripsy,50,No,south,Gov,6840.0,4,No
+Osteoarthritis,Physical Therapy and Pain Management,60,Yes,central,Gov,5280.0,3,No
+Heart Disease,Angioplasty,48,No,central,Private,31500.0,6,Yes
+Diabetes,Insulin Therapy,65,No,east,Gov,1900.0,1,No
+Fractured Arm,X-Ray and Splint,30,No,east,Gov,522.5,3,No
+Stroke,CT Scan and Medication,70,No,south,Private,22443.75,8,Yes
+Cancer,Surgery and Chemotherapy,55,Yes,west,Private,77962.5,9,Yes
+Hypertension,Medication and Counseling,68,No,central,Gov,1100.0,3,No
+Fractured Leg,Cast and Physical Therapy,40,No,central,Gov,3000.0,1,No
+Heart Attack,Cardiac Catheterization,78,No,central,Gov,30240.0,6,Yes
+Allergic Reaction,Epinephrine Injection,25,Yes,north,Gov,145.2,2,No
+Respiratory Infection,Antibiotics and Rest,52,No,west,Gov,880.0,1,No
+Prostate Cancer,Radiation Therapy,58,No,north,Gov,24200.0,3,No
+Childbirth,Delivery and Postnatal Care,32,No,north,Gov,15840.0,4,No
+Kidney Stones,Lithotripsy,55,No,central,Gov,6600.0,2,No
+Osteoarthritis,Physical Therapy and Pain Management,65,No,north,Gov,4400.0,1,No
+Heart Disease,Angioplasty,55,No,east,Private,29925.0,5,Yes
+Diabetes,Insulin Therapy,62,No,west,Gov,2420.0,2,No
+Fractured Arm,X-Ray and Splint,35,No,north,Gov,550.0,1,No
+Stroke,CT Scan and Medication,78,No,south,Private,24937.5,12,Yes
+Cancer,Surgery and Chemotherapy,53,No,north,Private,64968.75,7,Yes
+Hypertension,Medication and Counseling,72,No,east,Gov,950.0,1,No
+Appendicitis,Appendectomy,60,No,west,Gov,9680.0,2,No
+Fractured Leg,Cast and Physical Therapy,45,No,central,Gov,3000.0,1,No
+Heart Attack,Cardiac Catheterization,75,No,north,Gov,26730.0,7,No
+Allergic Reaction,Epinephrine Injection,28,No,central,Gov,100.0,1,No
+Respiratory Infection,Antibiotics and Rest,52,No,central,Gov,880.0,3,No
+Prostate Cancer,Radiation Therapy,67,Yes,south,Gov,25080.0,3,No
+Childbirth,Delivery and Postnatal Care,35,No,central,Gov,14400.0,5,No
+Kidney Stones,Lithotripsy,50,No,west,Gov,7920.0,4,No
+Osteoarthritis,Physical Therapy and Pain Management,60,Yes,east,Gov,5016.0,3,No
+Heart Disease,Angioplasty,48,No,north,Private,38981.25,8,Yes
+Diabetes,Insulin Therapy,65,Yes,central,Gov,2400.0,1,No
+Fractured Arm,X-Ray and Splint,30,Yes,central,Gov,600.0,1,No
+Stroke,CT Scan and Medication,70,No,west,Private,23100.0,5,Yes
+Cancer,Surgery and Chemotherapy,55,Yes,east,Private,67331.25,10,Yes
+Hypertension,Medication and Counseling,68,No,central,Gov,1100.0,2,No
+Appendicitis,Appendectomy,45,Yes,west,Gov,11616.0,2,No
+Fractured Leg,Cast and Physical Therapy,40,No,central,Gov,3000.0,1,No
+Heart Attack,Cardiac Catheterization,78,No,south,Gov,35910.0,11,Yes
+Allergic Reaction,Epinephrine Injection,25,Yes,east,Gov,125.4,2,No
+Hypertension,Lithotripsy,19,yes,southwest,Private,23216.77,2,No
+Allergic Reaction,Insulin Therapy,18,no,southeast,Gov,1898.11,3,No
+Fractured Leg,Physical Therapy and Pain Management,28,no,southeast,Private,6118.01,2,No
+Hypertension,Angioplasty,33,no,northwest,Private,51938.31,7,Yes
+Diabetes,Surgery and Chemotherapy,32,no,northwest,Private,6525.32,9,No
+Fractured Arm,Delivery and Postnatal Care,31,no,southeast,Private,5634.93,4,No
+Hypertension,Radiation Therapy,46,no,southeast,Private,11330.81,3,No
+Kidney Stones,Insulin Therapy,37,no,northwest,Private,9101.88,1,No
+Diabetes,Angioplasty,37,no,northeast,Private,9609.62,6,No
+Diabetes,Lithotripsy,60,no,northwest,Private,43384.71,4,No
+Stroke,Appendectomy,25,no,northeast,Gov,3265.58,5,No
+Hypertension,Insulin Therapy,62,yes,southeast,Gov,30589.6,2,No
+Osteoarthritis,Surgery and Chemotherapy,23,no,southwest,Gov,2466.24,10,No
+Childbirth,Medication and Counseling,56,no,southeast,Private,13863.4,1,No
+Childbirth,Epinephrine Injection,27,yes,southeast,Gov,43572.93,3,No
+Appendicitis,X-Ray and Splint,19,no,southwest,Gov,2020.96,3,No
+Hypertension,X-Ray and Splint,52,no,northeast,Gov,11877.07,2,No
+Osteoarthritis,Antibiotics and Rest,23,no,northeast,Gov,2634.69,3,No
+Heart Attack,Appendectomy,56,no,southwest,Private,15903.58,5,No
+Cancer,Appendectomy,30,yes,southwest,Private,50651.52,3,No
+Osteoarthritis,Epinephrine Injection,60,no,northeast,Gov,14551.73,2,No
+Cancer,Angioplasty,30,no,southwest,Private,10893.06,11,Yes
+Childbirth,Angioplasty,18,no,southeast,Private,1918.71,8,No
+Heart Disease,Delivery and Postnatal Care,34,yes,northeast,Private,51840.08,3,No
+Appendicitis,X-Ray and Splint,37,no,northwest,Private,8530.36,2,No
+Hypertension,Medication and Counseling,59,no,southeast,Private,19251.56,2,No
+Childbirth,Insulin Therapy,63,no,northeast,Private,18064.79,1,No
+Diabetes,Cardiac Catheterization,55,no,northwest,Private,28984.64,10,Yes
+Kidney Stones,Medication and Counseling,23,no,northwest,Private,3815.89,3,No
+Diabetes,X-Ray and Splint,31,yes,southwest,Private,48388.75,1,No
+Allergic Reaction,Cast and Physical Therapy,22,yes,southwest,Private,48930.17,2,No
+Prostate Cancer,Cast and Physical Therapy,18,no,northeast,Private,3022.51,2,No
+Childbirth,Cast and Physical Therapy,19,no,southwest,Private,6445.72,2,No
+Stroke,Antibiotics and Rest,63,no,northwest,Private,17212.62,1,No
+Cancer,Epinephrine Injection,28,yes,southwest,Gov,51194.56,1,No
+Diabetes,Epinephrine Injection,19,no,northwest,Private,2031.79,1,No
+Appendicitis,Delivery and Postnatal Care,62,no,northwest,Gov,18734.63,5,No
+Allergic Reaction,Radiation Therapy,26,no,southwest,Private,3165.66,2,No
+Heart Disease,Cardiac Catheterization,35,yes,northeast,Private,93966.73,8,Yes
+Diabetes,Physical Therapy and Pain Management,60,yes,southwest,Private,66238.37,3,No
+Appendicitis,Epinephrine Injection,24,no,northeast,Private,4188.34,3,No
+Childbirth,Antibiotics and Rest,31,no,southeast,Private,6187.2,1,No
+Diabetes,X-Ray and Splint,41,no,southeast,Private,8624.66,2,No
+Respiratory Infection,Surgery and Chemotherapy,37,no,southeast,Gov,11933.0,10,Yes
+Osteoarthritis,Appendectomy,38,no,northeast,Private,8359.55,3,No
+Childbirth,Medication and Counseling,55,no,southwest,Gov,20630.28,1,No
+Fractured Arm,Insulin Therapy,18,no,northeast,Gov,3393.36,1,No
+Appendicitis,X-Ray and Splint,28,no,northwest,Private,4890.77,2,No
+Stroke,Cast and Physical Therapy,60,no,southeast,Private,15787.37,1,No
+Kidney Stones,Physical Therapy and Pain Management,36,yes,southeast,Private,53225.12,3,No
+Appendicitis,CT Scan and Medication,18,no,northeast,Gov,3714.7,5,Yes
+Fractured Arm,Epinephrine Injection,21,no,northwest,Gov,3579.83,1,No
+Fractured Leg,Antibiotics and Rest,48,yes,southwest,Private,29460.34,1,No
+Fractured Arm,Epinephrine Injection,36,yes,southeast,Private,51896.04,3,No
+Stroke,Insulin Therapy,40,no,northwest,Gov,8865.65,3,No
+Fractured Arm,Surgery and Chemotherapy,58,yes,northwest,Private,80150.33,10,No
+Kidney Stones,Lithotripsy,58,no,northeast,Private,18710.13,3,No
+Kidney Stones,Lithotripsy,18,yes,southeast,Private,51454.75,4,No
+Heart Attack,Cardiac Catheterization,53,yes,southeast,Private,54915.82,9,Yes
+Hypertension,Insulin Therapy,34,no,northwest,Gov,5989.52,1,No
+Respiratory Infection,Surgery and Chemotherapy,43,no,northeast,Private,14522.99,10,No
+Heart Attack,Cardiac Catheterization,25,no,southeast,Private,11824.74,12,Yes
+Heart Disease,CT Scan and Medication,64,no,northwest,Private,71268.64,9,Yes
+Hypertension,Insulin Therapy,28,no,northwest,Private,5683.76,3,No
+Respiratory Infection,X-Ray and Splint,20,yes,northwest,Private,20228.65,2,No
+Allergic Reaction,Epinephrine Injection,19,no,southwest,Private,2179.02,1,No
+Stroke,Appendectomy,61,no,southwest,Private,21352.61,4,No
+Hypertension,Cast and Physical Therapy,40,no,northwest,Gov,7028.32,2,No
+Allergic Reaction,Epinephrine Injection,40,no,southeast,Private,8140.14,2,No
+Stroke,Surgery and Chemotherapy,28,yes,southeast,Gov,26494.72,11,No
+Fractured Leg,Appendectomy,27,yes,southeast,Private,22794.45,2,No
+Heart Attack,Epinephrine Injection,31,no,northeast,Gov,6799.46,1,No
+Stroke,Antibiotics and Rest,53,no,southwest,Gov,12915.9,3,No
+Stroke,X-Ray and Splint,58,no,southeast,Gov,13141.29,2,No
+Fractured Arm,Epinephrine Injection,44,no,southwest,Gov,7726.85,1,No
+Appendicitis,Cast and Physical Therapy,57,no,northwest,Gov,11356.66,1,No
+Hypertension,Cardiac Catheterization,29,no,southeast,Private,9325.76,8,Yes
+Kidney Stones,Epinephrine Injection,21,no,southeast,Private,2107.15,3,No
+Appendicitis,Radiation Therapy,22,no,northeast,Private,3443.78,1,No
+Diabetes,Appendectomy,41,no,northwest,Private,9856.54,4,No
+Cancer,Medication and Counseling,31,no,northeast,Private,5551.52,1,No
+Hypertension,Appendectomy,45,no,northeast,Gov,9522.35,4,No
+Heart Disease,Surgery and Chemotherapy,22,yes,southeast,Private,87802.7,7,Yes
+Cancer,Delivery and Postnatal Care,48,no,northwest,Private,15171.28,2,No
+Appendicitis,Medication and Counseling,37,yes,southwest,Private,49795.65,1,No
+Stroke,Physical Therapy and Pain Management,45,yes,northwest,Gov,23208.41,2,No
+Osteoarthritis,X-Ray and Splint,57,yes,northwest,Gov,47936.83,3,No
+Appendicitis,Cardiac Catheterization,56,no,southwest,Private,26160.38,8,Yes
+Osteoarthritis,Epinephrine Injection,46,no,northwest,Gov,8026.67,1,No
+Fractured Leg,Surgery and Chemotherapy,55,no,northwest,Gov,13299.09,6,No
+Respiratory Infection,Epinephrine Injection,21,no,southeast,Gov,2229.67,3,No
+Cancer,CT Scan and Medication,53,no,northwest,Private,28723.1,13,Yes
+Cancer,Epinephrine Injection,59,yes,northeast,Private,37731.17,1,No
+Fractured Arm,Cast and Physical Therapy,35,no,northwest,Private,7877.38,3,No
+Allergic Reaction,Physical Therapy and Pain Management,64,yes,southwest,Private,65025.2,2,No
+Fractured Leg,X-Ray and Splint,28,no,southeast,Private,4708.6,1,No
+Stroke,X-Ray and Splint,54,no,southwest,Gov,13315.85,3,No
+Prostate Cancer,Insulin Therapy,55,no,southeast,Gov,11248.91,2,No
+Allergic Reaction,Radiation Therapy,56,yes,northeast,Gov,22412.65,1,No
+Stroke,CT Scan and Medication,38,yes,southwest,Private,37376.4,7,Yes
+Diabetes,Medication and Counseling,41,no,southwest,Gov,6804.74,2,No
+Appendicitis,Physical Therapy and Pain Management,30,no,northeast,Private,5012.0,3,No
+Prostate Cancer,Physical Therapy and Pain Management,18,no,northeast,Private,29349.16,3,No
+Heart Disease,Cast and Physical Therapy,61,yes,southeast,Private,38677.74,1,No
+Childbirth,Physical Therapy and Pain Management,34,no,southwest,Private,6254.82,1,No
+Respiratory Infection,Antibiotics and Rest,20,yes,northwest,Private,24145.52,2,No
+Heart Attack,Insulin Therapy,19,no,southwest,Private,2914.4,1,No
+Allergic Reaction,Physical Therapy and Pain Management,26,no,northwest,Private,5331.29,2,No
+Heart Disease,Medication and Counseling,29,no,southeast,Private,3583.9,1,No
+Appendicitis,Physical Therapy and Pain Management,63,yes,southeast,Private,64701.36,2,No
+Appendicitis,Angioplasty,54,no,northwest,Private,20297.35,11,No
+Cancer,Appendectomy,55,no,southwest,Gov,13069.49,3,No
+Diabetes,Angioplasty,37,no,southwest,Private,7841.41,10,No
+Fractured Arm,Antibiotics and Rest,21,no,northwest,Private,3306.51,2,No
+Hypertension,Cardiac Catheterization,52,no,northeast,Private,30156.83,13,Yes
+Kidney Stones,Delivery and Postnatal Care,60,no,northeast,Gov,36311.99,4,No
+Childbirth,Insulin Therapy,58,no,southeast,Private,15649.32,3,No
+Childbirth,Surgery and Chemotherapy,29,yes,southeast,Private,45142.13,10,Yes
+Hypertension,Surgery and Chemotherapy,49,no,southeast,Private,20320.64,10,Yes
+Stroke,Lithotripsy,37,no,northwest,Private,9193.84,3,No
+Fractured Arm,Radiation Therapy,44,no,southwest,Private,10642.96,2,No
+Heart Attack,Antibiotics and Rest,18,no,northeast,Private,2345.23,2,No
+Diabetes,X-Ray and Splint,20,no,northwest,Private,2821.84,1,No
+Cancer,Medication and Counseling,44,yes,northeast,Gov,39556.49,1,No
+Hypertension,Cast and Physical Therapy,47,no,northwest,Gov,11126.51,3,No
+Osteoarthritis,Delivery and Postnatal Care,26,no,northeast,Gov,4062.48,4,No
+Childbirth,X-Ray and Splint,19,yes,southwest,Private,23486.49,2,No
+Allergic Reaction,Epinephrine Injection,52,no,southwest,Private,12043.17,1,No
+Heart Disease,Angioplasty,32,yes,northwest,Private,55238.94,7,No
+Appendicitis,X-Ray and Splint,38,no,southwest,Gov,6082.4,1,No
+Osteoarthritis,Insulin Therapy,59,no,northeast,Gov,12815.44,1,No
+Heart Attack,Insulin Therapy,61,no,northeast,Gov,13616.36,1,No
+Allergic Reaction,Insulin Therapy,53,no,southwest,Private,15349.91,2,No
+Childbirth,Angioplasty,19,no,northwest,Private,3856.93,10,Yes
+Fractured Leg,Appendectomy,20,no,northeast,Private,3378.67,3,No
+Kidney Stones,Medication and Counseling,22,no,southeast,Private,2964.06,3,No
+Kidney Stones,Epinephrine Injection,19,no,southwest,Private,1734.48,2,No
+Diabetes,Angioplasty,22,no,northwest,Gov,3068.53,12,No
+Prostate Cancer,Angioplasty,54,no,southeast,Gov,51639.97,8,Yes
+Fractured Arm,Cast and Physical Therapy,22,no,southwest,Private,2979.26,2,No
+Hypertension,Epinephrine Injection,34,no,northeast,Private,37641.87,2,No
+Allergic Reaction,Antibiotics and Rest,26,no,northeast,Private,4799.51,3,No
+Heart Disease,X-Ray and Splint,34,yes,southeast,Private,26087.18,3,No
+Allergic Reaction,Insulin Therapy,29,no,northwest,Gov,19973.66,2,No
+Childbirth,Epinephrine Injection,30,yes,northwest,Private,25932.49,1,No
+Cancer,Insulin Therapy,29,no,southeast,Private,7065.1,3,No
+Stroke,Epinephrine Injection,46,yes,northwest,Gov,40720.55,1,No
+Prostate Cancer,Antibiotics and Rest,51,no,southeast,Gov,10865.37,2,No
+Heart Attack,Delivery and Postnatal Care,53,no,northwest,Gov,13151.63,5,No
+Kidney Stones,Angioplasty,19,no,southwest,Gov,2487.4,9,No
+Stroke,Cast and Physical Therapy,35,no,northwest,Gov,5125.22,1,No
+Allergic Reaction,Antibiotics and Rest,48,no,southeast,Gov,8568.6,3,No
+Prostate Cancer,Cast and Physical Therapy,32,no,northeast,Private,7917.93,1,No
+Heart Attack,Lithotripsy,42,yes,northeast,Private,27451.53,3,No
+Childbirth,Appendectomy,40,no,northeast,Private,10615.78,5,No
+Stroke,Angioplasty,44,no,northwest,Gov,13133.04,8,Yes
+Heart Attack,Medication and Counseling,48,yes,southeast,Gov,23346.04,2,No
+Kidney Stones,Epinephrine Injection,18,yes,northeast,Private,21337.5,3,No
+Cancer,Insulin Therapy,30,yes,southeast,Gov,40645.28,3,No
+Childbirth,Insulin Therapy,50,no,southeast,Gov,21724.32,2,No
+Kidney Stones,Epinephrine Injection,42,yes,northwest,Private,26685.88,1,No
+Osteoarthritis,Delivery and Postnatal Care,18,yes,southeast,Private,54224.23,4,No
+Stroke,Physical Therapy and Pain Management,54,no,southwest,Gov,11495.61,2,No
+Allergic Reaction,Cardiac Catheterization,32,no,southwest,Gov,9737.53,8,Yes
+Hypertension,Surgery and Chemotherapy,37,no,northwest,Private,11879.0,8,Yes
+Diabetes,Delivery and Postnatal Care,47,no,northeast,Private,15610.63,5,No
+Hypertension,Medication and Counseling,20,no,southwest,Gov,4830.63,1,No
+Prostate Cancer,Physical Therapy and Pain Management,32,no,northwest,Private,8427.1,2,No
+Heart Disease,Antibiotics and Rest,19,no,northwest,Private,3739.01,2,No
+Kidney Stones,Medication and Counseling,27,no,northeast,Gov,5310.7,2,No
+Hypertension,Insulin Therapy,63,no,southeast,Gov,14745.93,3,No
+Heart Disease,Epinephrine Injection,49,no,southwest,Private,10145.85,1,No
+Appendicitis,Cast and Physical Therapy,18,no,northeast,Private,2330.35,2,No
+Diabetes,Surgery and Chemotherapy,35,no,southwest,Private,12393.79,8,Yes
+Kidney Stones,Antibiotics and Rest,24,no,northwest,Private,3926.23,3,No
+Allergic Reaction,Insulin Therapy,63,yes,southwest,Gov,53706.9,3,No
+Appendicitis,Insulin Therapy,38,no,northwest,Gov,7101.45,2,No
+Respiratory Infection,Physical Therapy and Pain Management,54,no,southwest,Private,13045.12,1,No
+Fractured Arm,Cast and Physical Therapy,46,no,southwest,Private,11029.1,1,No
+Childbirth,Cardiac Catheterization,41,no,northeast,Private,20171.71,8,Yes
+Kidney Stones,Lithotripsy,58,no,northwest,Gov,12909.47,2,No
+Fractured Leg,Physical Therapy and Pain Management,18,no,southeast,Private,2039.78,1,No
+Respiratory Infection,Appendectomy,22,no,northeast,Private,5507.46,3,No
+Cancer,CT Scan and Medication,44,no,northwest,Private,12520.37,7,No
+Heart Attack,Physical Therapy and Pain Management,44,no,southeast,Private,10630.71,3,No
+Childbirth,Cardiac Catheterization,36,yes,northeast,Gov,59067.01,8,No
+Appendicitis,Antibiotics and Rest,26,no,southeast,Private,5475.22,3,No
+Diabetes,Medication and Counseling,30,no,southwest,Gov,5325.65,1,No
+Heart Attack,Delivery and Postnatal Care,41,no,southwest,Gov,7453.56,2,No
+Fractured Leg,Appendectomy,29,no,northwest,Private,7384.37,4,No
+Kidney Stones,Appendectomy,61,no,southeast,Private,17266.71,3,No
+Childbirth,Cast and Physical Therapy,36,no,southwest,Gov,5372.25,2,No
+Fractured Leg,Appendectomy,25,no,southeast,Private,2939.27,2,No
+Fractured Leg,Epinephrine Injection,56,no,northwest,Gov,13248.78,3,No
+Allergic Reaction,Lithotripsy,18,no,southeast,Private,1706.2,4,No
+Diabetes,Antibiotics and Rest,19,no,northwest,Private,2049.45,1,No
+Appendicitis,Appendectomy,39,no,southwest,Private,7768.36,2,No
+Fractured Leg,Angioplasty,45,no,southeast,Private,15969.05,13,No
+Fractured Leg,X-Ray and Splint,51,no,northwest,Private,12055.32,1,No
+Fractured Leg,Appendectomy,64,no,northeast,Gov,16391.67,3,No
+Kidney Stones,CT Scan and Medication,19,no,northwest,Private,3595.52,10,No
+Fractured Leg,Angioplasty,48,no,southeast,Gov,11976.05,7,No
+Stroke,Epinephrine Injection,60,no,northwest,Private,17891.79,3,No
+Cancer,Appendectomy,27,yes,southeast,Gov,44560.68,4,No
+Kidney Stones,Angioplasty,46,no,southwest,Private,16885.04,7,Yes
+Diabetes,Antibiotics and Rest,28,no,northeast,Private,5964.39,3,No
+Fractured Leg,Delivery and Postnatal Care,59,no,southeast,Private,16147.04,2,No
+Heart Disease,Antibiotics and Rest,35,yes,northeast,Gov,23082.5,3,No
+Prostate Cancer,Cardiac Catheterization,63,no,southwest,Private,23424.1,10,No
+Childbirth,Lithotripsy,40,no,northeast,Private,9088.9,3,No
+Heart Attack,Lithotripsy,20,no,southwest,Private,2722.6,2,No
+Cancer,Insulin Therapy,40,no,northwest,Private,11223.73,3,No
+Heart Disease,Physical Therapy and Pain Management,24,no,northwest,Private,4864.34,3,No
+Allergic Reaction,X-Ray and Splint,34,no,southeast,Gov,5503.06,2,No
+Respiratory Infection,Medication and Counseling,45,no,southwest,Gov,8520.03,1,No
+Stroke,Surgery and Chemotherapy,41,no,southwest,Private,19350.9,11,Yes
+Fractured Leg,CT Scan and Medication,53,no,northwest,Private,24465.2,8,Yes
+Allergic Reaction,Antibiotics and Rest,27,no,southeast,Private,3415.14,2,No
+Diabetes,Delivery and Postnatal Care,26,no,southeast,Private,5089.47,5,No
+Respiratory Infection,Angioplasty,24,no,southeast,Private,59255.68,10,Yes
+Respiratory Infection,Angioplasty,34,no,southwest,Gov,9473.57,9,Yes
+Appendicitis,Insulin Therapy,53,no,northeast,Private,14526.72,2,No
+Cancer,CT Scan and Medication,32,no,southwest,Private,12411.45,7,Yes
+Appendicitis,CT Scan and Medication,19,yes,southwest,Private,91296.49,12,Yes
+Heart Disease,Lithotripsy,42,yes,southeast,Private,26833.87,2,No
+Hypertension,X-Ray and Splint,55,no,southeast,Private,16482.36,2,No
+Stroke,CT Scan and Medication,28,no,southeast,Private,4034.24,5,No
+Cancer,Radiation Therapy,58,no,southeast,Private,33312.59,2,No
+Kidney Stones,CT Scan and Medication,41,no,northeast,Gov,11037.26,13,No
+Fractured Arm,X-Ray and Splint,47,no,northeast,Private,11531.57,1,No
+Cancer,Radiation Therapy,42,no,northwest,Gov,8188.01,3,No
+Fractured Leg,Angioplasty,59,no,southeast,Gov,18901.74,8,No
+Heart Attack,Cardiac Catheterization,19,no,southwest,Private,4081.89,8,Yes
+Childbirth,Appendectomy,59,no,southwest,Gov,14800.59,4,No
+Appendicitis,Epinephrine Injection,39,no,northwest,Private,8387.74,1,No
+Osteoarthritis,Radiation Therapy,40,yes,southeast,Private,26735.87,2,No
+Prostate Cancer,Lithotripsy,18,no,southeast,Private,2221.68,2,No
+Respiratory Infection,Antibiotics and Rest,31,no,southeast,Gov,4909.53,2,No
+Fractured Leg,Cast and Physical Therapy,19,yes,northwest,Private,23859.94,2,No
+Heart Disease,Medication and Counseling,44,no,southeast,Private,9834.92,2,No
+Osteoarthritis,Lithotripsy,23,yes,northeast,Gov,42362.79,3,No
+Stroke,X-Ray and Splint,33,no,northeast,Private,6692.59,1,No
+Fractured Leg,Cast and Physical Therapy,55,no,southwest,Private,48345.19,3,No
+Heart Disease,Antibiotics and Rest,40,no,southwest,Private,9895.69,3,No
+Allergic Reaction,Physical Therapy and Pain Management,63,yes,northeast,Gov,32475.48,3,No
+Heart Disease,Physical Therapy and Pain Management,54,no,northwest,Private,33655.16,2,No
+Fractured Leg,Medication and Counseling,60,no,southeast,Private,17391.97,3,No
+Heart Disease,Delivery and Postnatal Care,24,no,southeast,Private,2732.03,2,No
+Stroke,Medication and Counseling,19,no,southwest,Private,2519.13,2,No
+Prostate Cancer,Lithotripsy,29,no,northeast,Private,5555.77,2,No
+Stroke,Medication and Counseling,18,yes,northeast,Gov,12829.46,1,No
+Stroke,Lithotripsy,63,yes,southwest,Private,70957.96,5,No
+Prostate Cancer,Radiation Therapy,54,yes,southeast,Private,60858.53,3,No
+Heart Disease,Medication and Counseling,27,no,southwest,Private,5858.52,3,No
+Fractured Leg,Surgery and Chemotherapy,50,yes,northeast,Private,61645.74,5,No
+Kidney Stones,Insulin Therapy,55,no,northeast,Gov,13047.33,1,No
+Hypertension,Cast and Physical Therapy,56,yes,northwest,Gov,43921.18,1,No
+Hypertension,Physical Therapy and Pain Management,38,no,southeast,Private,7426.35,2,No
+Hypertension,Appendectomy,51,no,northwest,Gov,12672.11,2,No
+Heart Attack,Appendectomy,19,yes,northwest,Gov,37125.32,2,No
+Fractured Leg,Epinephrine Injection,58,no,southwest,Gov,13020.88,3,No
+Prostate Cancer,Insulin Therapy,20,yes,southeast,Gov,18793.79,3,No
+Prostate Cancer,Insulin Therapy,52,yes,northeast,Private,31087.3,1,No
+Osteoarthritis,Appendectomy,19,yes,northwest,Private,49801.68,3,No
+Prostate Cancer,Cast and Physical Therapy,53,no,southeast,Private,25578.75,1,No
+Heart Disease,Epinephrine Injection,46,yes,southeast,Private,63457.8,2,No
+Fractured Arm,Surgery and Chemotherapy,40,yes,southeast,Private,40586.62,10,Yes
+Heart Disease,Radiation Therapy,59,no,northeast,Private,18238.29,1,No
+Heart Attack,Angioplasty,45,no,southwest,Private,17579.49,8,Yes
+Stroke,X-Ray and Splint,49,no,northeast,Private,11603.1,1,No
+Diabetes,Lithotripsy,18,no,southeast,Private,2364.22,3,No
+Childbirth,Antibiotics and Rest,50,yes,southwest,Private,53571.05,1,No
+Fractured Arm,Epinephrine Injection,41,no,northwest,Private,9082.13,1,No
+Hypertension,Physical Therapy and Pain Management,50,no,northeast,Private,13224.29,2,No
+Stroke,X-Ray and Splint,25,no,northwest,Private,3153.96,1,No
+Cancer,Cardiac Catheterization,47,no,northeast,Private,14573.76,6,No
+Stroke,Delivery and Postnatal Care,19,no,northwest,Private,4205.55,4,No
+Stroke,X-Ray and Splint,22,no,southwest,Private,2956.89,3,No
+Appendicitis,CT Scan and Medication,59,no,southeast,Private,30544.27,8,Yes
+Allergic Reaction,Cast and Physical Therapy,51,no,southeast,Gov,10840.64,2,No
+Diabetes,Cast and Physical Therapy,40,yes,northeast,Private,27914.46,1,No
+Heart Attack,Angioplasty,54,yes,northeast,Private,101953.27,6,Yes
+Allergic Reaction,Angioplasty,30,no,northeast,Private,7944.61,12,No
+Allergic Reaction,X-Ray and Splint,55,no,northeast,Private,16333.77,3,No
+Respiratory Infection,Cast and Physical Therapy,52,no,southwest,Gov,10588.51,3,No
+Fractured Leg,Epinephrine Injection,46,no,southeast,Private,9677.64,1,No
+Prostate Cancer,Delivery and Postnatal Care,46,no,northeast,Gov,10376.22,2,No
+Fractured Arm,Cardiac Catheterization,63,no,northwest,Private,26730.36,13,No
+Osteoarthritis,Antibiotics and Rest,59,yes,northeast,Gov,47896.79,1,No
+Respiratory Infection,Physical Therapy and Pain Management,52,no,southeast,Private,32491.03,1,No
+Kidney Stones,Antibiotics and Rest,28,no,southwest,Private,3965.02,1,No
+Childbirth,Cardiac Catheterization,29,no,northeast,Gov,38325.06,7,Yes
+Allergic Reaction,Medication and Counseling,25,yes,southeast,Gov,46323.46,3,No
+Respiratory Infection,CT Scan and Medication,22,no,southeast,Private,5095.33,9,Yes
+Stroke,Angioplasty,25,no,southwest,Gov,7382.58,10,Yes
+Heart Attack,Antibiotics and Rest,18,no,northeast,Private,2343.78,3,No
+Diabetes,Physical Therapy and Pain Management,19,yes,southwest,Private,22409.54,2,No
+Cancer,Epinephrine Injection,47,yes,southeast,Private,27473.35,1,No
+Fractured Leg,Angioplasty,31,yes,northwest,Private,91538.26,9,Yes
+Fractured Leg,Surgery and Chemotherapy,48,no,northwest,Private,21851.93,9,Yes
+Stroke,Lithotripsy,36,no,northeast,Gov,7421.42,3,No
+Childbirth,Cardiac Catheterization,53,yes,northeast,Private,58763.37,7,Yes
+Childbirth,Physical Therapy and Pain Management,56,no,southeast,Gov,13492.06,3,No
+Childbirth,Appendectomy,28,no,southeast,Private,6524.19,4,No
+Fractured Arm,Radiation Therapy,57,no,southwest,Private,15807.76,1,No
+Stroke,Physical Therapy and Pain Management,29,no,northwest,Gov,19442.35,1,No
+Allergic Reaction,Cardiac Catheterization,28,no,southwest,Private,34049.82,10,No
+Childbirth,Epinephrine Injection,30,no,southeast,Private,5707.66,2,No
+Prostate Cancer,Antibiotics and Rest,58,no,northeast,Private,16423.82,2,No
+Allergic Reaction,Medication and Counseling,41,no,northwest,Gov,8524.07,3,No
+Respiratory Infection,X-Ray and Splint,50,no,southwest,Private,10555.59,1,No
+Prostate Cancer,Cardiac Catheterization,19,no,southwest,Gov,2345.46,9,No
+Heart Attack,Delivery and Postnatal Care,43,yes,southeast,Gov,46336.97,3,No
+Cancer,CT Scan and Medication,49,no,southeast,Private,19193.91,10,Yes
+Diabetes,Antibiotics and Rest,27,yes,southwest,Gov,38322.76,2,No
+Childbirth,Antibiotics and Rest,52,no,northeast,Private,13368.81,2,No
+Childbirth,Physical Therapy and Pain Management,50,no,northwest,Gov,8835.26,1,No
+Fractured Leg,Cast and Physical Therapy,54,no,northeast,Private,14348.21,3,No
+Osteoarthritis,Appendectomy,44,no,northwest,Private,10204.14,2,No
+Hypertension,CT Scan and Medication,32,no,northeast,Private,7001.41,5,No
+Stroke,CT Scan and Medication,34,no,northwest,Private,11563.85,10,Yes
+Allergic Reaction,Surgery and Chemotherapy,26,no,northeast,Private,58286.8,10,Yes
+Stroke,Physical Therapy and Pain Management,34,yes,southwest,Private,48801.01,3,No
+Stroke,Radiation Therapy,57,no,northeast,Private,15903.66,2,No
+Heart Attack,Surgery and Chemotherapy,29,no,southwest,Private,4836.53,7,No
+Heart Disease,Antibiotics and Rest,40,no,northeast,Private,9075.28,2,No
+Allergic Reaction,Lithotripsy,27,no,southeast,Gov,4274.27,4,No
+Osteoarthritis,Medication and Counseling,45,yes,northwest,Private,53450.63,1,No
+Cancer,Lithotripsy,64,yes,southwest,Gov,52720.83,2,No
+Heart Disease,Antibiotics and Rest,52,no,southwest,Gov,10059.02,2,No
+Heart Disease,Radiation Therapy,61,yes,northeast,Private,66711.65,3,No
+Diabetes,Antibiotics and Rest,52,yes,northwest,Private,33541.23,3,No
+Prostate Cancer,CT Scan and Medication,61,no,northwest,Private,35251.22,13,Yes
+Stroke,Cardiac Catheterization,56,no,northeast,Private,19673.51,9,No
+Hypertension,Physical Therapy and Pain Management,43,no,northeast,Private,26323.79,3,No
+Cancer,Antibiotics and Rest,64,no,southwest,Private,17278.5,1,No
+Diabetes,Cardiac Catheterization,60,no,southeast,Private,22767.33,13,No
+Prostate Cancer,Cast and Physical Therapy,62,no,northwest,Private,19164.29,3,No
+Kidney Stones,Surgery and Chemotherapy,50,yes,northeast,Gov,56590.78,9,No
+Heart Attack,CT Scan and Medication,46,no,southeast,Private,21610.68,13,Yes
+Hypertension,CT Scan and Medication,24,no,southwest,Private,44781.71,8,Yes
+Heart Disease,Epinephrine Injection,62,no,northwest,Private,16690.12,1,No
+Childbirth,CT Scan and Medication,60,no,northeast,Private,31225.39,10,Yes
+Fractured Leg,X-Ray and Splint,63,no,northeast,Private,19225.04,3,No
+Osteoarthritis,Radiation Therapy,49,no,southeast,Private,13721.51,1,No
+Cancer,Surgery and Chemotherapy,34,no,southeast,Private,12987.03,5,Yes
+Stroke,Cast and Physical Therapy,33,no,southeast,Private,6112.5,1,No
+Respiratory Infection,Antibiotics and Rest,46,no,northeast,Private,11459.88,2,No
+Osteoarthritis,X-Ray and Splint,36,no,southeast,Private,6847.55,1,No
+Allergic Reaction,Lithotripsy,19,no,northwest,Gov,1799.31,3,No
+Heart Disease,Angioplasty,57,no,northwest,Private,22182.39,11,No
+Diabetes,Delivery and Postnatal Care,50,no,southwest,Private,12281.62,3,No
+Stroke,Insulin Therapy,30,no,southwest,Gov,3909.62,2,No
+Allergic Reaction,Epinephrine Injection,33,no,northeast,Gov,13645.37,3,No
+Allergic Reaction,CT Scan and Medication,18,no,southeast,Gov,29679.38,11,Yes
+Heart Disease,Angioplasty,46,no,southwest,Private,58124.7,8,Yes
+Osteoarthritis,Surgery and Chemotherapy,46,no,southeast,Private,23478.3,12,Yes
+Fractured Arm,Cardiac Catheterization,47,no,northwest,Gov,20202.69,13,Yes
+Childbirth,Insulin Therapy,23,no,southeast,Private,2526.26,2,No
+Fractured Arm,Insulin Therapy,18,no,southeast,Private,2210.33,3,No
+Prostate Cancer,Antibiotics and Rest,48,no,northeast,Private,13809.47,3,No
+Prostate Cancer,Appendectomy,35,no,southwest,Private,7126.6,5,No
+Osteoarthritis,Cardiac Catheterization,19,yes,southwest,Private,23362.6,9,No
+Fractured Leg,X-Ray and Splint,21,no,southwest,Gov,2857.56,2,No
+Stroke,Medication and Counseling,21,no,southeast,Gov,3498.56,3,No
+Stroke,Epinephrine Injection,49,no,northeast,Private,12222.93,1,No
+Stroke,Medication and Counseling,56,no,northeast,Private,18466.61,3,No
+Prostate Cancer,Surgery and Chemotherapy,42,no,northwest,Gov,15152.25,8,Yes
+Diabetes,Appendectomy,44,no,northwest,Gov,9739.52,5,No
+Kidney Stones,Epinephrine Injection,18,no,northeast,Private,4352.34,1,No
+Fractured Arm,Insulin Therapy,61,no,northwest,Private,18445.68,2,No
+Hypertension,Surgery and Chemotherapy,57,no,northeast,Private,20299.42,10,No
+Appendicitis,X-Ray and Splint,42,no,northeast,Private,9549.27,1,No
+Appendicitis,Angioplasty,26,yes,southwest,Gov,48715.05,9,No
+Respiratory Infection,Delivery and Postnatal Care,20,no,southeast,Private,2087.29,4,No
+Respiratory Infection,X-Ray and Splint,23,yes,northwest,Private,24796.71,3,No
+Osteoarthritis,Lithotripsy,39,yes,northeast,Gov,25991.92,5,No
+Fractured Arm,Insulin Therapy,24,yes,southeast,Gov,38126.25,1,No
+Cancer,Appendectomy,64,no,northwest,Private,24683.56,5,No
+Allergic Reaction,Radiation Therapy,62,no,southeast,Gov,29701.08,3,No
+Appendicitis,Antibiotics and Rest,27,yes,northeast,Private,20634.05,2,No
+Appendicitis,Radiation Therapy,55,yes,northeast,Gov,46534.06,3,No
+Respiratory Infection,Antibiotics and Rest,55,no,southeast,Private,28574.55,3,No
+Prostate Cancer,X-Ray and Splint,35,no,southeast,Private,8039.51,2,No
+Heart Disease,X-Ray and Splint,44,no,northeast,Private,10378.17,1,No
+Hypertension,Epinephrine Injection,19,no,southwest,Private,1735.06,2,No
+Respiratory Infection,Radiation Therapy,58,no,southeast,Private,16302.57,3,No
+Allergic Reaction,Insulin Therapy,50,no,northwest,Gov,33313.11,3,No
+Fractured Leg,Surgery and Chemotherapy,26,no,northwest,Private,8339.14,11,Yes
+Hypertension,Medication and Counseling,24,no,northwest,Private,5772.6,1,No
+Osteoarthritis,Physical Therapy and Pain Management,48,no,northeast,Private,14763.2,2,No
+Allergic Reaction,Epinephrine Injection,19,no,northwest,Private,2939.85,2,No
+Kidney Stones,Physical Therapy and Pain Management,48,no,northeast,Gov,9860.47,3,No
+Prostate Cancer,Insulin Therapy,49,no,northeast,Private,12773.94,3,No
+Cancer,Appendectomy,46,no,northeast,Gov,11293.21,4,No
+Heart Attack,X-Ray and Splint,46,no,northwest,Private,9408.38,1,No
+Osteoarthritis,Antibiotics and Rest,43,no,southwest,Private,10652.5,1,No
+Hypertension,CT Scan and Medication,21,no,southeast,Private,39185.6,9,Yes
+Stroke,Medication and Counseling,64,no,southwest,Private,20609.09,2,No
+Fractured Leg,Appendectomy,18,no,southeast,Private,2243.54,3,No
+Hypertension,Cardiac Catheterization,51,no,southwest,Private,13897.2,5,No
+Appendicitis,Insulin Therapy,47,no,southeast,Private,11115.39,2,No
+Respiratory Infection,Angioplasty,64,no,northwest,Private,34711.43,10,Yes
+Stroke,Appendectomy,49,no,northwest,Private,15404.19,4,No
+Stroke,Radiation Therapy,31,no,southwest,Private,4482.77,2,No
+Respiratory Infection,X-Ray and Splint,52,no,northeast,Private,15670.74,3,No
+Childbirth,Physical Therapy and Pain Management,33,no,southeast,Private,5754.51,2,No
+Cancer,Appendectomy,47,no,southwest,Private,11742.05,2,No
+Cancer,CT Scan and Medication,38,no,southeast,Private,13970.31,6,Yes
+Fractured Leg,Antibiotics and Rest,32,no,southeast,Private,5602.37,3,No
+Appendicitis,CT Scan and Medication,19,no,northwest,Gov,2432.01,13,No
+Respiratory Infection,Angioplasty,44,yes,northeast,Private,36740.27,12,No
+Cancer,X-Ray and Splint,26,yes,northeast,Gov,14455.64,1,No
+Respiratory Infection,Surgery and Chemotherapy,25,no,southwest,Private,13335.25,12,Yes
+Respiratory Infection,Appendectomy,19,no,northwest,Gov,2348.39,2,No
+Appendicitis,Radiation Therapy,43,no,southeast,Gov,8080.3,2,No
+Childbirth,Appendectomy,52,no,southeast,Private,12568.81,2,No
+Childbirth,Cardiac Catheterization,36,yes,southwest,Gov,31261.88,5,Yes
+Cancer,Cast and Physical Therapy,64,no,southeast,Gov,15860.11,3,No
+Fractured Arm,CT Scan and Medication,63,yes,northwest,Private,43425.7,5,No
+Osteoarthritis,Cardiac Catheterization,64,yes,southeast,Private,110775.88,10,Yes
+Respiratory Infection,Antibiotics and Rest,61,yes,southeast,Private,64073.77,3,No
+Prostate Cancer,CT Scan and Medication,40,yes,northeast,Private,66024.0,8,No
+Prostate Cancer,Angioplasty,25,no,northeast,Private,7159.41,12,Yes
+Cancer,Surgery and Chemotherapy,48,no,southwest,Private,23541.87,13,Yes
+Stroke,Angioplasty,45,no,southeast,Private,16518.71,8,No
+Childbirth,Epinephrine Injection,38,no,northeast,Private,8193.84,1,No
+Fractured Arm,Delivery and Postnatal Care,18,no,northeast,Private,10985.6,4,No
+Respiratory Infection,Antibiotics and Rest,21,no,northeast,Private,3959.32,1,No
+Osteoarthritis,Physical Therapy and Pain Management,27,no,northwest,Gov,18804.75,1,No
+Respiratory Infection,Appendectomy,19,no,southwest,Private,31739.06,2,No
+Cancer,Cast and Physical Therapy,29,no,northwest,Gov,5397.05,3,No
+Osteoarthritis,Medication and Counseling,42,no,southwest,Private,8208.37,3,No
+Hypertension,Insulin Therapy,60,no,southwest,Private,15797.74,1,No
+Stroke,Delivery and Postnatal Care,31,no,northwest,Private,5834.94,3,No
+Osteoarthritis,Insulin Therapy,60,no,southeast,Private,19139.76,3,No
+Kidney Stones,Surgery and Chemotherapy,22,no,northeast,Private,3382.2,6,No
+Osteoarthritis,Radiation Therapy,35,no,southwest,Private,8149.41,3,No
+Kidney Stones,Delivery and Postnatal Care,52,no,southeast,Gov,15111.04,5,No
+Heart Disease,Cast and Physical Therapy,26,no,northeast,Gov,2897.32,1,No
+Fractured Leg,Medication and Counseling,31,no,northwest,Private,6515.12,3,No
+Osteoarthritis,Medication and Counseling,33,yes,southwest,Private,50984.14,3,No
+Respiratory Infection,Surgery and Chemotherapy,18,no,southeast,Gov,1551.68,10,No
+Fractured Arm,Physical Therapy and Pain Management,59,no,southeast,Private,38895.86,2,No
+Allergic Reaction,Lithotripsy,56,yes,northwest,Private,35900.33,3,No
+Childbirth,Surgery and Chemotherapy,45,no,southwest,Gov,9915.86,7,No
+Diabetes,Antibiotics and Rest,60,no,northeast,Gov,14004.1,2,No
+Heart Attack,Lithotripsy,56,no,northwest,Private,17181.03,4,No
+Stroke,Lithotripsy,40,no,southwest,Gov,7093.13,4,No
+Kidney Stones,X-Ray and Splint,35,no,southwest,Private,6548.2,3,No
+Heart Attack,X-Ray and Splint,39,no,southwest,Private,9390.33,1,No
+Osteoarthritis,Medication and Counseling,30,no,northwest,Private,5544.33,2,No
+Childbirth,Physical Therapy and Pain Management,24,no,southwest,Private,2708.22,2,No
+Fractured Arm,Medication and Counseling,20,no,northwest,Gov,1946.48,3,No
+Heart Disease,Physical Therapy and Pain Management,32,no,southeast,Private,6443.78,3,No
+Heart Attack,Angioplasty,59,no,southwest,Private,51495.41,7,Yes
+Appendicitis,Appendectomy,55,no,southeast,Private,17822.95,5,No
+Childbirth,X-Ray and Splint,57,no,northwest,Private,14800.97,1,No
+Osteoarthritis,Epinephrine Injection,56,no,southwest,Private,13251.76,1,No
+Hypertension,Radiation Therapy,40,no,southeast,Gov,7682.67,1,No
+Heart Disease,Surgery and Chemotherapy,49,no,southeast,Private,21801.11,5,Yes
+Appendicitis,Physical Therapy and Pain Management,42,yes,southwest,Private,30448.04,2,No
+Cancer,Radiation Therapy,62,no,northeast,Private,20941.7,3,No
+Childbirth,Cardiac Catheterization,56,no,northeast,Private,26378.3,10,Yes
+Childbirth,X-Ray and Splint,19,no,northwest,Gov,1632.04,1,No
+Heart Disease,Angioplasty,30,yes,southeast,Private,32943.32,8,No
+Stroke,Insulin Therapy,60,no,southwest,Gov,14547.16,2,No
+Appendicitis,Cardiac Catheterization,56,no,northwest,Private,33188.87,13,Yes
+Heart Attack,Lithotripsy,28,no,northeast,Private,34933.39,5,No
+Hypertension,Cast and Physical Therapy,18,no,southeast,Gov,2201.1,1,No
+Childbirth,Surgery and Chemotherapy,27,no,southeast,Private,6554.73,12,Yes
+Childbirth,Medication and Counseling,18,no,northeast,Private,3029.77,3,No
+Heart Attack,Epinephrine Injection,19,no,southwest,Gov,1918.91,3,No
+Childbirth,Physical Therapy and Pain Management,47,no,northeast,Gov,20878.78,1,No
+Osteoarthritis,Surgery and Chemotherapy,54,yes,southwest,Private,59965.68,9,Yes
+Heart Disease,Antibiotics and Rest,61,yes,northwest,Private,39694.41,2,No
+Cancer,Appendectomy,24,yes,northeast,Private,52721.29,5,No
+Osteoarthritis,Cast and Physical Therapy,25,no,northwest,Private,3484.79,3,No
+Childbirth,Lithotripsy,21,no,southeast,Private,2109.67,3,No
+Childbirth,Medication and Counseling,23,no,southeast,Private,2508.39,2,No
+Heart Disease,Appendectomy,63,no,northwest,Gov,17110.71,3,No
+Childbirth,Antibiotics and Rest,49,no,southeast,Gov,9304.7,1,No
+Fractured Leg,X-Ray and Splint,18,no,southeast,Private,2027.74,1,No
+Respiratory Infection,Radiation Therapy,51,no,southwest,Private,13585.09,2,No
+Diabetes,Lithotripsy,48,no,southwest,Private,14344.54,5,No
+Stroke,Surgery and Chemotherapy,31,no,northeast,Gov,7303.0,5,Yes
+Cancer,Physical Therapy and Pain Management,54,no,northwest,Private,17153.61,3,No
+Heart Disease,Angioplasty,19,no,southwest,Gov,1880.9,13,No
+Childbirth,Surgery and Chemotherapy,44,yes,southeast,Gov,92392.91,7,Yes
+Prostate Cancer,CT Scan and Medication,53,no,northwest,Private,24716.43,10,Yes
+Heart Attack,Angioplasty,19,no,southwest,Private,3278.95,13,No
+Heart Attack,Physical Therapy and Pain Management,61,no,southeast,Private,33705.5,3,No
+Allergic Reaction,Antibiotics and Rest,18,no,northeast,Gov,2196.47,1,No
+Diabetes,Cast and Physical Therapy,61,no,southwest,Gov,13831.45,3,No
+Kidney Stones,CT Scan and Medication,21,yes,southwest,Gov,37678.42,11,Yes
+Appendicitis,Cardiac Catheterization,20,no,northeast,Gov,2655.48,9,No
+Diabetes,Medication and Counseling,31,no,southwest,Private,6781.01,2,No
+Diabetes,Insulin Therapy,45,no,southwest,Private,11038.46,2,No
+Osteoarthritis,Cast and Physical Therapy,44,no,southeast,Gov,9032.21,2,No
+Fractured Arm,Antibiotics and Rest,62,no,southwest,Gov,14817.95,2,No
+Stroke,CT Scan and Medication,29,yes,southwest,Private,85517.06,8,Yes
+Heart Disease,Antibiotics and Rest,43,no,northeast,Private,9401.38,3,No
+Osteoarthritis,Angioplasty,51,yes,southeast,Private,41658.97,11,No
+Cancer,Appendectomy,19,yes,southeast,Gov,39058.01,5,No
+Childbirth,CT Scan and Medication,38,no,southeast,Private,10081.77,10,No
+Childbirth,Surgery and Chemotherapy,37,no,northwest,Private,16057.59,7,Yes
+Cancer,Cast and Physical Therapy,22,no,northwest,Gov,2643.27,1,No
+Fractured Arm,Antibiotics and Rest,21,no,northwest,Gov,3384.81,3,No
+Heart Attack,X-Ray and Splint,24,no,northeast,Private,4185.79,3,No
+Hypertension,Appendectomy,57,no,southwest,Gov,13746.34,5,No
+Kidney Stones,Delivery and Postnatal Care,56,no,northeast,Private,16174.13,3,No
+Kidney Stones,Surgery and Chemotherapy,27,no,southeast,Private,5902.5,8,Yes
+Fractured Leg,X-Ray and Splint,51,no,northeast,Gov,10297.46,3,No
+Diabetes,Medication and Counseling,19,no,southwest,Private,1727.41,2,No
+Fractured Leg,Lithotripsy,39,yes,southwest,Gov,25298.59,5,No
+Fractured Arm,Radiation Therapy,58,no,southwest,Private,15623.79,3,No
+Kidney Stones,Physical Therapy and Pain Management,20,no,southeast,Private,34655.36,1,No
+Appendicitis,Antibiotics and Rest,45,no,northwest,Private,11568.51,3,No
+Prostate Cancer,X-Ray and Splint,35,no,southwest,Private,7206.05,2,No
+Stroke,Appendectomy,31,no,northeast,Gov,4243.54,2,No
+Fractured Arm,Radiation Therapy,50,no,northeast,Gov,28222.23,3,No
+Hypertension,Medication and Counseling,32,no,southeast,Private,5491.99,2,No
+Respiratory Infection,Cardiac Catheterization,51,no,northeast,Private,25899.05,11,Yes
+Childbirth,Radiation Therapy,38,no,southeast,Gov,5397.62,1,No
+Osteoarthritis,Medication and Counseling,42,yes,southeast,Private,52587.69,3,No
+Heart Attack,Angioplasty,18,no,southeast,Gov,19290.83,6,Yes
+Heart Attack,Appendectomy,19,no,northwest,Private,36089.52,4,No
+Kidney Stones,Lithotripsy,51,no,southwest,Gov,10847.13,2,No
+Stroke,X-Ray and Splint,46,no,northeast,Private,10428.64,1,No
+Appendicitis,Physical Therapy and Pain Management,18,no,northeast,Private,2348.5,2,No
+Cancer,Surgery and Chemotherapy,57,yes,southeast,Private,91266.6,12,No
+Respiratory Infection,Cardiac Catheterization,62,no,northeast,Gov,26542.17,8,Yes
+Allergic Reaction,Delivery and Postnatal Care,59,no,southeast,Gov,15511.06,4,No
+Heart Attack,Cardiac Catheterization,37,no,southeast,Private,36027.57,11,No
+Appendicitis,Angioplasty,64,no,southeast,Private,25933.34,12,No
+Heart Disease,Lithotripsy,38,no,northeast,Private,8342.3,2,No
+Childbirth,Cardiac Catheterization,33,no,southwest,Private,14109.74,8,Yes
+Childbirth,Cardiac Catheterization,46,no,southwest,Private,23165.85,12,Yes
+Cancer,X-Ray and Splint,46,no,southeast,Gov,9056.41,3,No
+Diabetes,Medication and Counseling,53,no,southeast,Private,34182.55,1,No
+Hypertension,Medication and Counseling,34,no,southwest,Gov,6816.09,2,No
+Heart Attack,Epinephrine Injection,20,no,southeast,Private,4202.53,2,No
+Prostate Cancer,X-Ray and Splint,63,no,southeast,Private,19094.91,3,No
+Osteoarthritis,Delivery and Postnatal Care,54,yes,southeast,Gov,70147.47,2,No
+Kidney Stones,Medication and Counseling,54,no,northwest,Gov,10231.5,1,No
+Fractured Leg,X-Ray and Splint,49,yes,northwest,Private,29759.05,1,No
+Stroke,Insulin Therapy,28,no,northeast,Private,4086.06,1,No
+Prostate Cancer,Angioplasty,54,no,southwest,Gov,13846.11,6,No
+Kidney Stones,Lithotripsy,25,no,northeast,Private,4418.73,3,No
+Diabetes,Epinephrine Injection,43,yes,southeast,Private,63061.91,2,No
+Diabetes,Angioplasty,63,no,southwest,Private,20085.84,6,No
+Cancer,X-Ray and Splint,32,no,southeast,Gov,4370.22,2,No
+Prostate Cancer,Insulin Therapy,62,no,southwest,Private,17816.04,2,No
+Appendicitis,Cardiac Catheterization,52,no,northwest,Private,29367.6,12,Yes
+Appendicitis,Antibiotics and Rest,25,no,northeast,Private,24583.49,3,No
+Childbirth,Physical Therapy and Pain Management,28,no,southwest,Private,4809.59,1,No
+Allergic Reaction,Appendectomy,46,no,northeast,Private,11460.06,2,No
+Respiratory Infection,Angioplasty,34,no,southeast,Private,5902.77,6,No
+Heart Attack,Angioplasty,35,yes,northwest,Gov,67172.16,5,Yes
+Childbirth,CT Scan and Medication,19,no,northwest,Gov,1975.72,6,No
+Fractured Arm,Medication and Counseling,46,no,northwest,Private,12641.53,2,No
+Allergic Reaction,Lithotripsy,54,no,northeast,Private,15020.41,3,No
+Fractured Arm,Physical Therapy and Pain Management,27,no,southwest,Private,3429.28,3,No
+Fractured Leg,Appendectomy,50,no,southeast,Private,12455.75,2,No
+Allergic Reaction,Delivery and Postnatal Care,18,no,southeast,Gov,3361.51,4,No
+Appendicitis,Cast and Physical Therapy,19,no,northwest,Private,2926.59,2,No
+Allergic Reaction,Insulin Therapy,38,no,northwest,Private,8763.64,2,No
+Cancer,Radiation Therapy,41,no,northwest,Private,9977.99,2,No
+Osteoarthritis,X-Ray and Splint,49,no,southwest,Gov,12708.19,3,No
+Osteoarthritis,Angioplasty,48,yes,northwest,Private,95974.25,6,Yes
+Childbirth,CT Scan and Medication,31,no,southwest,Private,8886.05,9,Yes
+Fractured Arm,Epinephrine Injection,18,no,southeast,Private,2774.31,1,No
+Prostate Cancer,Radiation Therapy,30,no,southeast,Private,6536.25,2,No
+Childbirth,Surgery and Chemotherapy,62,no,northeast,Private,83002.5,12,Yes
+Childbirth,Surgery and Chemotherapy,57,no,northeast,Private,34713.15,13,Yes
+Osteoarthritis,Radiation Therapy,58,no,northwest,Private,16806.49,2,No
+Kidney Stones,Surgery and Chemotherapy,22,no,southeast,Private,2809.69,7,No
+Stroke,Radiation Therapy,31,yes,northeast,Private,80535.23,3,No
+Fractured Leg,Cast and Physical Therapy,52,no,southwest,Private,13371.23,3,No
+Appendicitis,Angioplasty,25,no,northeast,Private,4809.74,6,No
+Diabetes,Cast and Physical Therapy,59,no,northeast,Private,17756.74,2,No
+Fractured Arm,Delivery and Postnatal Care,19,no,northwest,Gov,1967.48,4,No
+Appendicitis,Insulin Therapy,39,no,southeast,Gov,6356.27,1,No
+Fractured Arm,Insulin Therapy,32,no,southeast,Private,24236.08,3,No
+Heart Attack,Insulin Therapy,19,no,southwest,Private,1708.87,3,No
+Hypertension,Insulin Therapy,33,no,southeast,Gov,5257.56,2,No
+Allergic Reaction,Epinephrine Injection,21,no,northeast,Private,4826.51,1,No
+Appendicitis,Antibiotics and Rest,34,yes,northwest,Private,54929.85,1,No
+Hypertension,Cardiac Catheterization,61,no,northeast,Gov,25771.36,9,Yes
+Diabetes,Cardiac Catheterization,38,no,southeast,Private,10085.9,10,No
+Childbirth,Cardiac Catheterization,58,no,southwest,Private,17763.66,5,No
+Stroke,Appendectomy,47,no,northwest,Gov,9270.88,2,No
+Cancer,Lithotripsy,20,no,southeast,Gov,3079.76,4,No
+Fractured Leg,Appendectomy,21,yes,northeast,Private,23038.66,4,No
+Respiratory Infection,Epinephrine Injection,41,no,southeast,Gov,6280.08,2,No
+Appendicitis,Antibiotics and Rest,46,no,northeast,Private,11029.98,1,No
+Heart Disease,Lithotripsy,42,no,southeast,Private,11460.46,5,No
+Heart Disease,Physical Therapy and Pain Management,34,no,northeast,Private,7692.91,2,No
+Kidney Stones,Antibiotics and Rest,43,no,southwest,Private,10232.06,3,No
+Cancer,CT Scan and Medication,52,no,northwest,Private,62759.95,13,No
+Stroke,Cast and Physical Therapy,18,no,southeast,Private,2245.44,3,No
+Cancer,Radiation Therapy,51,no,northwest,Gov,10091.55,2,No
+Respiratory Infection,CT Scan and Medication,56,no,southwest,Private,23248.12,6,Yes
+Heart Attack,Insulin Therapy,64,no,southeast,Private,20106.41,1,No
+Respiratory Infection,Appendectomy,19,yes,northwest,Private,24019.85,3,No
+Fractured Arm,Appendectomy,51,no,southeast,Private,12764.9,2,No
+Diabetes,Surgery and Chemotherapy,27,no,northeast,Gov,4270.34,6,No
+Prostate Cancer,Epinephrine Injection,59,yes,northwest,Private,32098.47,1,No
+Heart Disease,X-Ray and Splint,28,no,northeast,Gov,4435.09,1,No
+Fractured Leg,Antibiotics and Rest,30,yes,southwest,Private,49051.8,1,No
+Fractured Arm,Angioplasty,47,no,southeast,Private,12821.54,5,No
+Respiratory Infection,Angioplasty,38,no,southwest,Private,12321.65,11,No
+Stroke,Appendectomy,18,no,northeast,Gov,2649.24,5,No
+Fractured Arm,Epinephrine Injection,34,no,northeast,Private,9285.43,2,No
+Heart Attack,Lithotripsy,20,no,southeast,Private,2820.11,4,No
+Kidney Stones,CT Scan and Medication,47,yes,southeast,Private,101516.28,7,Yes
+Hypertension,CT Scan and Medication,56,no,northeast,Gov,19585.63,5,Yes
+Osteoarthritis,Appendectomy,49,yes,southwest,Gov,27967.86,5,No
+Heart Attack,Cardiac Catheterization,19,yes,southeast,Private,58117.26,9,No
+Diabetes,Radiation Therapy,55,no,southwest,Private,14731.26,3,No
+Stroke,Medication and Counseling,30,no,southwest,Private,4574.18,1,No
+Cancer,Cast and Physical Therapy,37,yes,southwest,Private,55250.59,2,No
+Fractured Arm,Appendectomy,49,no,southwest,Private,12625.48,3,No
+Fractured Leg,CT Scan and Medication,18,yes,northeast,Gov,46734.08,9,No
+Stroke,Surgery and Chemotherapy,59,no,northwest,Private,28656.21,7,Yes
+Stroke,X-Ray and Splint,29,no,northwest,Private,5137.64,2,No
+Hypertension,Antibiotics and Rest,36,no,northeast,Private,9279.31,3,No
+Allergic Reaction,Insulin Therapy,33,no,southeast,Private,15574.23,3,No
+Childbirth,X-Ray and Splint,58,no,southwest,Gov,12502.55,2,No
+Cancer,Medication and Counseling,44,yes,northwest,Private,53729.32,1,No
+Prostate Cancer,Cardiac Catheterization,53,no,southwest,Private,23827.81,7,Yes
+Prostate Cancer,Surgery and Chemotherapy,24,no,southwest,Private,5191.76,11,Yes
+Respiratory Infection,Cardiac Catheterization,29,no,southeast,Private,5050.0,6,No
+Heart Disease,CT Scan and Medication,40,no,northeast,Gov,9684.04,8,No
+Respiratory Infection,Physical Therapy and Pain Management,51,no,southwest,Gov,9391.35,1,No
+Heart Disease,Lithotripsy,64,no,northeast,Private,19815.03,2,No
+Respiratory Infection,Appendectomy,19,no,northwest,Private,3725.03,2,No
+Heart Attack,X-Ray and Splint,35,no,northeast,Private,34258.19,3,No
+Stroke,Angioplasty,39,yes,northeast,Private,52891.97,12,Yes
+Appendicitis,Lithotripsy,56,no,southeast,Private,19423.73,4,No
+Cancer,CT Scan and Medication,33,no,southwest,Gov,13999.11,11,Yes
+Hypertension,Angioplasty,42,yes,northwest,Private,61476.48,13,No
+Respiratory Infection,Delivery and Postnatal Care,61,no,northeast,Private,18072.81,2,No
+Respiratory Infection,Delivery and Postnatal Care,23,no,northwest,Private,6699.93,5,No
+Childbirth,Physical Therapy and Pain Management,43,no,southeast,Private,25858.45,2,No
+Respiratory Infection,Angioplasty,48,no,northeast,Gov,17037.11,5,Yes
+Appendicitis,Epinephrine Injection,39,no,northwest,Private,8419.91,2,No
+Childbirth,Radiation Therapy,40,no,northeast,Private,10315.36,1,No
+Diabetes,X-Ray and Splint,18,no,northeast,Private,2354.31,3,No
+Prostate Cancer,Physical Therapy and Pain Management,58,no,northeast,Private,15538.69,1,No
+Fractured Arm,Radiation Therapy,49,no,southeast,Gov,10780.98,2,No
+Stroke,Antibiotics and Rest,53,no,southeast,Gov,11637.68,3,No
+Heart Disease,Physical Therapy and Pain Management,48,no,southeast,Private,10350.78,1,No
+Stroke,CT Scan and Medication,45,no,southeast,Private,20146.29,7,Yes
+Fractured Arm,Radiation Therapy,59,no,southeast,Private,15305.66,1,No
+Childbirth,Angioplasty,52,yes,southeast,Gov,46621.42,10,Yes
+Fractured Leg,Radiation Therapy,26,no,southwest,Private,4689.2,3,No
+Appendicitis,X-Ray and Splint,27,no,northwest,Private,5580.73,2,No
+Fractured Leg,Insulin Therapy,48,no,northeast,Private,32990.33,1,No
+Hypertension,Epinephrine Injection,57,no,northeast,Gov,14394.4,1,No
+Cancer,Epinephrine Injection,37,no,southeast,Gov,6435.62,1,No
+Kidney Stones,Radiation Therapy,57,no,southeast,Private,27740.55,1,No
+Osteoarthritis,Delivery and Postnatal Care,32,no,northeast,Gov,5663.41,2,No
+Heart Attack,Antibiotics and Rest,18,no,southeast,Private,1420.5,1,No
+Allergic Reaction,CT Scan and Medication,64,yes,southeast,Private,70974.52,11,Yes
+Cancer,Radiation Therapy,43,yes,southeast,Private,58520.59,3,No
+Childbirth,Delivery and Postnatal Care,49,no,southwest,Gov,9573.8,2,No
+Hypertension,X-Ray and Splint,40,yes,northwest,Private,55004.58,3,No
+Heart Disease,Surgery and Chemotherapy,62,yes,northeast,Private,119989.3,13,Yes
+Cancer,Radiation Therapy,40,no,southeast,Gov,6500.24,1,No
+Cancer,Delivery and Postnatal Care,30,no,southeast,Gov,5321.34,2,No
+Appendicitis,Surgery and Chemotherapy,29,no,northeast,Private,7394.24,12,No
+Heart Attack,Cardiac Catheterization,36,no,southeast,Private,9239.44,5,Yes
+Fractured Leg,Epinephrine Injection,41,no,southeast,Gov,6185.32,1,No
+Stroke,Delivery and Postnatal Care,44,yes,southeast,Private,69301.48,5,No
+Osteoarthritis,Insulin Therapy,45,no,northwest,Private,9028.48,1,No
+Hypertension,Insulin Therapy,55,no,southeast,Gov,13734.38,3,No
+Respiratory Infection,Appendectomy,60,yes,northwest,Private,63429.47,2,No
+Hypertension,Surgery and Chemotherapy,56,no,southwest,Private,32454.31,13,Yes
+Respiratory Infection,Cardiac Catheterization,49,no,northwest,Private,23995.4,10,Yes
+Childbirth,Surgery and Chemotherapy,21,no,southwest,Private,6107.7,9,Yes
+Childbirth,Epinephrine Injection,19,no,southwest,Gov,1366.49,3,No
+Allergic Reaction,Angioplasty,39,yes,southwest,Private,105272.71,11,Yes
+Cancer,Surgery and Chemotherapy,53,no,northwest,Private,14795.21,5,No
+Stroke,X-Ray and Splint,33,no,southwest,Gov,5242.62,2,No
+Prostate Cancer,Physical Therapy and Pain Management,53,no,northeast,Private,15461.02,2,No
+Allergic Reaction,Cardiac Catheterization,42,no,northeast,Private,13043.78,10,No
+Fractured Leg,Cardiac Catheterization,40,no,southeast,Private,11421.37,5,Yes
+Appendicitis,Epinephrine Injection,47,no,southwest,Gov,26236.58,1,No
+Kidney Stones,Epinephrine Injection,27,yes,southeast,Private,43508.08,1,No
+Hypertension,Cardiac Catheterization,21,no,northeast,Private,4970.97,7,Yes
+Prostate Cancer,Lithotripsy,47,no,southwest,Private,12102.28,5,No
+Fractured Arm,Antibiotics and Rest,20,no,northwest,Private,2952.79,1,No
+Prostate Cancer,Angioplasty,24,no,northwest,Private,3970.63,7,No
+Heart Disease,Physical Therapy and Pain Management,27,no,southwest,Gov,3578.0,1,No
+Fractured Arm,Surgery and Chemotherapy,26,no,northwest,Gov,6050.35,7,Yes
+Osteoarthritis,X-Ray and Splint,53,no,northeast,Private,36483.1,1,No
+Respiratory Infection,CT Scan and Medication,41,yes,southeast,Private,84574.66,5,Yes
+Respiratory Infection,Medication and Counseling,56,no,northwest,Private,13720.31,1,No
+Cancer,Radiation Therapy,23,no,southeast,Gov,3850.67,3,No
+Childbirth,Appendectomy,21,no,southeast,Private,2778.26,3,No
+Fractured Leg,Lithotripsy,50,no,northeast,Gov,10495.87,2,No
+Heart Attack,Radiation Therapy,53,no,southeast,Private,13068.43,3,No
+Heart Attack,Epinephrine Injection,34,no,northwest,Private,7404.84,3,No
+Fractured Arm,Epinephrine Injection,47,no,northwest,Private,12280.04,3,No
+Allergic Reaction,Appendectomy,33,no,southwest,Private,8062.56,4,No
+Heart Attack,Radiation Therapy,51,yes,southeast,Private,55500.51,1,No
+Heart Attack,Surgery and Chemotherapy,49,no,northwest,Private,26944.16,12,Yes
+Respiratory Infection,Medication and Counseling,31,no,northeast,Private,8405.69,3,No
+Diabetes,Physical Therapy and Pain Management,36,no,northeast,Private,7519.88,3,No
+Appendicitis,Surgery and Chemotherapy,18,no,southeast,Private,4081.31,8,Yes
+Stroke,Medication and Counseling,50,no,southeast,Gov,11117.94,2,No
+Allergic Reaction,Epinephrine Injection,43,no,northwest,Gov,8310.84,1,No
+Allergic Reaction,Physical Therapy and Pain Management,20,no,northeast,Gov,2182.9,2,No
+Respiratory Infection,Appendectomy,24,no,southwest,Private,3379.07,3,No
+Fractured Leg,Physical Therapy and Pain Management,60,no,southwest,Private,16702.09,2,No
+Heart Attack,Insulin Therapy,49,no,northwest,Gov,10523.69,3,No
+Appendicitis,X-Ray and Splint,60,no,northwest,Private,16390.76,1,No
+Cancer,Angioplasty,51,no,northwest,Private,25628.72,9,Yes
+Respiratory Infection,CT Scan and Medication,58,no,northwest,Gov,23117.75,7,Yes
+Osteoarthritis,CT Scan and Medication,51,no,northeast,Gov,18665.04,9,Yes
+Osteoarthritis,Cardiac Catheterization,53,no,southwest,Private,19008.91,7,No
+Respiratory Infection,Lithotripsy,62,no,southwest,Private,17846.62,3,No
+Prostate Cancer,Physical Therapy and Pain Management,19,no,southwest,Private,1579.06,1,No
+Respiratory Infection,Physical Therapy and Pain Management,50,no,northeast,Private,12632.67,1,No
+Heart Attack,CT Scan and Medication,30,yes,southeast,Gov,68766.48,6,Yes
+Allergic Reaction,Lithotripsy,41,no,northwest,Gov,7331.15,3,No
+Fractured Arm,Radiation Therapy,29,yes,northeast,Gov,18323.49,2,No
+Fractured Arm,Epinephrine Injection,18,no,northeast,Private,2772.0,1,No
+Kidney Stones,Cardiac Catheterization,41,no,southeast,Private,11443.54,7,No
+Heart Attack,Radiation Therapy,35,yes,southeast,Private,24202.5,1,No
+Osteoarthritis,Epinephrine Injection,53,no,southwest,Private,12581.77,1,No
+Stroke,Cardiac Catheterization,24,no,southwest,Gov,8893.35,13,Yes
+Fractured Leg,CT Scan and Medication,48,no,northeast,Private,19839.23,5,Yes
+Fractured Arm,Medication and Counseling,59,no,southwest,Private,19259.93,2,No
+Heart Attack,Cardiac Catheterization,49,no,northwest,Private,25157.72,13,Yes
+Heart Attack,Epinephrine Injection,37,yes,southeast,Private,55576.15,3,No
+Respiratory Infection,Lithotripsy,26,no,southwest,Private,4790.96,3,No
+Hypertension,Epinephrine Injection,23,yes,northeast,Private,45236.38,1,No
+Heart Attack,CT Scan and Medication,29,yes,southwest,Gov,84266.51,8,Yes
+Childbirth,Lithotripsy,45,no,northeast,Gov,9464.93,3,No
+Cancer,Cardiac Catheterization,27,yes,southeast,Private,38317.64,6,Yes
+Stroke,Cast and Physical Therapy,53,yes,northeast,Private,59474.82,3,No
+Prostate Cancer,Medication and Counseling,31,no,southeast,Private,5167.04,3,No
+Kidney Stones,Lithotripsy,50,no,northwest,Private,13240.81,4,No
+Heart Disease,Radiation Therapy,50,no,northwest,Private,13626.74,2,No
+Diabetes,Medication and Counseling,34,no,southwest,Private,16139.54,3,No
+Allergic Reaction,Cast and Physical Therapy,19,no,northwest,Private,2237.51,2,No
+Hypertension,Epinephrine Injection,47,no,southwest,Private,11765.75,2,No
+Respiratory Infection,Cardiac Catheterization,28,no,northwest,Private,7235.18,9,Yes
+Cancer,Epinephrine Injection,37,yes,southeast,Private,24424.05,1,No
+Fractured Leg,CT Scan and Medication,21,no,northwest,Gov,4003.35,12,Yes
+Stroke,Surgery and Chemotherapy,64,no,northwest,Gov,19184.22,7,No
+Fractured Arm,Insulin Therapy,58,no,southeast,Private,16271.45,3,No
+Osteoarthritis,Cast and Physical Therapy,24,no,northeast,Gov,18841.27,2,No
+Heart Disease,Epinephrine Injection,31,no,northeast,Gov,5534.4,3,No
+Childbirth,X-Ray and Splint,39,no,northeast,Private,10980.5,2,No
+Diabetes,Physical Therapy and Pain Management,47,yes,southeast,Private,28831.78,1,No
+Respiratory Infection,Antibiotics and Rest,30,no,northeast,Private,7464.5,3,No
+Childbirth,Surgery and Chemotherapy,18,yes,southeast,Private,68077.12,12,No
+Childbirth,Appendectomy,22,no,northeast,Private,5888.64,5,No
+Childbirth,Cardiac Catheterization,23,no,southwest,Private,6344.51,12,Yes
+Diabetes,Angioplasty,33,yes,southwest,Private,35701.64,12,No
+Fractured Arm,Angioplasty,27,no,northeast,Private,6448.7,6,Yes
+Fractured Leg,Epinephrine Injection,45,no,northeast,Private,12505.72,2,No
+Prostate Cancer,Surgery and Chemotherapy,57,no,northwest,Gov,22382.56,7,Yes
+Prostate Cancer,Cardiac Catheterization,47,no,southwest,Private,12094.15,5,No
+Diabetes,Cardiac Catheterization,42,no,southwest,Private,10575.96,6,No
+Childbirth,Cast and Physical Therapy,64,no,southwest,Private,19688.67,3,No
+Kidney Stones,CT Scan and Medication,38,no,northwest,Gov,10399.86,13,No
+Stroke,Physical Therapy and Pain Management,61,no,southwest,Private,38419.27,2,No
+Fractured Leg,X-Ray and Splint,53,no,southwest,Private,15332.32,3,No
+Appendicitis,CT Scan and Medication,44,no,northeast,Private,21595.29,8,No
+Childbirth,Delivery and Postnatal Care,19,yes,northwest,Private,24404.2,3,No
+Diabetes,CT Scan and Medication,41,no,northwest,Private,17155.86,9,Yes
+Stroke,X-Ray and Splint,51,no,southeast,Private,13200.61,1,No
+Osteoarthritis,Cast and Physical Therapy,40,no,northwest,Private,9606.71,3,No
+Respiratory Infection,Cast and Physical Therapy,45,no,northeast,Private,10241.56,2,No
+Diabetes,Lithotripsy,35,no,southeast,Private,8159.77,2,No
+Kidney Stones,Lithotripsy,53,no,northwest,Gov,11843.77,4,No
+Cancer,Epinephrine Injection,30,yes,southwest,Private,22824.02,1,No
+Prostate Cancer,Physical Therapy and Pain Management,18,no,southeast,Private,1576.85,2,No
+Heart Attack,Antibiotics and Rest,51,no,southeast,Private,12905.97,2,No
+Heart Attack,Radiation Therapy,50,yes,southwest,Private,30650.33,1,No
+Hypertension,X-Ray and Splint,31,no,southeast,Private,5981.96,3,No
+Heart Disease,CT Scan and Medication,35,no,southwest,Private,15153.5,8,Yes
+Fractured Arm,Insulin Therapy,60,no,northeast,Private,15926.46,1,No
+Allergic Reaction,Angioplasty,21,no,northwest,Private,4529.66,10,Yes
+Fractured Leg,Cast and Physical Therapy,29,no,northeast,Private,6511.97,1,No
+Appendicitis,Medication and Counseling,62,no,southeast,Private,18504.7,3,No
+Respiratory Infection,X-Ray and Splint,39,no,southeast,Private,7785.56,3,No
+Appendicitis,X-Ray and Splint,19,no,southwest,Private,1565.51,1,No
+Childbirth,Antibiotics and Rest,22,no,northeast,Private,3414.89,1,No
+Respiratory Infection,Insulin Therapy,53,yes,southeast,Private,26494.77,1,No
+Prostate Cancer,Epinephrine Injection,39,no,northwest,Private,9011.86,1,No
+Heart Attack,Lithotripsy,27,yes,northwest,Private,27466.11,4,No
+Childbirth,Radiation Therapy,30,no,southeast,Gov,4692.78,2,No
+Fractured Leg,Surgery and Chemotherapy,30,no,northeast,Gov,9911.0,11,Yes
+Heart Attack,Angioplasty,58,no,southwest,Private,27991.23,7,Yes
+Osteoarthritis,Appendectomy,33,yes,northeast,Private,26856.79,4,No
+Cancer,Delivery and Postnatal Care,42,no,southeast,Private,9689.24,3,No
+Heart Attack,Medication and Counseling,64,no,southeast,Private,17892.31,1,No
+Cancer,Physical Therapy and Pain Management,21,no,southwest,Gov,2103.08,1,No
+Diabetes,Medication and Counseling,18,yes,southeast,Private,48490.86,1,No
+Stroke,Delivery and Postnatal Care,23,no,southeast,Private,2496.83,3,No
+Fractured Leg,Surgery and Chemotherapy,45,no,northwest,Private,18266.51,7,Yes
+Heart Disease,Lithotripsy,40,no,northwest,Gov,31324.41,2,No
+Heart Attack,Medication and Counseling,19,no,northwest,Gov,2350.57,2,No
+Hypertension,Cast and Physical Therapy,18,no,southeast,Gov,1244.66,2,No
+Heart Disease,Radiation Therapy,25,no,northeast,Private,4550.96,2,No
+Osteoarthritis,Epinephrine Injection,46,no,southwest,Gov,10356.41,3,No
+Diabetes,Cardiac Catheterization,33,no,northwest,Private,11926.86,12,No
+Childbirth,CT Scan and Medication,54,no,southeast,Private,23128.79,6,Yes
+Diabetes,Insulin Therapy,28,no,northeast,Private,6089.72,2,No
+Allergic Reaction,Cardiac Catheterization,36,no,southeast,Gov,8376.46,11,No
+Respiratory Infection,Epinephrine Injection,20,no,southeast,Gov,2065.72,2,No
+Hypertension,Lithotripsy,24,no,northwest,Private,3908.8,3,No
+Allergic Reaction,Delivery and Postnatal Care,23,no,southwest,Private,5396.39,4,No
+Appendicitis,CT Scan and Medication,47,yes,northeast,Gov,49142.74,13,Yes
+Heart Disease,Antibiotics and Rest,33,yes,northwest,Private,75811.18,3,No
+Heart Disease,Angioplasty,45,no,southwest,Private,12564.99,7,No
+Childbirth,Insulin Therapy,26,no,northwest,Gov,2680.95,1,No
+Allergic Reaction,Angioplasty,18,no,southeast,Private,2736.93,10,No
+Heart Attack,Lithotripsy,44,no,southeast,Private,12328.81,4,No
+Hypertension,Lithotripsy,60,no,northwest,Private,17219.96,2,No
+Allergic Reaction,Epinephrine Injection,64,no,northeast,Gov,16069.08,1,No
+Heart Attack,Surgery and Chemotherapy,56,yes,southeast,Private,73935.9,10,No
+Heart Disease,CT Scan and Medication,36,yes,northeast,Private,49077.7,7,Yes
+Allergic Reaction,Surgery and Chemotherapy,41,yes,northeast,Private,66820.62,9,No
+Diabetes,Medication and Counseling,39,no,northwest,Private,8411.55,2,No
+Fractured Arm,Appendectomy,63,no,southwest,Private,20090.63,4,No
+Appendicitis,Angioplasty,36,no,northwest,Private,12441.79,9,Yes
+Cancer,CT Scan and Medication,28,no,northwest,Private,12389.31,11,Yes
+Diabetes,Appendectomy,58,no,northwest,Gov,14092.72,5,No
+Allergic Reaction,Physical Therapy and Pain Management,36,no,northwest,Gov,5915.2,2,No
+Hypertension,Medication and Counseling,42,no,southeast,Private,8950.41,1,No
+Respiratory Infection,Lithotripsy,36,no,southwest,Private,6603.35,5,No
+Hypertension,Epinephrine Injection,56,no,northeast,Private,16029.36,2,No
+Fractured Arm,CT Scan and Medication,35,no,northeast,Private,15125.41,10,Yes
+Osteoarthritis,Angioplasty,59,no,northwest,Private,21299.93,9,No
+Childbirth,Appendectomy,21,no,southwest,Private,2098.68,2,No
+Fractured Arm,Appendectomy,59,no,northeast,Gov,14788.72,4,No
+Heart Attack,Physical Therapy and Pain Management,23,yes,southeast,Private,49528.89,2,No
+Heart Disease,Cardiac Catheterization,57,yes,southeast,Private,57821.22,6,Yes
+Childbirth,Delivery and Postnatal Care,53,no,northeast,Private,15108.08,4,No
+Heart Disease,Cast and Physical Therapy,60,yes,southeast,Private,56261.19,1,No
+Osteoarthritis,Insulin Therapy,51,no,southwest,Gov,9872.7,1,No
+Respiratory Infection,Physical Therapy and Pain Management,23,no,southeast,Private,3047.57,1,No
+Osteoarthritis,Cast and Physical Therapy,27,no,southwest,Private,3717.66,1,No
+Respiratory Infection,Angioplasty,55,no,northwest,Gov,15902.45,13,No
+Childbirth,Cardiac Catheterization,37,yes,northeast,Gov,55905.23,13,No
+Hypertension,Epinephrine Injection,61,no,northwest,Private,17649.53,1,No
+Diabetes,Physical Therapy and Pain Management,46,yes,northeast,Private,57903.54,3,No
+Osteoarthritis,Appendectomy,53,no,northeast,Private,17594.52,4,No
+Heart Disease,CT Scan and Medication,49,yes,northeast,Private,40680.41,8,No
+Heart Attack,Surgery and Chemotherapy,20,no,southwest,Private,3516.27,13,No
+Cancer,Antibiotics and Rest,48,yes,southeast,Gov,45071.58,2,No
+Kidney Stones,Delivery and Postnatal Care,25,yes,northwest,Private,23726.98,5,No
+Hypertension,Antibiotics and Rest,25,no,southeast,Private,22772.7,1,No
+Osteoarthritis,Physical Therapy and Pain Management,57,no,southwest,Gov,12061.99,2,No
+Osteoarthritis,Cast and Physical Therapy,37,yes,southwest,Private,63406.08,3,No
+Hypertension,Appendectomy,38,no,southwest,Gov,7866.2,2,No
+Stroke,Physical Therapy and Pain Management,55,no,northwest,Private,15337.11,1,No
+Fractured Leg,Radiation Therapy,36,no,northeast,Private,7504.81,3,No
+Heart Disease,Appendectomy,51,no,southwest,Private,12075.89,3,No
+Heart Disease,Medication and Counseling,40,no,southwest,Gov,7260.4,3,No
+Diabetes,Appendectomy,18,no,southeast,Private,1569.49,2,No
+Osteoarthritis,CT Scan and Medication,57,no,southwest,Gov,17364.19,12,No
+Respiratory Infection,Medication and Counseling,61,no,northeast,Gov,13129.6,1,No
+Respiratory Infection,Insulin Therapy,25,no,southwest,Private,6038.52,3,No
+Fractured Leg,Appendectomy,50,no,southwest,Private,11629.5,2,No
+Heart Disease,Cardiac Catheterization,26,no,southeast,Private,5724.62,7,No
+Diabetes,Medication and Counseling,42,no,southeast,Private,7458.61,1,No
+Respiratory Infection,X-Ray and Splint,43,no,southwest,Private,9417.41,2,No
+Kidney Stones,Lithotripsy,44,no,northeast,Private,13336.71,5,No
+Diabetes,Cardiac Catheterization,23,no,northwest,Private,4035.17,6,No
+Allergic Reaction,X-Ray and Splint,49,no,southwest,Private,35943.0,2,No
+Heart Disease,Epinephrine Injection,33,no,southeast,Private,9148.96,3,No
+Childbirth,Epinephrine Injection,41,no,southwest,Private,8638.07,3,No
+Osteoarthritis,Delivery and Postnatal Care,37,no,southwest,Private,9467.93,5,No
+Childbirth,Medication and Counseling,22,no,southwest,Private,4734.21,3,No
+Cancer,X-Ray and Splint,23,no,northwest,Private,3834.95,2,No
+Diabetes,Cardiac Catheterization,21,no,northeast,Private,4848.47,13,No
+Prostate Cancer,Delivery and Postnatal Care,51,yes,northeast,Gov,55506.14,5,No
+Allergic Reaction,Epinephrine Injection,25,no,northwest,Private,6097.48,1,No
+Childbirth,Epinephrine Injection,32,yes,southeast,Private,27114.58,2,No
+Respiratory Infection,Medication and Counseling,57,yes,northeast,Private,37425.35,2,No
+Appendicitis,Surgery and Chemotherapy,36,no,northwest,Private,13839.46,11,Yes
+Heart Attack,Surgery and Chemotherapy,22,no,southwest,Gov,3533.45,13,Yes
+Heart Attack,Antibiotics and Rest,57,no,northwest,Private,14931.42,1,No
+Kidney Stones,Delivery and Postnatal Care,64,yes,northwest,Private,40330.1,3,No
+Stroke,CT Scan and Medication,36,no,southeast,Private,13582.15,12,No
+Appendicitis,Cast and Physical Therapy,54,no,northeast,Private,13028.65,1,No
+Heart Disease,Cast and Physical Therapy,47,yes,southeast,Private,60778.65,2,No
+Fractured Arm,Insulin Therapy,62,no,northeast,Private,18638.13,3,No
+Diabetes,Insulin Therapy,61,no,southwest,Gov,13063.88,1,No
+Respiratory Infection,CT Scan and Medication,43,yes,northeast,Private,46772.9,10,Yes
+Kidney Stones,Medication and Counseling,19,no,northwest,Private,3054.65,3,No
+Kidney Stones,Delivery and Postnatal Care,18,no,southeast,Private,2247.54,2,No
+Allergic Reaction,Insulin Therapy,19,no,northwest,Private,2911.34,2,No
+Childbirth,Angioplasty,49,no,northeast,Private,22808.25,12,Yes
+Hypertension,Angioplasty,60,yes,southeast,Private,102214.47,6,Yes
+Cancer,X-Ray and Splint,26,no,northeast,Private,6409.27,2,No
+Kidney Stones,Epinephrine Injection,49,no,southeast,Gov,8938.36,2,No
+Childbirth,Angioplasty,60,no,southwest,Private,29872.84,8,Yes
+Heart Attack,Delivery and Postnatal Care,26,no,northeast,Gov,5477.03,5,No
+Heart Disease,Angioplasty,27,no,northeast,Private,11450.85,9,Yes
+Heart Disease,X-Ray and Splint,44,no,southeast,Private,10496.37,3,No
+Heart Disease,Delivery and Postnatal Care,63,no,southwest,Gov,16687.08,3,No
+Kidney Stones,Angioplasty,32,yes,southwest,Private,29525.02,8,No
+Fractured Leg,Antibiotics and Rest,22,no,northwest,Gov,2902.95,3,No
+Hypertension,CT Scan and Medication,18,yes,northeast,Private,88548.3,11,Yes
+Osteoarthritis,Cast and Physical Therapy,59,no,northwest,Private,19776.22,2,No
+Stroke,Cast and Physical Therapy,44,no,southwest,Private,10487.12,2,No
+Prostate Cancer,Angioplasty,33,no,northwest,Private,13800.96,13,Yes
+Cancer,X-Ray and Splint,24,no,southeast,Gov,2473.33,1,No
+Childbirth,Cast and Physical Therapy,43,yes,northwest,Private,29939.69,2,No
+Stroke,Cardiac Catheterization,45,yes,northeast,Gov,47343.66,10,No
+Heart Attack,Epinephrine Injection,61,no,southwest,Gov,13041.92,1,No
+Osteoarthritis,Physical Therapy and Pain Management,35,no,southeast,Gov,5245.23,1,No
+Fractured Leg,Lithotripsy,62,no,southwest,Gov,16141.35,5,No
+Kidney Stones,Medication and Counseling,62,no,southwest,Private,16828.15,1,No
+Childbirth,Antibiotics and Rest,38,no,southwest,Gov,6037.09,3,No
+Childbirth,Angioplasty,34,no,northwest,Gov,6480.62,13,No
+Osteoarthritis,Cardiac Catheterization,43,no,southwest,Private,14766.65,9,Yes
+Prostate Cancer,Cardiac Catheterization,50,no,northeast,Gov,53200.0,11,Yes
+Fractured Arm,Physical Therapy and Pain Management,19,no,southwest,Private,4006.16,2,No
+Fractured Arm,Lithotripsy,57,no,southwest,Private,18048.49,4,No
+Respiratory Infection,Surgery and Chemotherapy,62,no,southeast,Private,25257.76,13,No
+Stroke,Epinephrine Injection,41,no,southeast,Private,8648.41,3,No
+Diabetes,X-Ray and Splint,26,no,southeast,Private,4024.71,3,No
+Cancer,Angioplasty,39,no,southwest,Private,11696.81,12,No
+Heart Attack,Cast and Physical Therapy,46,no,southwest,Private,12621.21,1,No
+Stroke,Physical Therapy and Pain Management,45,no,southwest,Gov,7348.14,1,No
+Allergic Reaction,Surgery and Chemotherapy,32,no,southeast,Private,8762.61,13,No
+Prostate Cancer,Radiation Therapy,59,no,southwest,Private,16821.51,3,No
+Kidney Stones,Epinephrine Injection,44,no,northeast,Private,40135.83,1,No
+Appendicitis,Cast and Physical Therapy,39,no,northwest,Private,11207.24,1,No
+Diabetes,Medication and Counseling,18,no,southeast,Private,3168.0,3,No
+Kidney Stones,Epinephrine Injection,53,no,southeast,Gov,10436.41,2,No
+Fractured Arm,CT Scan and Medication,18,no,southeast,Private,2944.92,12,Yes
+Diabetes,Delivery and Postnatal Care,50,no,southeast,Gov,11459.48,4,No
+Appendicitis,Lithotripsy,18,no,northeast,Private,3049.02,2,No
+Kidney Stones,Cardiac Catheterization,19,no,northwest,Private,2442.71,5,No
+Fractured Leg,Insulin Therapy,62,no,southeast,Private,17851.45,3,No
+Childbirth,Lithotripsy,56,no,southwest,Private,16051.93,2,No
+Heart Disease,Delivery and Postnatal Care,42,no,southwest,Gov,7876.1,3,No
+Prostate Cancer,Physical Therapy and Pain Management,37,yes,northeast,Private,53690.02,2,No
+Stroke,Appendectomy,42,no,northwest,Gov,7630.53,4,No
+Fractured Leg,Surgery and Chemotherapy,25,yes,southwest,Private,47092.79,7,Yes
+Diabetes,Insulin Therapy,57,no,northeast,Private,15860.45,3,No
+Allergic Reaction,X-Ray and Splint,51,yes,southeast,Private,65261.48,2,No
+Osteoarthritis,Cast and Physical Therapy,30,no,northwest,Private,6224.88,3,No
+Fractured Leg,Insulin Therapy,44,yes,southwest,Gov,38998.55,1,No
+Diabetes,Surgery and Chemotherapy,34,yes,northwest,Gov,37818.21,7,Yes
+Diabetes,Angioplasty,31,no,southeast,Gov,7325.14,8,Yes
+Stroke,X-Ray and Splint,54,yes,southeast,Private,57749.34,3,No
+Allergic Reaction,Surgery and Chemotherapy,24,no,northwest,Private,29790.86,7,Yes
+Prostate Cancer,Delivery and Postnatal Care,43,yes,northeast,Gov,49241.07,5,No
+Heart Disease,X-Ray and Splint,48,no,northwest,Private,39144.76,3,No
+Prostate Cancer,Surgery and Chemotherapy,19,no,northwest,Private,5118.95,13,No
+Childbirth,Lithotripsy,29,no,southwest,Private,5029.93,4,No
+Stroke,Antibiotics and Rest,63,no,southeast,Private,18093.34,1,No
+Hypertension,Cardiac Catheterization,46,no,northeast,Private,19951.2,6,Yes
+Fractured Leg,Cast and Physical Therapy,52,no,northwest,Gov,26467.1,1,No
+Allergic Reaction,Radiation Therapy,35,no,southwest,Private,6526.22,2,No
+Respiratory Infection,Cardiac Catheterization,51,yes,northwest,Gov,35951.07,13,No
+Hypertension,Lithotripsy,44,no,northwest,Gov,8269.83,2,No
+Respiratory Infection,Physical Therapy and Pain Management,21,no,northeast,Gov,3279.87,1,No
+Appendicitis,Cardiac Catheterization,39,no,southeast,Private,22566.67,11,Yes
+Hypertension,Lithotripsy,50,no,southeast,Private,14716.13,2,No
+Heart Attack,Angioplasty,34,no,northeast,Private,13104.99,12,Yes
+Diabetes,Delivery and Postnatal Care,22,no,northwest,Gov,2780.6,2,No
+Osteoarthritis,Appendectomy,19,no,southwest,Private,2639.01,5,No
+Heart Disease,Surgery and Chemotherapy,26,no,southeast,Private,4354.92,11,No
+Diabetes,Cardiac Catheterization,29,yes,northeast,Private,30260.18,12,No
+Appendicitis,Antibiotics and Rest,48,no,southeast,Gov,7804.16,1,No
+Respiratory Infection,Appendectomy,26,no,southeast,Private,4354.36,5,No
+Appendicitis,Cardiac Catheterization,45,no,northeast,Private,22927.28,7,Yes
+Cancer,Surgery and Chemotherapy,36,no,southeast,Private,11550.35,8,Yes
+Heart Attack,CT Scan and Medication,54,no,northeast,Private,66982.42,11,Yes
+Stroke,Radiation Therapy,34,no,northeast,Gov,4950.37,3,No
+Kidney Stones,Cardiac Catheterization,31,yes,southwest,Private,45359.87,8,Yes
+Fractured Arm,Cast and Physical Therapy,27,no,northeast,Private,20995.51,1,No
+Childbirth,Appendectomy,20,no,northeast,Private,7372.59,4,No
+Heart Attack,Physical Therapy and Pain Management,44,no,southwest,Private,10483.87,2,No
+Kidney Stones,Antibiotics and Rest,43,no,northwest,Private,11563.81,2,No
+Fractured Arm,Delivery and Postnatal Care,45,no,northwest,Private,42510.28,4,No
+Allergic Reaction,Lithotripsy,34,no,northeast,Private,6778.24,5,No
+Diabetes,X-Ray and Splint,24,yes,northeast,Gov,16029.08,3,No
+Hypertension,X-Ray and Splint,26,no,southwest,Private,4646.0,2,No
+Kidney Stones,Insulin Therapy,38,no,northeast,Private,8931.08,1,No
+Heart Disease,Physical Therapy and Pain Management,50,no,southwest,Private,13912.83,2,No
+Respiratory Infection,Medication and Counseling,38,no,southeast,Private,7541.14,3,No
+Osteoarthritis,Medication and Counseling,27,yes,northwest,Private,22578.18,2,No
+Fractured Leg,Cast and Physical Therapy,39,no,northeast,Private,10981.4,2,No
+Stroke,Cast and Physical Therapy,39,no,southwest,Gov,8160.37,2,No
+Fractured Arm,Insulin Therapy,63,no,southeast,Private,19095.96,3,No
+Stroke,Physical Therapy and Pain Management,33,no,northeast,Gov,7206.93,2,No
+Childbirth,X-Ray and Splint,36,no,northwest,Private,6584.77,1,No
+Heart Attack,Radiation Therapy,30,yes,northwest,Private,21702.21,1,No
+Hypertension,Medication and Counseling,24,yes,southwest,Gov,37920.13,3,No
+Cancer,Insulin Therapy,24,no,southwest,Private,2712.81,2,No
+Appendicitis,Physical Therapy and Pain Management,48,no,southwest,Private,29194.25,2,No
+Fractured Leg,X-Ray and Splint,47,no,northeast,Private,10784.43,1,No
+Heart Attack,X-Ray and Splint,29,no,northwest,Gov,4876.73,2,No
+Respiratory Infection,Lithotripsy,28,no,northeast,Gov,4882.09,2,No
+Prostate Cancer,Epinephrine Injection,47,yes,northwest,Private,34258.43,2,No
+Cancer,Cast and Physical Therapy,25,no,northeast,Private,31957.03,3,No
+Osteoarthritis,Insulin Therapy,51,no,northeast,Private,13691.87,3,No
+Kidney Stones,Angioplasty,48,no,southwest,Gov,12403.57,12,No
+Respiratory Infection,CT Scan and Medication,43,yes,southeast,Private,31670.56,9,No
+Allergic Reaction,Antibiotics and Rest,61,no,southeast,Private,45725.35,1,No
+Appendicitis,Radiation Therapy,48,no,northwest,Private,10956.56,1,No
+Allergic Reaction,X-Ray and Splint,38,no,southwest,Private,7402.36,3,No
+Fractured Arm,Angioplasty,59,no,northwest,Private,28645.29,9,Yes
+Osteoarthritis,Angioplasty,19,no,northwest,Private,6400.59,9,Yes
+Hypertension,Epinephrine Injection,26,no,southwest,Private,4984.91,1,No
+Respiratory Infection,Appendectomy,54,no,northwest,Private,18742.94,4,No
+Allergic Reaction,Cardiac Catheterization,21,no,northwest,Private,48785.53,12,No
+Fractured Arm,X-Ray and Splint,51,no,southwest,Private,10998.24,1,No
+Heart Attack,Cast and Physical Therapy,22,yes,southeast,Private,48943.94,3,No
+Stroke,Delivery and Postnatal Care,47,yes,southeast,Gov,50653.37,4,No
+Cancer,Epinephrine Injection,18,no,southeast,Private,2352.66,2,No
+Respiratory Infection,Appendectomy,47,no,southeast,Private,12854.79,5,No
+Appendicitis,Cardiac Catheterization,21,no,southwest,Gov,3818.13,7,Yes
+Respiratory Infection,Epinephrine Injection,19,yes,northwest,Gov,16450.89,1,No
+Diabetes,Radiation Therapy,23,no,northwest,Gov,23754.92,2,No
+Childbirth,Radiation Therapy,54,no,southwest,Private,13544.34,2,No
+Heart Disease,Angioplasty,37,no,northeast,Gov,11555.01,5,Yes
+Fractured Leg,CT Scan and Medication,46,yes,northwest,Private,36580.42,8,No
+Childbirth,Cardiac Catheterization,55,yes,southeast,Private,93289.99,6,Yes
+Fractured Arm,X-Ray and Splint,30,no,northeast,Gov,4137.52,1,No
+Cancer,Cardiac Catheterization,18,yes,northeast,Private,32479.35,7,Yes
+Appendicitis,X-Ray and Splint,61,no,northwest,Gov,14245.08,2,No
+Fractured Arm,X-Ray and Splint,54,no,southwest,Gov,13303.93,2,No
+Diabetes,Appendectomy,22,yes,southeast,Private,51541.12,2,No
+Respiratory Infection,Radiation Therapy,45,yes,northwest,Private,54622.59,2,No
+Appendicitis,Insulin Therapy,22,no,northeast,Private,3094.9,2,No
+Kidney Stones,Medication and Counseling,19,no,northwest,Private,30928.78,3,No
+Respiratory Infection,Appendectomy,35,yes,northwest,Private,27822.93,3,No
+Appendicitis,X-Ray and Splint,18,no,northeast,Gov,1875.17,3,No
+Kidney Stones,X-Ray and Splint,20,yes,northeast,Private,46029.25,3,No
+Kidney Stones,Insulin Therapy,28,no,southwest,Gov,3477.6,2,No
+Diabetes,Delivery and Postnatal Care,55,no,northeast,Gov,13672.88,5,No
+Heart Disease,Angioplasty,43,yes,northwest,Private,57437.15,12,Yes
+Hypertension,Delivery and Postnatal Care,43,no,northeast,Gov,8057.55,2,No
+Respiratory Infection,Insulin Therapy,22,yes,southeast,Gov,48951.54,3,No
+Childbirth,Antibiotics and Rest,25,no,northwest,Private,4941.98,3,No
+Cancer,X-Ray and Splint,49,yes,southwest,Private,49659.52,1,No
+Heart Attack,Medication and Counseling,44,no,northwest,Gov,8825.45,2,No
+Allergic Reaction,Epinephrine Injection,64,no,northeast,Gov,14394.56,1,No
+Appendicitis,Antibiotics and Rest,49,no,northeast,Private,12771.04,2,No
+Osteoarthritis,Delivery and Postnatal Care,47,yes,southwest,Private,37964.23,4,No
+Prostate Cancer,Cardiac Catheterization,27,no,northwest,Gov,4527.18,7,No
+Fractured Arm,Delivery and Postnatal Care,55,no,northwest,Gov,11653.95,2,No
+Diabetes,Physical Therapy and Pain Management,48,no,southwest,Gov,8277.52,1,No
+Childbirth,Antibiotics and Rest,45,no,southeast,Private,24652.79,3,No
+Heart Attack,Antibiotics and Rest,24,no,southeast,Private,3101.22,1,No
+Heart Attack,X-Ray and Splint,32,no,northwest,Gov,4908.99,3,No
+Stroke,Delivery and Postnatal Care,24,no,southeast,Gov,2179.74,3,No
+Osteoarthritis,CT Scan and Medication,57,no,southeast,Private,17331.34,6,No
+Appendicitis,Delivery and Postnatal Care,59,yes,southeast,Private,67334.09,3,No
+Fractured Leg,Physical Therapy and Pain Management,36,no,northwest,Private,9003.77,2,No
+Childbirth,Lithotripsy,29,no,southwest,Gov,6850.64,4,No
+Appendicitis,Lithotripsy,42,no,southwest,Private,9687.56,3,No
+Prostate Cancer,Antibiotics and Rest,48,no,southeast,Private,11222.73,1,No
+Appendicitis,CT Scan and Medication,39,no,northeast,Gov,10881.51,7,Yes
+Diabetes,Cast and Physical Therapy,63,no,northwest,Gov,15784.84,3,No
+Cancer,Epinephrine Injection,54,no,southeast,Private,15027.17,2,No
+Kidney Stones,CT Scan and Medication,37,yes,southeast,Private,74759.45,11,No
+Respiratory Infection,Radiation Therapy,63,no,northeast,Gov,15371.9,3,No
+Childbirth,Lithotripsy,21,no,northwest,Private,2864.29,5,No
+Prostate Cancer,Medication and Counseling,54,no,northeast,Gov,12096.65,1,No
+Heart Disease,Physical Therapy and Pain Management,60,no,northeast,Private,18155.89,3,No
+Allergic Reaction,Lithotripsy,32,no,southeast,Private,6844.26,5,No
+Respiratory Infection,Radiation Therapy,47,no,southwest,Private,10689.18,1,No
+Cancer,Epinephrine Injection,21,no,northeast,Private,2890.61,2,No
+Fractured Leg,Lithotripsy,28,yes,southeast,Private,47674.2,2,No
+Allergic Reaction,Cardiac Catheterization,63,no,southeast,Private,35819.13,8,Yes
+Heart Attack,Cardiac Catheterization,18,no,southeast,Gov,19965.2,6,Yes
+Osteoarthritis,Antibiotics and Rest,32,no,northwest,Private,5568.0,1,No
+Fractured Leg,Lithotripsy,38,no,northwest,Private,8051.87,3,No
+Respiratory Infection,Surgery and Chemotherapy,32,no,southwest,Gov,4891.8,5,No
+Heart Disease,Cardiac Catheterization,62,no,northwest,Gov,28387.35,9,Yes
+Childbirth,Epinephrine Injection,39,yes,southwest,Private,23779.07,1,No
+Diabetes,Cardiac Catheterization,55,no,northeast,Private,16194.53,5,No
+Allergic Reaction,Antibiotics and Rest,57,no,northwest,Private,14191.53,1,No
+Kidney Stones,CT Scan and Medication,52,no,southeast,Gov,13161.03,10,No
+Childbirth,Angioplasty,56,no,southwest,Gov,15865.63,11,No
+Stroke,Physical Therapy and Pain Management,47,yes,southeast,Gov,45843.69,3,No
+Heart Attack,Antibiotics and Rest,55,no,northeast,Private,15518.99,2,No
+Diabetes,Antibiotics and Rest,23,no,southwest,Gov,3591.48,1,No
+Hypertension,Epinephrine Injection,22,yes,northwest,Gov,37298.3,3,No
+Heart Disease,Radiation Therapy,50,no,southwest,Gov,11299.34,1,No
+Respiratory Infection,Physical Therapy and Pain Management,18,no,northeast,Gov,4561.19,1,No
+Heart Disease,Antibiotics and Rest,51,yes,northeast,Private,61381.65,3,No
+Hypertension,Antibiotics and Rest,22,no,southeast,Private,2093.29,1,No
+Prostate Cancer,Epinephrine Injection,52,no,northeast,Private,31687.65,2,No
+Heart Disease,Surgery and Chemotherapy,25,no,southeast,Gov,6776.95,12,Yes
+Fractured Leg,Angioplasty,33,yes,northeast,Private,39634.02,7,Yes
+Hypertension,Epinephrine Injection,53,no,southwest,Private,15473.45,2,No
+Heart Attack,Epinephrine Injection,29,no,southeast,Gov,3818.55,3,No
+Diabetes,Delivery and Postnatal Care,58,no,southeast,Gov,12499.61,3,No
+Hypertension,Cast and Physical Therapy,37,no,southwest,Private,28078.33,3,No
+Appendicitis,Radiation Therapy,54,no,southeast,Gov,11372.82,3,No
+Hypertension,Cast and Physical Therapy,49,no,northwest,Private,12358.72,2,No
+Heart Disease,Angioplasty,50,no,northwest,Private,17708.53,7,No
+Allergic Reaction,Insulin Therapy,26,no,southwest,Private,3993.12,3,No
+Kidney Stones,Angioplasty,45,no,southeast,Private,22589.07,12,Yes
+Kidney Stones,CT Scan and Medication,54,no,northeast,Gov,15541.75,8,No
+Kidney Stones,Delivery and Postnatal Care,38,yes,southeast,Private,57680.21,3,No
+Kidney Stones,Antibiotics and Rest,48,yes,southeast,Private,33248.78,3,No
+Cancer,Appendectomy,28,no,northwest,Private,7968.25,5,No
+Allergic Reaction,Medication and Counseling,23,no,northeast,Private,3294.63,2,No
+Fractured Arm,Appendectomy,55,no,southeast,Private,16211.23,4,No
+Allergic Reaction,Epinephrine Injection,41,no,northeast,Gov,10144.64,2,No
+Fractured Arm,Insulin Therapy,25,yes,southeast,Private,49671.29,3,No
+Fractured Arm,Antibiotics and Rest,33,yes,southeast,Private,47853.44,1,No
+Fractured Leg,Insulin Therapy,30,no,northwest,Private,7116.79,1,No
+Allergic Reaction,X-Ray and Splint,23,yes,southwest,Private,46978.63,2,No
+Stroke,Epinephrine Injection,46,no,southeast,Gov,8347.16,1,No
+Childbirth,Surgery and Chemotherapy,53,yes,northwest,Gov,97989.03,12,Yes
+Fractured Leg,X-Ray and Splint,27,no,northeast,Private,25992.3,2,No
+Heart Disease,Delivery and Postnatal Care,23,yes,northeast,Gov,44994.62,2,No
+Fractured Leg,Appendectomy,63,no,northwest,Private,19600.09,2,No
+Osteoarthritis,Epinephrine Injection,55,no,southwest,Private,12768.3,1,No
+Fractured Arm,Surgery and Chemotherapy,35,no,southeast,Gov,8754.78,11,No
+Prostate Cancer,Epinephrine Injection,34,no,southwest,Private,19742.75,3,No
+Osteoarthritis,Antibiotics and Rest,19,no,southwest,Private,2161.12,1,No
+Prostate Cancer,Appendectomy,39,no,southeast,Gov,9440.53,2,No
+Childbirth,Delivery and Postnatal Care,27,no,southwest,Gov,4062.77,3,No
+Allergic Reaction,Radiation Therapy,57,no,northeast,Private,28474.9,3,No
+Prostate Cancer,Delivery and Postnatal Care,52,no,northwest,Private,13737.68,2,No
+Fractured Arm,CT Scan and Medication,28,no,northwest,Gov,29510.0,12,No
+Kidney Stones,CT Scan and Medication,50,no,northwest,Gov,23279.73,11,Yes
+Stroke,X-Ray and Splint,44,no,southwest,Private,10482.34,3,No
+Cancer,Medication and Counseling,26,no,northwest,Private,3970.36,1,No
+Heart Disease,CT Scan and Medication,33,no,southeast,Private,7779.14,6,Yes
+Childbirth,Epinephrine Injection,19,yes,northwest,Gov,40588.61,2,No
+Stroke,Epinephrine Injection,50,no,southeast,Private,12441.04,3,No
+Prostate Cancer,Cast and Physical Therapy,41,no,southwest,Gov,8749.97,3,No
+Respiratory Infection,X-Ray and Splint,52,no,southeast,Gov,29829.79,2,No
+Childbirth,Lithotripsy,39,no,southeast,Private,9507.11,5,No
+Respiratory Infection,Medication and Counseling,50,no,southwest,Private,12038.0,1,No
+Allergic Reaction,Epinephrine Injection,52,no,northwest,Gov,12418.02,3,No
+Stroke,Epinephrine Injection,60,yes,southwest,Gov,57849.91,3,No
+Appendicitis,Cast and Physical Therapy,20,no,northwest,Gov,2487.73,2,No
+Kidney Stones,Physical Therapy and Pain Management,55,no,southwest,Gov,11871.16,3,No
+Prostate Cancer,Insulin Therapy,42,no,southwest,Private,8222.13,2,No
+Respiratory Infection,Angioplasty,18,no,northeast,Private,4132.0,12,No
+Fractured Leg,Insulin Therapy,58,no,northwest,Private,16824.28,2,No
+Osteoarthritis,Lithotripsy,43,yes,southeast,Private,56294.27,3,No
+Allergic Reaction,Delivery and Postnatal Care,35,no,northwest,Private,8445.69,5,No
+Fractured Leg,Cardiac Catheterization,48,no,northwest,Private,20653.45,11,No
+Childbirth,Antibiotics and Rest,36,no,northeast,Private,9938.8,3,No
+Osteoarthritis,Angioplasty,19,yes,southeast,Private,74480.15,12,No
+Kidney Stones,Radiation Therapy,23,no,northwest,Private,18032.59,1,No
+Allergic Reaction,Appendectomy,20,no,northeast,Private,3382.12,3,No
+Stroke,Cast and Physical Therapy,32,no,southwest,Private,5486.03,2,No
+Stroke,X-Ray and Splint,43,no,northwest,Gov,8499.98,2,No
+Osteoarthritis,Radiation Therapy,34,no,southeast,Private,7045.76,3,No
+Fractured Arm,Appendectomy,30,no,southeast,Gov,20859.49,3,No
+Prostate Cancer,CT Scan and Medication,18,no,northeast,Private,4621.74,5,Yes
+Allergic Reaction,Insulin Therapy,41,no,northwest,Private,9836.14,3,No
+Stroke,Lithotripsy,35,no,northeast,Gov,6273.59,5,No
+Cancer,Cast and Physical Therapy,57,no,southeast,Private,13728.13,1,No
+Hypertension,Physical Therapy and Pain Management,29,no,southwest,Private,6228.03,2,No
+Prostate Cancer,Epinephrine Injection,32,no,southwest,Private,5838.3,1,No
+Kidney Stones,Angioplasty,37,no,northwest,Private,11460.66,13,No
+Allergic Reaction,Lithotripsy,18,yes,northeast,Private,25768.02,5,No
+Hypertension,Surgery and Chemotherapy,43,yes,southwest,Private,33717.9,6,No
+Stroke,X-Ray and Splint,56,no,southeast,Private,15253.73,3,No
+Respiratory Infection,Antibiotics and Rest,38,no,northwest,Private,8879.53,3,No
+Heart Attack,Medication and Counseling,29,no,northwest,Private,5542.39,1,No
+Stroke,Epinephrine Injection,22,no,southwest,Private,2962.25,2,No
+Stroke,X-Ray and Splint,52,yes,northwest,Gov,26276.43,3,No
+Fractured Leg,Radiation Therapy,40,no,southwest,Private,8933.22,2,No
+Fractured Leg,X-Ray and Splint,23,no,northeast,Private,3986.8,3,No
+Stroke,Angioplasty,31,yes,southeast,Gov,23220.44,5,No
+Childbirth,X-Ray and Splint,42,no,northeast,Private,9563.47,1,No
+Respiratory Infection,Cast and Physical Therapy,24,no,northwest,Private,3919.69,2,No
+Stroke,Physical Therapy and Pain Management,25,no,southwest,Gov,2632.99,1,No
+Hypertension,Physical Therapy and Pain Management,48,no,northeast,Private,11809.23,1,No
+Fractured Leg,X-Ray and Splint,23,yes,southeast,Private,25201.33,2,No
+Diabetes,Delivery and Postnatal Care,45,no,northeast,Gov,9464.21,2,No
+Prostate Cancer,Physical Therapy and Pain Management,20,yes,northwest,Gov,41211.88,3,No
+Appendicitis,Delivery and Postnatal Care,62,no,northwest,Private,19036.6,3,No
+Diabetes,Angioplasty,43,yes,northeast,Private,45719.82,6,Yes
+Fractured Arm,Delivery and Postnatal Care,23,no,southwest,Gov,14439.35,2,No
+Kidney Stones,X-Ray and Splint,31,no,northwest,Private,6659.25,1,No
+Diabetes,Epinephrine Injection,41,no,northeast,Private,18872.52,2,No
+Cancer,Cast and Physical Therapy,58,no,northeast,Gov,14321.08,3,No
+Heart Attack,Cardiac Catheterization,48,no,northwest,Private,22761.88,13,Yes
+Heart Attack,Physical Therapy and Pain Management,31,no,northwest,Gov,4547.49,2,No
+Heart Attack,Angioplasty,19,no,northwest,Gov,28258.06,13,No
+Fractured Arm,Physical Therapy and Pain Management,19,yes,northwest,Gov,36638.31,3,No
+Osteoarthritis,Cast and Physical Therapy,41,no,southeast,Private,7124.8,1,No
+Respiratory Infection,Epinephrine Injection,40,no,northwest,Private,7992.0,1,No
+Childbirth,Radiation Therapy,31,no,southwest,Private,6785.22,3,No
+Hypertension,Epinephrine Injection,37,no,northwest,Private,8523.28,3,No
+Osteoarthritis,Antibiotics and Rest,46,no,northwest,Private,12008.19,2,No
+Fractured Arm,Lithotripsy,22,no,northwest,Private,2826.07,2,No
+Kidney Stones,Epinephrine Injection,51,no,northeast,Gov,10960.47,3,No
+Childbirth,Delivery and Postnatal Care,18,yes,southeast,Private,25057.25,2,No
+Osteoarthritis,X-Ray and Splint,35,no,northwest,Private,7035.19,3,No
+Prostate Cancer,Appendectomy,59,no,southwest,Gov,40601.67,2,No
+Childbirth,Cardiac Catheterization,36,yes,southwest,Private,90756.56,10,Yes
+Heart Disease,Surgery and Chemotherapy,37,yes,northeast,Private,34250.96,9,No
+Osteoarthritis,Antibiotics and Rest,59,no,southwest,Gov,12347.17,1,No
+Diabetes,CT Scan and Medication,36,no,northwest,Private,14105.08,13,Yes
+Prostate Cancer,CT Scan and Medication,39,no,southeast,Private,39762.59,10,No
+Stroke,Epinephrine Injection,18,no,northeast,Private,2340.88,2,No
+Hypertension,Insulin Therapy,52,no,southwest,Private,14859.4,2,No
+Fractured Arm,Angioplasty,27,no,northwest,Private,6675.87,9,No
+Prostate Cancer,CT Scan and Medication,18,no,northeast,Private,27069.12,6,Yes
+Osteoarthritis,Delivery and Postnatal Care,40,no,southeast,Private,8123.49,5,No
+Cancer,Epinephrine Injection,29,no,southeast,Private,5579.91,2,No
+Childbirth,Antibiotics and Rest,46,yes,southwest,Private,57284.7,2,No
+Fractured Leg,Radiation Therapy,38,no,northwest,Private,10363.6,3,No
+Heart Disease,Antibiotics and Rest,30,no,northeast,Private,6487.53,2,No
+Heart Attack,CT Scan and Medication,40,no,southeast,Private,15577.16,10,Yes
+Fractured Leg,Physical Therapy and Pain Management,50,no,southeast,Private,11608.67,2,No
+Heart Disease,Lithotripsy,20,yes,southeast,Private,39188.51,4,No
+Heart Attack,Surgery and Chemotherapy,41,no,northeast,Gov,9258.95,7,No
+Diabetes,X-Ray and Splint,33,no,southeast,Private,5994.57,1,No
+Fractured Arm,X-Ray and Splint,38,no,northeast,Private,9130.75,3,No
+Appendicitis,Cast and Physical Therapy,42,no,southeast,Private,9847.77,3,No
+Diabetes,Angioplasty,56,no,southeast,Gov,14302.2,9,No
+Fractured Leg,Appendectomy,58,no,northeast,Gov,14325.91,4,No
+Heart Attack,CT Scan and Medication,52,yes,northwest,Private,157556.17,12,Yes
+Diabetes,Cast and Physical Therapy,20,yes,southwest,Gov,22184.07,3,No
+Allergic Reaction,Cast and Physical Therapy,54,no,northwest,Private,17159.6,2,No
+Osteoarthritis,Antibiotics and Rest,58,no,southwest,Private,15600.09,3,No
+Respiratory Infection,Angioplasty,45,no,southeast,Gov,10218.91,5,No
+Heart Attack,CT Scan and Medication,26,no,northwest,Private,5061.69,12,No
+Heart Attack,CT Scan and Medication,63,no,northeast,Gov,27310.22,10,Yes
+Stroke,Surgery and Chemotherapy,58,no,northwest,Private,22920.66,11,No
+Appendicitis,Lithotripsy,37,no,northeast,Private,9605.07,3,No
+Appendicitis,CT Scan and Medication,25,no,southeast,Private,5464.86,7,No
+Kidney Stones,Cardiac Catheterization,52,yes,southeast,Private,111675.03,9,Yes
+Appendicitis,Insulin Therapy,64,yes,southeast,Private,68169.29,2,No
+Stroke,Lithotripsy,22,no,northwest,Private,6444.41,4,No
+Prostate Cancer,Delivery and Postnatal Care,28,no,southeast,Private,4360.97,2,No
+Hypertension,X-Ray and Splint,18,no,southeast,Private,1561.92,3,No
+Fractured Arm,Surgery and Chemotherapy,28,no,southwest,Private,9475.94,10,No
+Respiratory Infection,Surgery and Chemotherapy,45,no,southwest,Gov,19113.78,12,Yes
+Stroke,Angioplasty,33,no,southwest,Gov,8179.88,9,No
+Prostate Cancer,Antibiotics and Rest,18,no,southeast,Private,2246.7,2,No
+Osteoarthritis,Appendectomy,32,yes,northeast,Private,56411.29,5,No
+Diabetes,Delivery and Postnatal Care,24,yes,northeast,Gov,22378.11,4,No
+Kidney Stones,Delivery and Postnatal Care,19,no,southwest,Private,1862.35,5,No
+Fractured Arm,Surgery and Chemotherapy,20,yes,southwest,Private,27392.93,8,No
+Hypertension,X-Ray and Splint,40,no,southwest,Private,19786.03,1,No
+Allergic Reaction,X-Ray and Splint,34,no,southeast,Private,6070.84,3,No
+Fractured Leg,Epinephrine Injection,42,no,southwest,Private,8901.77,3,No
+Fractured Arm,Epinephrine Injection,51,no,northwest,Gov,11436.74,1,No
+Diabetes,Medication and Counseling,54,no,northwest,Gov,12436.53,3,No
+Heart Attack,X-Ray and Splint,55,no,northwest,Private,41337.42,2,No
+Osteoarthritis,Radiation Therapy,52,no,northeast,Private,12747.22,1,No
+Childbirth,CT Scan and Medication,32,no,northeast,Private,11928.62,11,Yes
+Kidney Stones,Angioplasty,28,no,southwest,Private,8602.55,11,Yes
+Childbirth,Medication and Counseling,41,no,southeast,Private,8462.74,1,No
+Hypertension,Antibiotics and Rest,43,no,southwest,Private,10089.4,3,No
+Fractured Leg,Cast and Physical Therapy,49,no,northeast,Private,12963.64,1,No
+Heart Attack,Medication and Counseling,64,yes,southeast,Private,37023.96,3,No
+Appendicitis,Angioplasty,55,no,southwest,Private,25289.31,10,Yes
+Fractured Leg,Insulin Therapy,24,yes,northeast,Private,42817.57,1,No
+Childbirth,Delivery and Postnatal Care,20,no,southwest,Private,2820.73,5,No
+Hypertension,Surgery and Chemotherapy,45,no,southwest,Private,14538.32,10,No
+Prostate Cancer,Lithotripsy,26,no,northwest,Private,4527.23,2,No
+Stroke,Medication and Counseling,25,no,northwest,Private,4154.99,3,No
+Diabetes,Epinephrine Injection,43,no,southeast,Private,18097.91,1,No
+Osteoarthritis,CT Scan and Medication,35,no,southeast,Private,9968.81,6,Yes
+Fractured Leg,Surgery and Chemotherapy,26,yes,southeast,Private,28760.64,8,No
+Heart Disease,Cast and Physical Therapy,57,no,southwest,Gov,10959.33,1,No
+Heart Attack,Lithotripsy,22,no,northeast,Private,4112.92,4,No
+Kidney Stones,Delivery and Postnatal Care,32,no,northwest,Private,5990.94,3,No
+Respiratory Infection,Surgery and Chemotherapy,39,yes,northeast,Gov,42453.26,10,Yes
+Osteoarthritis,Cardiac Catheterization,25,no,northwest,Gov,8797.14,12,Yes
+Osteoarthritis,Insulin Therapy,48,no,southeast,Private,11390.06,2,No
+Kidney Stones,Appendectomy,47,yes,northwest,Private,36803.55,4,No
+Stroke,Delivery and Postnatal Care,18,yes,northeast,Gov,15711.81,3,No
+Kidney Stones,Epinephrine Injection,18,no,southeast,Gov,1720.35,1,No
+Kidney Stones,Epinephrine Injection,61,yes,southwest,Gov,47403.88,1,No
+Diabetes,Appendectomy,47,no,northeast,Private,12802.01,5,No
+Heart Disease,Epinephrine Injection,28,no,northeast,Private,5132.36,2,No
+Diabetes,Lithotripsy,36,no,southwest,Gov,6566.94,5,No
+Allergic Reaction,CT Scan and Medication,20,yes,southwest,Gov,80523.59,13,Yes
+Respiratory Infection,Angioplasty,44,no,southeast,Private,12061.36,10,No
+Childbirth,Angioplasty,38,no,northeast,Gov,13483.08,7,Yes
+Diabetes,Angioplasty,19,yes,southwest,Private,82282.7,7,Yes
+Heart Disease,Surgery and Chemotherapy,21,no,southeast,Private,3580.0,7,Yes
+Cancer,Insulin Therapy,46,no,northwest,Private,12790.1,3,No
+Osteoarthritis,Radiation Therapy,58,no,northeast,Gov,11931.13,1,No
+Childbirth,Antibiotics and Rest,20,no,southwest,Private,2455.97,1,No
+Prostate Cancer,Lithotripsy,18,no,northeast,Private,2563.39,4,No
+Appendicitis,Radiation Therapy,28,no,southeast,Private,5968.11,3,No
+Fractured Arm,Angioplasty,33,no,northwest,Private,8878.73,9,No
+Fractured Leg,Medication and Counseling,19,no,northwest,Gov,2981.91,3,No
+Prostate Cancer,Lithotripsy,45,yes,southeast,Private,93889.31,5,No
+Osteoarthritis,Lithotripsy,62,yes,northwest,Private,64237.47,2,No
+Heart Disease,Medication and Counseling,25,no,southwest,Private,4412.08,3,No
+Kidney Stones,Surgery and Chemotherapy,43,yes,southwest,Private,70930.73,12,No
+Allergic Reaction,Epinephrine Injection,42,yes,northeast,Private,26574.22,1,No
+Cancer,Cast and Physical Therapy,24,no,southeast,Private,3080.77,1,No
+Diabetes,Cast and Physical Therapy,29,yes,northeast,Gov,16115.3,1,No
+Appendicitis,CT Scan and Medication,32,yes,northwest,Private,36234.81,10,No
+Fractured Leg,Appendectomy,25,yes,southwest,Private,50850.98,4,No
+Kidney Stones,Antibiotics and Rest,41,no,southwest,Private,9454.45,2,No
+Heart Attack,Appendectomy,42,no,northwest,Private,10411.36,5,No
+Appendicitis,X-Ray and Splint,33,no,northwest,Gov,4571.41,1,No
+Stroke,Surgery and Chemotherapy,34,no,southwest,Private,9526.14,6,Yes
+Fractured Arm,Epinephrine Injection,19,yes,southwest,Private,45496.97,1,No
+Cancer,Insulin Therapy,30,yes,northwest,Private,25803.08,2,No
+Fractured Arm,Lithotripsy,18,no,northeast,Private,16908.5,5,No
+Fractured Arm,Medication and Counseling,19,no,southwest,Private,2381.06,2,No
+Heart Disease,Appendectomy,18,no,southeast,Private,1745.19,5,No
+Respiratory Infection,Radiation Therapy,35,no,northeast,Private,26807.99,3,No
+Stroke,Surgery and Chemotherapy,39,no,northwest,Private,12152.87,8,No
+Hypertension,Angioplasty,31,no,northwest,Private,14240.69,11,Yes
+Stroke,Insulin Therapy,62,yes,northeast,Private,38639.33,2,No
+Heart Attack,Medication and Counseling,62,no,southeast,Private,17849.35,3,No
+Heart Disease,Antibiotics and Rest,42,yes,southeast,Gov,48286.01,3,No
+Osteoarthritis,Radiation Therapy,31,no,northwest,Private,5829.85,2,No
+Kidney Stones,Cast and Physical Therapy,61,no,northeast,Private,18072.09,3,No
+Heart Attack,Insulin Therapy,42,no,northeast,Gov,7755.02,3,No
+Respiratory Infection,Radiation Therapy,51,no,southeast,Gov,9377.9,1,No
+Prostate Cancer,Radiation Therapy,23,no,northeast,Gov,24635.32,3,No
+Prostate Cancer,Surgery and Chemotherapy,52,no,southwest,Private,24393.3,7,Yes
+Fractured Arm,Physical Therapy and Pain Management,57,no,southeast,Private,17365.1,3,No
+Prostate Cancer,CT Scan and Medication,23,no,southwest,Private,16193.91,6,No
+Appendicitis,Radiation Therapy,52,no,southwest,Private,15691.07,2,No
+Stroke,Radiation Therapy,50,no,northwest,Private,14575.75,3,No
+Stroke,Physical Therapy and Pain Management,18,no,northeast,Gov,2426.58,3,No
+Respiratory Infection,Physical Therapy and Pain Management,18,no,southeast,Gov,1629.83,1,No
+Allergic Reaction,Medication and Counseling,21,no,southwest,Gov,2208.74,2,No
+Childbirth,Appendectomy,61,yes,northwest,Gov,34969.63,5,No
